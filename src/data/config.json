@@ -1,0 +1,47 @@
+{
+  "formula_version": "v1.0",
+  "formula_date": "2026-08",
+  "tournament_levels": {
+    "S": { "score": 100, "label": "S级", "description": "奥运会、世锦赛、世界杯" },
+    "A+": { "score": 85, "label": "A+级", "description": "WTT大满贯、WTT总决赛、全运会" },
+    "A": { "score": 70, "label": "A级", "description": "亚运会、亚锦赛、全国锦标赛" },
+    "B": { "score": 45, "label": "B级", "description": "WTT冠军赛、公开赛、巡回赛" },
+    "C": { "score": 20, "label": "C级", "description": "其他正式赛事" }
+  },
+  "medal_weights": {
+    "gold": 10,
+    "silver": 6,
+    "bronze": 3
+  },
+  "event_weights": {
+    "MEN_SINGLES": 1.5,
+    "WOMEN_SINGLES": 1.5,
+    "MIXED_DOUBLES": 1.2,
+    "MEN_DOUBLES": 1.0,
+    "WOMEN_DOUBLES": 1.0,
+    "MEN_TEAM": 0.6,
+    "WOMEN_TEAM": 0.6
+  },
+  "ranking_coefficients": {
+    "1": 1.0,
+    "2": 0.6,
+    "3": 0.3,
+    "4-8": 0.1,
+    "9-16": 0.05,
+    "17-32": 0.02
+  },
+  "dominance_weights": {
+    "career_win_rate": 0.4,
+    "china_internal_win_rate": 0.4,
+    "elite_win_rate": 0.2
+  },
+  "round_labels": {
+    "R128": "128强",
+    "R64": "64强",
+    "R32": "32强",
+    "R16": "16强",
+    "QF": "1/4决赛",
+    "SF": "半决赛",
+    "FINAL": "决赛"
+  }
+}
