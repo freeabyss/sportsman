@@ -69,25 +69,11 @@ export function getTournament(id) {
 
 /**
  * 获取单个赛事项目（附加 competition_type 关联信息）
- * 世乒赛团体项目关联「世乒赛团体」，其余按赛事 type 关联
  */
 export function getEvent(id) {
   const event = getEvents().find(e => e.id === id)
   if (!event) return null
-  return { ...event, competition_type: getEventCompetitionType(event) }
-}
-
-/**
- * 获取赛事项目的关联赛事类型
- */
-export function getEventCompetitionType(event) {
-  const tournament = getTournament(event.tournament_id)
-  if (!tournament) return null
-  const isTeam = event.code === 'MEN_TEAM' || event.code === 'WOMEN_TEAM'
-  if (tournament.type === 'world_championships' && isTeam) {
-    return getCompetitionType('world_team_championships')
-  }
-  return getCompetitionType(tournament.type)
+  return { ...event, competition_type: getTournament(event.tournament_id)?.competition_type || null }
 }
 
 /**

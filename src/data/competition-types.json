@@ -15,9 +15,9 @@
     "rank": 2,
     "name": "世界乒乓球锦标赛",
     "short_name": "世乒赛",
-    "cycle": "2年（单项）",
-    "projects": ["男单", "女单", "男双", "女双", "混双"],
-    "description": "传统最悠久，世界冠军含金量极高，1926年创办"
+    "cycle": "2年",
+    "projects": ["男单", "女单", "男双", "女双", "混双", "男团", "女团"],
+    "description": "传统最悠久，世界冠军含金量极高，1926年创办，含单项与团体"
   },
   {
     "id": "world_cup",
@@ -30,19 +30,9 @@
     "description": "过去属于三大赛之一，冠军价值很高"
   },
   {
-    "id": "world_team_championships",
-    "type": "world_team_championships",
-    "rank": 4,
-    "name": "世界乒乓球团体锦标赛",
-    "short_name": "世乒赛团体",
-    "cycle": "2年",
-    "projects": ["男团", "女团"],
-    "description": "国家荣誉最高，类似足球世界杯国家队比赛"
-  },
-  {
     "id": "wtt_grand_smash",
     "type": "wtt_grand_smash",
-    "rank": 5,
+    "rank": 4,
     "name": "WTT大满贯赛",
     "short_name": "WTT大满贯",
     "cycle": "年度多站",
@@ -52,7 +42,7 @@
   {
     "id": "asian_games",
     "type": "asian_games",
-    "rank": 6,
+    "rank": 5,
     "name": "亚运会乒乓球比赛",
     "short_name": "亚运会",
     "cycle": "4年",
@@ -62,7 +52,7 @@
   {
     "id": "national_games",
     "type": "national_games",
-    "rank": 7,
+    "rank": 6,
     "name": "全运会乒乓球比赛",
     "short_name": "全国运动会",
     "cycle": "4年",
@@ -72,7 +62,7 @@
   {
     "id": "asian_championships",
     "type": "asian_championships",
-    "rank": 8,
+    "rank": 7,
     "name": "亚洲乒乓球锦标赛",
     "short_name": "亚锦赛",
     "cycle": "不固定",
@@ -82,7 +72,7 @@
   {
     "id": "wtt_finals",
     "type": "wtt_finals",
-    "rank": 9,
+    "rank": 8,
     "name": "WTT总决赛",
     "short_name": "WTT总决赛",
     "cycle": "年度",
@@ -92,7 +82,7 @@
   {
     "id": "wtt_champions",
     "type": "wtt_champions",
-    "rank": 10,
+    "rank": 9,
     "name": "世界巡回赛/WTT冠军赛",
     "short_name": "WTT冠军赛",
     "cycle": "年度多站",
@@ -102,7 +92,7 @@
   {
     "id": "csl",
     "type": "csl",
-    "rank": 11,
+    "rank": 10,
     "name": "中国乒乓球超级联赛",
     "short_name": "乒超联赛",
     "cycle": "每年",
@@ -112,7 +102,7 @@
   {
     "id": "national_championships",
     "type": "national_championships",
-    "rank": 12,
+    "rank": 11,
     "name": "全国锦标赛",
     "short_name": "全国乒乓球锦标赛",
     "cycle": "每年",

@@ -229,8 +229,7 @@ const typeLabels = {
   asian_championships: '亚洲锦标赛',
   national_championships: '全国锦标赛',
   wtt_champions: 'WTT冠军赛',
-  csl: '乒超联赛',
-  world_team_championships: '世乒赛团体'
+  csl: '乒超联赛'
 }
 
 const chineseMedalCount = computed(() => {
