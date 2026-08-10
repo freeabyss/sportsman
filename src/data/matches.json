@@ -4,8 +4,14 @@
     "event_id": "2024-paris-olympics-ms",
     "round": "FINAL",
     "date": "2024-08-04",
-    "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "truls-moregard", "country": "SWE" },
+    "player_a": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "truls-moregard",
+      "country": "SWE"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-7, 11-9, 9-11, 11-8, 11-6",
@@ -16,8 +22,14 @@
     "event_id": "2024-paris-olympics-ms",
     "round": "SF",
     "date": "2024-08-02",
-    "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "felix-lebrun", "country": "FRA" },
+    "player_a": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "felix-lebrun",
+      "country": "FRA"
+    },
     "score_a": 4,
     "score_b": 0,
     "set_scores": "11-8, 11-6, 11-7, 11-5",
@@ -28,8 +40,14 @@
     "event_id": "2024-paris-olympics-ms",
     "round": "R16",
     "date": "2024-07-31",
-    "player_a": { "athlete_id": "wang-chuqin", "country": "CHN" },
-    "player_b": { "athlete_id": "truls-moregard", "country": "SWE" },
+    "player_a": {
+      "athlete_id": "wang-chuqin",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "truls-moregard",
+      "country": "SWE"
+    },
     "score_a": 2,
     "score_b": 4,
     "set_scores": "10-12, 7-11, 11-5, 11-7, 9-11, 6-11",
@@ -40,8 +58,14 @@
     "event_id": "2024-paris-olympics-ws",
     "round": "FINAL",
     "date": "2024-08-03",
-    "player_a": { "athlete_id": "chen-meng", "country": "CHN" },
-    "player_b": { "athlete_id": "sun-yingsha", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "chen-meng",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "sun-yingsha",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "4-11, 11-7, 11-4, 9-11, 11-9, 11-6",
@@ -52,8 +76,14 @@
     "event_id": "2020-tokyo-olympics-ms",
     "round": "FINAL",
     "date": "2021-07-30",
-    "player_a": { "athlete_id": "ma-long", "country": "CHN" },
-    "player_b": { "athlete_id": "fan-zhendong", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "ma-long",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "11-4, 10-12, 11-8, 11-9, 3-11, 11-7",
@@ -64,8 +94,14 @@
     "event_id": "2020-tokyo-olympics-ws",
     "round": "FINAL",
     "date": "2021-07-29",
-    "player_a": { "athlete_id": "chen-meng", "country": "CHN" },
-    "player_b": { "athlete_id": "sun-yingsha", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "chen-meng",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "sun-yingsha",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "11-9, 11-6, 11-4, 5-11, 4-11, 11-9",
@@ -76,8 +112,14 @@
     "event_id": "2016-rio-olympics-ms",
     "round": "FINAL",
     "date": "2016-08-11",
-    "player_a": { "athlete_id": "ma-long", "country": "CHN" },
-    "player_b": { "athlete_id": "zhang-jike", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "ma-long",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "zhang-jike",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 0,
     "set_scores": "14-12, 11-5, 11-4, 11-4",
@@ -88,8 +130,14 @@
     "event_id": "2016-rio-olympics-ws",
     "round": "FINAL",
     "date": "2016-08-10",
-    "player_a": { "athlete_id": "ding-ning", "country": "CHN" },
-    "player_b": { "athlete_id": "li-xiaoxia", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "ding-ning",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "li-xiaoxia",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 3,
     "set_scores": "11-9, 5-11, 14-12, 9-11, 8-11, 11-7, 11-7",
@@ -100,8 +148,14 @@
     "event_id": "2012-london-olympics-ms",
     "round": "FINAL",
     "date": "2012-08-02",
-    "player_a": { "athlete_id": "zhang-jike", "country": "CHN" },
-    "player_b": { "athlete_id": "wang-hao", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "zhang-jike",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "wang-hao",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "18-16, 11-5, 11-6, 10-12, 13-11",
@@ -112,8 +166,14 @@
     "event_id": "2012-london-olympics-ws",
     "round": "FINAL",
     "date": "2012-08-01",
-    "player_a": { "athlete_id": "li-xiaoxia", "country": "CHN" },
-    "player_b": { "athlete_id": "ding-ning", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "li-xiaoxia",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "ding-ning",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-8, 14-12, 8-11, 11-6, 11-4",
@@ -124,8 +184,14 @@
     "event_id": "2008-beijing-olympics-ws",
     "round": "FINAL",
     "date": "2008-08-22",
-    "player_a": { "athlete_id": "zhang-yining", "country": "CHN" },
-    "player_b": { "athlete_id": "wang-nan", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "zhang-yining",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "wang-nan",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "8-11, 13-11, 11-8, 11-8, 11-3",
@@ -136,8 +202,14 @@
     "event_id": "2008-beijing-olympics-ms",
     "round": "FINAL",
     "date": "2008-08-23",
-    "player_a": { "athlete_id": "ma-lin", "country": "CHN" },
-    "player_b": { "athlete_id": "wang-hao", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "ma-lin",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "wang-hao",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-9, 11-9, 6-11, 11-7, 11-9",
@@ -148,8 +220,14 @@
     "event_id": "2023-world-championships-ms",
     "round": "FINAL",
     "date": "2023-05-28",
-    "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "wang-chuqin", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "wang-chuqin",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "8-11, 11-9, 11-7, 12-10, 11-13, 11-3",
@@ -160,8 +238,14 @@
     "event_id": "2023-world-championships-ws",
     "round": "FINAL",
     "date": "2023-05-28",
-    "player_a": { "athlete_id": "sun-yingsha", "country": "CHN" },
-    "player_b": { "athlete_id": "chen-meng", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "sun-yingsha",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "chen-meng",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "5-11, 11-8, 11-7, 11-7, 7-11, 11-6",
@@ -172,8 +256,14 @@
     "event_id": "2021-world-championships-ms",
     "round": "FINAL",
     "date": "2021-11-29",
-    "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "truls-moregard", "country": "SWE" },
+    "player_a": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "truls-moregard",
+      "country": "SWE"
+    },
     "score_a": 4,
     "score_b": 0,
     "set_scores": "11-6, 11-9, 11-7, 11-8",
@@ -184,8 +274,14 @@
     "event_id": "2021-world-championships-ws",
     "round": "FINAL",
     "date": "2021-11-29",
-    "player_a": { "athlete_id": "wang-manyu", "country": "CHN" },
-    "player_b": { "athlete_id": "sun-yingsha", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "wang-manyu",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "sun-yingsha",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "11-13, 11-7, 6-11, 11-6, 11-8, 17-15",
@@ -196,8 +292,14 @@
     "event_id": "2019-world-championships-ms",
     "round": "FINAL",
     "date": "2019-04-28",
-    "player_a": { "athlete_id": "ma-long", "country": "CHN" },
-    "player_b": { "athlete_id": "falk", "country": "SWE" },
+    "player_a": {
+      "athlete_id": "ma-long",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "falk",
+      "country": "SWE"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-5, 11-7, 7-11, 11-9, 11-5",
@@ -208,8 +310,14 @@
     "event_id": "2019-world-championships-ws",
     "round": "FINAL",
     "date": "2019-04-27",
-    "player_a": { "athlete_id": "liu-shiwen", "country": "CHN" },
-    "player_b": { "athlete_id": "chen-meng", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "liu-shiwen",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "chen-meng",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "9-11, 11-7, 11-7, 7-11, 11-0, 11-9",
@@ -220,8 +328,14 @@
     "event_id": "2017-world-championships-ms",
     "round": "FINAL",
     "date": "2017-06-05",
-    "player_a": { "athlete_id": "ma-long", "country": "CHN" },
-    "player_b": { "athlete_id": "fan-zhendong", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "ma-long",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 3,
     "set_scores": "7-11, 11-6, 11-3, 11-8, 5-11, 7-11, 12-10",
@@ -232,32 +346,32 @@
     "event_id": "2017-world-championships-ws",
     "round": "FINAL",
     "date": "2017-06-04",
-    "player_a": { "athlete_id": "ding-ning", "country": "CHN" },
-    "player_b": { "athlete_id": "zhu-yuling", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "ding-ning",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "zhu-yuling",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "11-4, 9-11, 4-11, 12-10, 11-6, 11-7",
     "winner_id": "ding-ning"
   },
   {
-    "id": "match-2015-wc-ms-final",
-    "event_id": "2015-world-championships-ms",
-    "round": "FINAL",
-    "date": "2015-05-03",
-    "player_a": { "athlete_id": "ma-long", "country": "CHN" },
-    "player_b": { "athlete_id": "fang-bo", "country": "CHN" },
-    "score_a": 4,
-    "score_b": 2,
-    "set_scores": "11-7, 7-11, 11-4, 11-5, 11-13, 11-4",
-    "winner_id": "ma-long"
-  },
-  {
     "id": "match-2015-wc-ws-final",
     "event_id": "2015-world-championships-ws",
     "round": "FINAL",
     "date": "2015-05-02",
-    "player_a": { "athlete_id": "ding-ning", "country": "CHN" },
-    "player_b": { "athlete_id": "liu-shiwen", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "ding-ning",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "liu-shiwen",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 3,
     "set_scores": "11-7, 12-14, 7-11, 7-11, 11-9, 11-4, 11-8",
@@ -268,8 +382,14 @@
     "event_id": "2024-wtt-grand-smash-singapore-ms",
     "round": "FINAL",
     "date": "2024-03-17",
-    "player_a": { "athlete_id": "wang-chuqin", "country": "CHN" },
-    "player_b": { "athlete_id": "liang-jingkun", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "wang-chuqin",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "liang-jingkun",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-6, 11-8, 13-11, 9-11, 11-6",
@@ -280,8 +400,14 @@
     "event_id": "2024-wtt-grand-smash-singapore-ws",
     "round": "FINAL",
     "date": "2024-03-17",
-    "player_a": { "athlete_id": "wang-manyu", "country": "CHN" },
-    "player_b": { "athlete_id": "wang-yidi", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "wang-manyu",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "wang-yidi",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-8, 5-11, 11-4, 11-7, 11-8",
@@ -292,8 +418,14 @@
     "event_id": "2023-wtt-grand-smash-singapore-ms",
     "round": "FINAL",
     "date": "2023-03-19",
-    "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "ma-long", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "ma-long",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-5, 13-11, 8-11, 11-9, 11-9",
@@ -304,8 +436,14 @@
     "event_id": "2023-wtt-finals-ms",
     "round": "FINAL",
     "date": "2023-12-17",
-    "player_a": { "athlete_id": "wang-chuqin", "country": "CHN" },
-    "player_b": { "athlete_id": "fan-zhendong", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "wang-chuqin",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 0,
     "set_scores": "11-8, 11-9, 12-10, 11-7",
@@ -316,8 +454,14 @@
     "event_id": "2023-wtt-finals-ws",
     "round": "FINAL",
     "date": "2023-12-17",
-    "player_a": { "athlete_id": "sun-yingsha", "country": "CHN" },
-    "player_b": { "athlete_id": "wang-yidi", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "sun-yingsha",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "wang-yidi",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "12-10, 11-6, 8-11, 5-11, 11-6, 11-7",
@@ -328,8 +472,14 @@
     "event_id": "2020-world-cup-ms",
     "round": "FINAL",
     "date": "2020-11-15",
-    "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "ma-long", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "ma-long",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 3,
     "set_scores": "3-11, 11-8, 11-3, 11-6, 7-11, 7-11, 11-9",
@@ -340,8 +490,14 @@
     "event_id": "2020-world-cup-ws",
     "round": "FINAL",
     "date": "2020-11-10",
-    "player_a": { "athlete_id": "chen-meng", "country": "CHN" },
-    "player_b": { "athlete_id": "sun-yingsha", "country": "CHN" },
+    "player_a": {
+      "athlete_id": "chen-meng",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "sun-yingsha",
+      "country": "CHN"
+    },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-13, 11-6, 11-9, 11-6, 11-8",
@@ -352,8 +508,14 @@
     "event_id": "2019-world-cup-ms",
     "round": "FINAL",
     "date": "2019-12-01",
-    "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "harimoto", "country": "JPN" },
+    "player_a": {
+      "athlete_id": "fan-zhendong",
+      "country": "CHN"
+    },
+    "player_b": {
+      "athlete_id": "harimoto",
+      "country": "JPN"
+    },
     "score_a": 4,
     "score_b": 2,
     "set_scores": "9-11, 4-11, 11-6, 11-8, 11-2, 11-7",
