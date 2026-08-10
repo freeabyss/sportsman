@@ -7,7 +7,7 @@
     "weight": 1.5,
     "results": [
       { "athlete_id": "fan-zhendong", "rank": 1, "medal": "gold" },
-      { "athlete_id": "moregard", "rank": 2, "medal": "silver" },
+      { "athlete_id": "truls-moregard", "rank": 2, "medal": "silver" },
       { "athlete_id": "felix-lebrun", "rank": 3, "medal": "bronze" },
       { "athlete_id": "hugo-calderano", "rank": 3, "medal": "bronze" },
       { "athlete_id": "wang-chuqin", "rank": 9, "medal": null },
@@ -1037,6 +1037,365 @@
       { "athlete_id": "sun-yingsha", "rank": 1, "medal": "gold" },
       { "athlete_id": "chen-meng", "rank": 1, "medal": "gold" },
       { "athlete_id": "wang-manyu", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "1992-barcelona-olympics-ms",
+    "tournament_id": "1992-barcelona-olympics",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      { "athlete_id": "waldner", "rank": 1, "medal": "gold" },
+      { "athlete_id": "gatien", "rank": 2, "medal": "silver" },
+      { "athlete_id": "ma-wenge", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "kim-taek-soo", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "1992-barcelona-olympics-md",
+    "tournament_id": "1992-barcelona-olympics",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "wang-tao", "rank": 1, "medal": "gold" },
+      { "athlete_id": "lu-lin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "rosskopf", "rank": 2, "medal": "silver" },
+      { "athlete_id": "fetzner", "rank": 2, "medal": "silver" },
+      { "athlete_id": "kim-ki-taek", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "kang-hee-chan", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "1996-atlanta-olympics-ms",
+    "tournament_id": "1996-atlanta-olympics",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      { "athlete_id": "liu-guoliang", "rank": 1, "medal": "gold" },
+      { "athlete_id": "wang-tao", "rank": 2, "medal": "silver" },
+      { "athlete_id": "rosskopf", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "korbel", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "1996-atlanta-olympics-md",
+    "tournament_id": "1996-atlanta-olympics",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "kong-linghui", "rank": 1, "medal": "gold" },
+      { "athlete_id": "liu-guoliang", "rank": 1, "medal": "gold" },
+      { "athlete_id": "lu-lin", "rank": 2, "medal": "silver" },
+      { "athlete_id": "wang-tao", "rank": 2, "medal": "silver" },
+      { "athlete_id": "lee-chul-seung", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "yoo-nam-kyu", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2000-sydney-olympics-md",
+    "tournament_id": "2000-sydney-olympics",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "wang-liqin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "yan-sen", "rank": 1, "medal": "gold" },
+      { "athlete_id": "kong-linghui", "rank": 2, "medal": "silver" },
+      { "athlete_id": "liu-guoliang", "rank": 2, "medal": "silver" },
+      { "athlete_id": "chila", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "gatien", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2004-athens-olympics-md",
+    "tournament_id": "2004-athens-olympics",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "chen-qi", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ma-lin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ko-lai-chak", "rank": 2, "medal": "silver" },
+      { "athlete_id": "li-ching", "rank": 2, "medal": "silver" },
+      { "athlete_id": "maze", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "tugwell", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2023-world-championships-wd",
+    "tournament_id": "2023-world-championships",
+    "name": "女子双打",
+    "code": "WOMEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "chen-meng", "rank": 1, "medal": "gold" },
+      { "athlete_id": "wang-yidi", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2021-world-championships-md",
+    "tournament_id": "2021-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "wang-chuqin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "fan-zhendong", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2021-world-championships-wd",
+    "tournament_id": "2021-world-championships",
+    "name": "女子双打",
+    "code": "WOMEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "sun-yingsha", "rank": 1, "medal": "gold" },
+      { "athlete_id": "wang-manyu", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2019-world-championships-md",
+    "tournament_id": "2019-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "ma-long", "rank": 1, "medal": "gold" },
+      { "athlete_id": "wang-chuqin", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2019-world-championships-wd",
+    "tournament_id": "2019-world-championships",
+    "name": "女子双打",
+    "code": "WOMEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "sun-yingsha", "rank": 1, "medal": "gold" },
+      { "athlete_id": "wang-manyu", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2017-world-championships-md",
+    "tournament_id": "2017-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "xu-xin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "fan-zhendong", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2017-world-championships-wd",
+    "tournament_id": "2017-world-championships",
+    "name": "女子双打",
+    "code": "WOMEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "ding-ning", "rank": 1, "medal": "gold" },
+      { "athlete_id": "liu-shiwen", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2015-world-championships-xd",
+    "tournament_id": "2015-world-championships",
+    "name": "混合双打",
+    "code": "MIXED_DOUBLES",
+    "weight": 1.2,
+    "results": [
+      { "athlete_id": "xu-xin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "liu-shiwen", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2015-world-championships-wd",
+    "tournament_id": "2015-world-championships",
+    "name": "女子双打",
+    "code": "WOMEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "liu-shiwen", "rank": 1, "medal": "gold" },
+      { "athlete_id": "zhu-yuling", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2013-world-championships-md",
+    "tournament_id": "2013-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "wang-hao", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ma-long", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2013-world-championships-xd",
+    "tournament_id": "2013-world-championships",
+    "name": "混合双打",
+    "code": "MIXED_DOUBLES",
+    "weight": 1.2,
+    "results": [
+      { "athlete_id": "xu-xin", "rank": 2, "medal": "silver" },
+      { "athlete_id": "liu-shiwen", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2011-world-championships-md",
+    "tournament_id": "2011-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "ma-long", "rank": 1, "medal": "gold" },
+      { "athlete_id": "xu-xin", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2011-world-championships-xd",
+    "tournament_id": "2011-world-championships",
+    "name": "混合双打",
+    "code": "MIXED_DOUBLES",
+    "weight": 1.2,
+    "results": [
+      { "athlete_id": "zhang-jike", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ma-long", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2009-world-championships-md",
+    "tournament_id": "2009-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "wang-hao", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ma-long", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2009-world-championships-xd",
+    "tournament_id": "2009-world-championships",
+    "name": "混合双打",
+    "code": "MIXED_DOUBLES",
+    "weight": 1.2,
+    "results": [
+      { "athlete_id": "li-xiaoxia", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2007-world-championships-md",
+    "tournament_id": "2007-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "wang-liqin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ma-lin", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2007-world-championships-xd",
+    "tournament_id": "2007-world-championships",
+    "name": "混合双打",
+    "code": "MIXED_DOUBLES",
+    "weight": 1.2,
+    "results": [
+      { "athlete_id": "wang-liqin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "guo-yue", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2005-world-championships-md",
+    "tournament_id": "2005-world-championships",
+    "name": "男子双打",
+    "code": "MEN_DOUBLES",
+    "weight": 1.0,
+    "results": [
+      { "athlete_id": "wang-liqin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ma-lin", "rank": 2, "medal": "silver" }
+    ]
+  },
+  {
+    "id": "2005-world-championships-xd",
+    "tournament_id": "2005-world-championships",
+    "name": "混合双打",
+    "code": "MIXED_DOUBLES",
+    "weight": 1.2,
+    "results": [
+      { "athlete_id": "wang-liqin", "rank": 1, "medal": "gold" },
+      { "athlete_id": "guo-yue", "rank": 1, "medal": "gold" }
+    ]
+  },
+  {
+    "id": "2018-world-cup-ms",
+    "tournament_id": "2018-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      { "athlete_id": "fan-zhendong", "rank": 1, "medal": "gold" },
+      { "athlete_id": "harimoto", "rank": 2, "medal": "silver" },
+      { "athlete_id": "ma-long", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "boll", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2018-world-cup-ws-ms",
+    "tournament_id": "2018-world-cup-ws",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      { "athlete_id": "ding-ning", "rank": 1, "medal": "gold" },
+      { "athlete_id": "zhu-yuling", "rank": 2, "medal": "silver" },
+      { "athlete_id": "kasumi-ishikawa", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "cheng-i-ching", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2017-world-cup-ms",
+    "tournament_id": "2017-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      { "athlete_id": "ma-long", "rank": 1, "medal": "gold" },
+      { "athlete_id": "fan-zhendong", "rank": 2, "medal": "silver" },
+      { "athlete_id": "boll", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "lin-gaoyuan", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2016-world-cup-ms",
+    "tournament_id": "2016-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      { "athlete_id": "fan-zhendong", "rank": 1, "medal": "gold" },
+      { "athlete_id": "xu-xin", "rank": 2, "medal": "silver" },
+      { "athlete_id": "ma-long", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "harimoto", "rank": 3, "medal": "bronze" }
+    ]
+  },
+  {
+    "id": "2014-world-cup-ms",
+    "tournament_id": "2014-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      { "athlete_id": "zhang-jike", "rank": 1, "medal": "gold" },
+      { "athlete_id": "ma-long", "rank": 2, "medal": "silver" },
+      { "athlete_id": "boll", "rank": 3, "medal": "bronze" },
+      { "athlete_id": "mizutani", "rank": 3, "medal": "bronze" }
     ]
   }
 ]

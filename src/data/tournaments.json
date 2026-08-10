@@ -394,5 +394,65 @@
     "location": "扬州",
     "edition": "2023",
     "participant_count": 300
+  },
+  {
+    "id": "2018-world-cup",
+    "name": "乒乓球世界杯",
+    "type": "world_cup",
+    "level": "S",
+    "year": 2018,
+    "start_date": "2018-10-19",
+    "end_date": "2018-10-21",
+    "location": "伦敦",
+    "edition": "2018",
+    "participant_count": 20
+  },
+  {
+    "id": "2018-world-cup-ws",
+    "name": "乒乓球世界杯",
+    "type": "world_cup",
+    "level": "S",
+    "year": 2018,
+    "start_date": "2018-09-28",
+    "end_date": "2018-09-30",
+    "location": "成都",
+    "edition": "2018",
+    "participant_count": 20
+  },
+  {
+    "id": "2017-world-cup",
+    "name": "乒乓球世界杯",
+    "type": "world_cup",
+    "level": "S",
+    "year": 2017,
+    "start_date": "2017-10-20",
+    "end_date": "2017-10-22",
+    "location": "列日",
+    "edition": "2017",
+    "participant_count": 20
+  },
+  {
+    "id": "2016-world-cup",
+    "name": "乒乓球世界杯",
+    "type": "world_cup",
+    "level": "S",
+    "year": 2016,
+    "start_date": "2016-10-01",
+    "end_date": "2016-10-03",
+    "location": "萨尔布吕肯",
+    "edition": "2016",
+    "participant_count": 20
+  },
+  {
+    "id": "2014-world-cup",
+    "name": "乒乓球世界杯",
+    "type": "world_cup",
+    "level": "S",
+    "year": 2014,
+    "start_date": "2014-10-24",
+    "end_date": "2014-10-26",
+    "location": "杜塞尔多夫",
+    "edition": "2014",
+    "participant_count": 20
   }
 ]

@@ -328,5 +328,515 @@
       { "year": "2013", "event": "世锦赛女单冠军，实现大满贯" },
       { "year": "2017", "event": "宣布退役" }
     ]
+  },
+  {
+    "id": "ma-lin",
+    "name": "马琳",
+    "english_name": "Ma Lin",
+    "gender": "male",
+    "birth_date": "1980-02-19",
+    "career_status": "retired",
+    "career_start": "1994",
+    "career_end": "2013",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手直拍两面反胶",
+    "tags": ["奥运冠军", "世界杯之王", "直拍大师"],
+    "bio_highlights": ["2008北京奥运会男单冠军", "四夺世界杯男单冠军", "直拍打法的巅峰代表"],
+    "career_milestones": [
+      { "year": "1994", "event": "进入国家队" },
+      { "year": "1999", "event": "世锦赛男单亚军" },
+      { "year": "2008", "event": "北京奥运会男单/男团双冠" },
+      { "year": "2013", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "wang-hao",
+    "name": "王皓",
+    "english_name": "Wang Hao",
+    "gender": "male",
+    "birth_date": "1983-12-01",
+    "career_status": "retired",
+    "career_start": "2002",
+    "career_end": "2014",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手直拍两面反胶",
+    "tags": ["奥运冠军", "世锦赛冠军", "直拍横打代表"],
+    "bio_highlights": ["三届奥运会男单亚军", "2009世锦赛男单冠军", "直拍横打技术革新者"],
+    "career_milestones": [
+      { "year": "2002", "event": "进入国家一队" },
+      { "year": "2004", "event": "雅典奥运会男单亚军" },
+      { "year": "2008", "event": "北京奥运会男团金牌" },
+      { "year": "2009", "event": "世锦赛男单冠军" },
+      { "year": "2012", "event": "伦敦奥运会男团金牌" },
+      { "year": "2014", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "wang-liqin",
+    "name": "王励勤",
+    "english_name": "Wang Liqin",
+    "gender": "male",
+    "birth_date": "1978-06-18",
+    "career_status": "retired",
+    "career_start": "1995",
+    "career_end": "2013",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["世锦赛冠军", "奥运冠军", "力量型打法"],
+    "bio_highlights": ["三次世锦赛男单冠军(2001/2005/2007)", "2008北京奥运会男团金牌", "力量与旋转结合的典范"],
+    "career_milestones": [
+      { "year": "1995", "event": "进入国家一队" },
+      { "year": "2001", "event": "世锦赛男单冠军" },
+      { "year": "2005", "event": "世锦赛男单冠军" },
+      { "year": "2007", "event": "世锦赛男单冠军" },
+      { "year": "2008", "event": "北京奥运会男团金牌" },
+      { "year": "2013", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "kong-linghui",
+    "name": "孔令辉",
+    "english_name": "Kong Linghui",
+    "gender": "male",
+    "birth_date": "1975-10-18",
+    "career_status": "retired",
+    "career_start": "1991",
+    "career_end": "2006",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["奥运冠军", "大满贯", "全面型选手"],
+    "bio_highlights": ["2000悉尼奥运会男单冠军", "实现大满贯", "横拍两面反胶技术标杆"],
+    "career_milestones": [
+      { "year": "1991", "event": "进入国家一队" },
+      { "year": "1995", "event": "世锦赛男单冠军" },
+      { "year": "2000", "event": "悉尼奥运会男单冠军，实现大满贯" },
+      { "year": "2006", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "liu-guoliang",
+    "name": "刘国梁",
+    "english_name": "Liu Guoliang",
+    "gender": "male",
+    "birth_date": "1976-01-10",
+    "career_status": "retired",
+    "career_start": "1991",
+    "career_end": "2002",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手直拍正胶快攻",
+    "tags": ["奥运冠军", "大满贯", "直拍快攻", "国乒主教练"],
+    "bio_highlights": ["1996亚特兰大奥运会男单/男双双冠", "中国男乒首位大满贯", "后任中国乒乓球队总教练"],
+    "career_milestones": [
+      { "year": "1991", "event": "进入国家一队" },
+      { "year": "1996", "event": "亚特兰大奥运会男单/男双双冠" },
+      { "year": "1999", "event": "世锦赛男单冠军，实现大满贯" },
+      { "year": "2002", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "guo-yue",
+    "name": "郭跃",
+    "english_name": "Guo Yue",
+    "gender": "female",
+    "birth_date": "1988-07-17",
+    "career_status": "retired",
+    "career_start": "2002",
+    "career_end": "2014",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手横拍两面反胶",
+    "tags": ["奥运冠军", "世锦赛冠军", "左手打法"],
+    "bio_highlights": ["2008北京奥运会女团金牌", "2007世锦赛女单冠军", "最年轻的世界冠军之一"],
+    "career_milestones": [
+      { "year": "2002", "event": "进入国家一队" },
+      { "year": "2007", "event": "世锦赛女单冠军" },
+      { "year": "2008", "event": "北京奥运会女团金牌" },
+      { "year": "2014", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "lin-gaoyuan",
+    "name": "林高远",
+    "english_name": "Lin Gaoyuan",
+    "gender": "male",
+    "birth_date": "1995-03-19",
+    "career_status": "active",
+    "career_start": "2015",
+    "career_end": null,
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手横拍两面反胶",
+    "tags": ["现役主力", "世界冠军", "左手打法"],
+    "bio_highlights": ["2024世界杯男单亚军", "多次WTT赛事奖牌", "国家队左手代表选手"],
+    "career_milestones": [
+      { "year": "2015", "event": "进入国家一队" },
+      { "year": "2024", "event": "世界杯男单亚军" }
+    ]
+  },
+  {
+    "id": "liang-jingkun",
+    "name": "梁靖崑",
+    "english_name": "Liang Jingkun",
+    "gender": "male",
+    "birth_date": "1996-10-20",
+    "career_status": "active",
+    "career_start": "2015",
+    "career_end": null,
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["现役主力", "世界冠军", "力量型打法"],
+    "bio_highlights": ["多次世锦赛奖牌", "WTT大满贯亚军", "国家队主力层"],
+    "career_milestones": [
+      { "year": "2015", "event": "进入国家一队" },
+      { "year": "2021", "event": "世锦赛男单季军" },
+      { "year": "2023", "event": "世锦赛男单季军" }
+    ]
+  },
+  {
+    "id": "fang-bo",
+    "name": "方博",
+    "english_name": "Fang Bo",
+    "gender": "male",
+    "birth_date": "1992-08-09",
+    "career_status": "retired",
+    "career_start": "2010",
+    "career_end": "2021",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["世界冠军", "世锦赛亚军"],
+    "bio_highlights": ["2015世锦赛男单亚军", "2015世锦赛混双冠军", "职业生涯高光时刻在2015年"],
+    "career_milestones": [
+      { "year": "2010", "event": "进入国家一队" },
+      { "year": "2015", "event": "世锦赛男单亚军" },
+      { "year": "2021", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "liu-dingshuo",
+    "name": "刘丁硕",
+    "english_name": "Liu Dingshuo",
+    "gender": "male",
+    "birth_date": "1998-01-13",
+    "career_status": "active",
+    "career_start": "2017",
+    "career_end": null,
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["全国亚军", "新生代"],
+    "bio_highlights": ["2021全运会男单亚军", "国家队新生代选手"],
+    "career_milestones": [
+      { "year": "2017", "event": "进入国家一队" },
+      { "year": "2021", "event": "全运会男单亚军" }
+    ]
+  },
+  {
+    "id": "zhu-yuling",
+    "name": "朱雨玲",
+    "english_name": "Zhu Yuling",
+    "gender": "female",
+    "birth_date": "1995-01-10",
+    "career_status": "retired",
+    "career_start": "2011",
+    "career_end": "2022",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["世界冠军", "世界杯冠军", "世锦赛亚军"],
+    "bio_highlights": ["2017/2019世界杯女单冠军", "2017世锦赛女单亚军", "一度世界排名第二"],
+    "career_milestones": [
+      { "year": "2011", "event": "进入国家一队" },
+      { "year": "2017", "event": "世锦赛女单亚军" },
+      { "year": "2022", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "chen-xingtong",
+    "name": "陈幸同",
+    "english_name": "Chen Xingtong",
+    "gender": "female",
+    "birth_date": "1997-05-27",
+    "career_status": "active",
+    "career_start": "2017",
+    "career_end": null,
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["现役主力", "世界冠军", "WTT冠军"],
+    "bio_highlights": ["多次世锦赛奖牌", "WTT大满贯季军", "国家队主力层"],
+    "career_milestones": [
+      { "year": "2017", "event": "进入国家一队" },
+      { "year": "2023", "event": "世锦赛女单季军" }
+    ]
+  },
+  {
+    "id": "wang-yidi",
+    "name": "王艺迪",
+    "english_name": "Wang Yidi",
+    "gender": "female",
+    "birth_date": "1997-02-14",
+    "career_status": "active",
+    "career_start": "2017",
+    "career_end": null,
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["现役主力", "世界冠军", "WTT冠军"],
+    "bio_highlights": ["WTT大满贯亚军", "多次世锦赛奖牌", "国家队主力层"],
+    "career_milestones": [
+      { "year": "2017", "event": "进入国家一队" },
+      { "year": "2023", "event": "WTT总决赛女单亚军" }
+    ]
+  },
+  {
+    "id": "qian-tianyi",
+    "name": "钱天一",
+    "english_name": "Qian Tianyi",
+    "gender": "female",
+    "birth_date": "2000-01-12",
+    "career_status": "active",
+    "career_start": "2020",
+    "career_end": null,
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手横拍两面反胶",
+    "tags": ["现役", "WTT亚军", "左手打法"],
+    "bio_highlights": ["2023 WTT新加坡大满贯女单亚军", "国家队新生代"],
+    "career_milestones": [
+      { "year": "2020", "event": "进入国家一队" },
+      { "year": "2023", "event": "WTT新加坡大满贯女单亚军" }
+    ]
+  },
+  {
+    "id": "zhang-rui",
+    "name": "张瑞",
+    "english_name": "Zhang Rui",
+    "gender": "female",
+    "birth_date": "1997-05-25",
+    "career_status": "active",
+    "career_start": "2019",
+    "career_end": null,
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["现役", "WTT季军"],
+    "bio_highlights": ["2023 WTT新加坡大满贯女单季军", "国家队成员"],
+    "career_milestones": [
+      { "year": "2019", "event": "进入国家一队" },
+      { "year": "2023", "event": "WTT新加坡大满贯季军" }
+    ]
+  },
+  {
+    "id": "mu-zi",
+    "name": "木子",
+    "english_name": "Mu Zi",
+    "gender": "female",
+    "birth_date": "1989-01-13",
+    "career_status": "retired",
+    "career_start": "2007",
+    "career_end": "2021",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["世界冠军", "全锦赛冠军"],
+    "bio_highlights": ["2015世锦赛女单季军", "2015世锦赛混双亚军", "全锦赛多枚金牌"],
+    "career_milestones": [
+      { "year": "2007", "event": "进入国家一队" },
+      { "year": "2015", "event": "世锦赛女单季军" },
+      { "year": "2021", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "guo-yan",
+    "name": "郭焱",
+    "english_name": "Guo Yan",
+    "gender": "female",
+    "birth_date": "1983-06-24",
+    "career_status": "retired",
+    "career_start": "2000",
+    "career_end": "2014",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["世界冠军", "世界杯冠军"],
+    "bio_highlights": ["2006世界杯女单冠军", "2005/2007世锦赛女单季军", "国家队主力"],
+    "career_milestones": [
+      { "year": "2000", "event": "进入国家一队" },
+      { "year": "2005", "event": "世锦赛女单季军" },
+      { "year": "2006", "event": "世界杯女单冠军" },
+      { "year": "2014", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "li-ju",
+    "name": "李菊",
+    "english_name": "Li Ju",
+    "gender": "female",
+    "birth_date": "1975-07-22",
+    "career_status": "retired",
+    "career_start": "1993",
+    "career_end": "2002",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["奥运冠军", "世界冠军"],
+    "bio_highlights": ["2000悉尼奥运会女单亚军/女双冠军", "1999世锦赛女单亚军", "国家队主力"],
+    "career_milestones": [
+      { "year": "1993", "event": "进入国家一队" },
+      { "year": "1999", "event": "世锦赛女单亚军" },
+      { "year": "2000", "event": "悉尼奥运会女单亚军/女双冠军" },
+      { "year": "2002", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "qiao-hong",
+    "name": "乔红",
+    "english_name": "Qiao Hong",
+    "gender": "female",
+    "birth_date": "1968-11-21",
+    "career_status": "retired",
+    "career_start": "1988",
+    "career_end": "1996",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["奥运冠军", "世界冠军", "大满贯"],
+    "bio_highlights": ["1992巴塞罗那奥运会女单亚军/女双冠军", "1996亚特兰大奥运会女双冠军", "多次世锦赛冠军"],
+    "career_milestones": [
+      { "year": "1988", "event": "进入国家队" },
+      { "year": "1992", "event": "巴塞罗那奥运会女单亚军/女双冠军" },
+      { "year": "1996", "event": "亚特兰大奥运会女双冠军" },
+      { "year": "1996", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "liu-wei",
+    "name": "刘伟",
+    "english_name": "Liu Wei",
+    "gender": "female",
+    "birth_date": "1972-09-16",
+    "career_status": "retired",
+    "career_start": "1989",
+    "career_end": "1997",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手横拍两面反胶",
+    "tags": ["世界冠军", "奥运季军"],
+    "bio_highlights": ["1996亚特兰大奥运会女单季军", "多次世锦赛混双冠军", "国家队主力"],
+    "career_milestones": [
+      { "year": "1989", "event": "进入国家一队" },
+      { "year": "1996", "event": "亚特兰大奥运会女单季军" },
+      { "year": "1997", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "wang-tao",
+    "name": "王涛",
+    "english_name": "Wang Tao",
+    "gender": "male",
+    "birth_date": "1967-12-13",
+    "career_status": "retired",
+    "career_start": "1988",
+    "career_end": "2000",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手横拍正手反胶反手生胶",
+    "tags": ["奥运冠军", "世界冠军", "双打专家"],
+    "bio_highlights": ["1992巴塞罗那奥运会男双金牌", "1996亚特兰大奥运会男单亚军/男双银牌", "中国男乒90年代核心"],
+    "career_milestones": [
+      { "year": "1988", "event": "进入国家队主力" },
+      { "year": "1992", "event": "巴塞罗那奥运会男双金牌" },
+      { "year": "1996", "event": "亚特兰大奥运会男单亚军/男双银牌" },
+      { "year": "2000", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "lu-lin",
+    "name": "吕林",
+    "english_name": "Lu Lin",
+    "gender": "male",
+    "birth_date": "1969-04-06",
+    "career_status": "retired",
+    "career_start": "1988",
+    "career_end": "1997",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手横拍两面反胶",
+    "tags": ["奥运冠军", "双打专家"],
+    "bio_highlights": ["1992巴塞罗那奥运会男双金牌", "1993世锦赛男双冠军", "与王涛搭档双打"],
+    "career_milestones": [
+      { "year": "1988", "event": "进入国家队" },
+      { "year": "1992", "event": "巴塞罗那奥运会男双金牌" },
+      { "year": "1997", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "ma-wenge",
+    "name": "马文革",
+    "english_name": "Ma Wenge",
+    "gender": "male",
+    "birth_date": "1968-03-21",
+    "career_status": "retired",
+    "career_start": "1988",
+    "career_end": "2000",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "右手横拍两面反胶",
+    "tags": ["世界冠军", "奥运季军"],
+    "bio_highlights": ["1992巴塞罗那奥运会男单季军", "1989/1993世界杯男单冠军", "90年代中国男乒主力"],
+    "career_milestones": [
+      { "year": "1988", "event": "进入国家队主力" },
+      { "year": "1989", "event": "世界杯男单冠军" },
+      { "year": "1992", "event": "巴塞罗那奥运会男单季军" },
+      { "year": "2000", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "yan-sen",
+    "name": "闫森",
+    "english_name": "Yan Sen",
+    "gender": "male",
+    "birth_date": "1975-08-16",
+    "career_status": "retired",
+    "career_start": "1994",
+    "career_end": "2011",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手直拍两面反胶",
+    "tags": ["奥运冠军", "世锦赛冠军", "双打专家"],
+    "bio_highlights": ["2000悉尼奥运会男双金牌", "2001世锦赛男双冠军", "与王励勤搭档双打"],
+    "career_milestones": [
+      { "year": "1994", "event": "进入国家一队" },
+      { "year": "2000", "event": "悉尼奥运会男双金牌" },
+      { "year": "2001", "event": "世锦赛男双冠军" },
+      { "year": "2011", "event": "宣布退役" }
+    ]
+  },
+  {
+    "id": "chen-qi",
+    "name": "陈玘",
+    "english_name": "Chen Qi",
+    "gender": "male",
+    "birth_date": "1984-04-15",
+    "career_status": "retired",
+    "career_start": "2003",
+    "career_end": "2014",
+    "team": "中国乒乓球队",
+    "avatar": null,
+    "play_style": "左手横拍两面反胶",
+    "tags": ["奥运冠军", "双打专家", "左手打法"],
+    "bio_highlights": ["2004雅典奥运会男双金牌", "与马琳搭档双打", "国家队双打主力"],
+    "career_milestones": [
+      { "year": "2003", "event": "进入国家一队" },
+      { "year": "2004", "event": "雅典奥运会男双金牌" },
+      { "year": "2014", "event": "宣布退役" }
+    ]
   }
 ]

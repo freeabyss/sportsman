@@ -5,7 +5,7 @@
     "round": "FINAL",
     "date": "2024-08-04",
     "player_a": { "athlete_id": "fan-zhendong", "country": "CHN" },
-    "player_b": { "athlete_id": "moregard", "country": "SWE" },
+    "player_b": { "athlete_id": "truls-moregard", "country": "SWE" },
     "score_a": 4,
     "score_b": 1,
     "set_scores": "11-7, 11-9, 9-11, 11-8, 11-6",
