@@ -1,0 +1,14 @@
+const fs = require('fs');
+const path = require('path');
+const dir = path.join(__dirname, '..', 'src', 'data');
+const events = JSON.parse(fs.readFileSync(path.join(dir, 'events.json'), 'utf8'));
+const get = id => events.find(e => e.id === id);
+const show = (label, id) => { const e = get(id); console.log('\n'+label+' ('+id+'):', e ? JSON.stringify(e.results) : 'NOT FOUND'); };
+show('1959 男单(容国团应夺冠)', '1959-world-championships-ms');
+show('1961 男团(中国首夺)', '1961-world-championships-mt');
+show('1981 男团', '1981-world-championships-mt');
+show('1981 混双(谢赛克/黄俊群)', '1981-world-championships-xd');
+show('2023 男单', '2023-world-championships-ms');
+show('2025 男单(王楚钦)', '2025-world-championships-ms');
+show('2005 男单(王励勤)', '2005-world-championships-ms');
+show('单项年2003 男单(施拉格)', '2003-world-championships-ms');
