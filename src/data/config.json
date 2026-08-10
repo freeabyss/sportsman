@@ -20,7 +20,8 @@
     "MEN_DOUBLES": 1.0,
     "WOMEN_DOUBLES": 1.0,
     "MEN_TEAM": 0.6,
-    "WOMEN_TEAM": 0.6
+    "WOMEN_TEAM": 0.6,
+    "MIXED_TEAM": 0.6
   },
   "ranking_coefficients": {
     "1": 1.0,

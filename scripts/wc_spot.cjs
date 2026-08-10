@@ -1,0 +1,14 @@
+const fs = require('fs');
+const dir = 'src/data';
+const events = JSON.parse(fs.readFileSync(dir+'/events.json','utf8'));
+const get = id => events.find(e => e.id === id);
+const show = (label, id) => { const e = get(id); console.log('\n'+label+' ('+id+'):', e ? JSON.stringify(e.results) : 'NOT FOUND'); };
+show('1980 男单(郭跃华首冠)', '1980-world-cup-ms');
+show('2020 男单(樊振东)', '2020-world-cup-ms');
+show('2025 男单(雨果/林诗栋/王楚钦)', '2025-world-cup-ms');
+show('1996 女单(邓亚萍首冠)', '1996-world-cup-ws');
+show('2025 女单(孙颖莎)', '2025-world-cup-ws');
+show('1990 男团(瑞典)', '1990-world-cup-mt');
+show('2019 男团(中国)', '2019-world-cup-mt');
+show('2023 混团(中国)', '2023-world-cup-mxt');
+show('2025 混团(中国)', '2025-world-cup-mxt');

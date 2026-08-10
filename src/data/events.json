@@ -853,180 +853,6 @@
     ]
   },
   {
-    "id": "2024-world-cup-ms",
-    "tournament_id": "2024-world-cup",
-    "name": "男子单打",
-    "code": "MEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "ma-long",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "lin-gaoyuan",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "wang-chuqin",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "harimoto",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2024-world-cup-ws",
-    "tournament_id": "2024-world-cup",
-    "name": "女子单打",
-    "code": "WOMEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "sun-yingsha",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "wang-manyu",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "chen-meng",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "hayata-hina",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2020-world-cup-ms",
-    "tournament_id": "2020-world-cup",
-    "name": "男子单打",
-    "code": "MEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "fan-zhendong",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "ma-long",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "harimoto",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "jang-woojin",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2020-world-cup-ws",
-    "tournament_id": "2020-world-cup",
-    "name": "女子单打",
-    "code": "WOMEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "chen-meng",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "sun-yingsha",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "mima-ito",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "han-ying",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2019-world-cup-ms",
-    "tournament_id": "2019-world-cup",
-    "name": "男子单打",
-    "code": "MEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "fan-zhendong",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "harimoto",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "lin-yunju",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "ma-long",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2019-world-cup-ws",
-    "tournament_id": "2019-world-cup",
-    "name": "女子单打",
-    "code": "WOMEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "liu-shiwen",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "zhu-yuling",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "feng-tianwei",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "zhang-mo",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
     "id": "2024-wtt-grand-smash-singapore-ms",
     "tournament_id": "2024-wtt-grand-smash-singapore",
     "name": "男子单打",
@@ -1693,35 +1519,6 @@
     ]
   },
   {
-    "id": "2018-world-cup-ms",
-    "tournament_id": "2018-world-cup",
-    "name": "男子单打",
-    "code": "MEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "fan-zhendong",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "harimoto",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "ma-long",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "boll",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
     "id": "2018-world-cup-ws-ms",
     "tournament_id": "2018-world-cup-ws",
     "name": "女子单打",
@@ -1745,93 +1542,6 @@
       },
       {
         "athlete_id": "cheng-i-ching",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2017-world-cup-ms",
-    "tournament_id": "2017-world-cup",
-    "name": "男子单打",
-    "code": "MEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "ma-long",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "fan-zhendong",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "boll",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "lin-gaoyuan",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2016-world-cup-ms",
-    "tournament_id": "2016-world-cup",
-    "name": "男子单打",
-    "code": "MEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "fan-zhendong",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "xu-xin",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "ma-long",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "harimoto",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
-    "id": "2014-world-cup-ms",
-    "tournament_id": "2014-world-cup",
-    "name": "男子单打",
-    "code": "MEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "zhang-jike",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "ma-long",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "boll",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "mizutani",
         "rank": 3,
         "medal": "bronze"
       }
@@ -10774,6 +10484,2648 @@
         "athlete_id": "陈幸同",
         "rank": 1,
         "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1980-world-cup-ms",
+    "tournament_id": "1980-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "guo-yuehua",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "李振恃",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "德沃拉切克",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1981-world-cup-ms",
+    "tournament_id": "1981-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "克兰帕尔",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "谢赛克",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "guo-yuehua",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1982-world-cup-ms",
+    "tournament_id": "1982-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "guo-yuehua",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "阿佩伊伦",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "谢赛克",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1983-world-cup-ms",
+    "tournament_id": "1983-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "米克尔·阿佩伊伦",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "瓦尔德内尔",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "林德",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1984-world-cup-ms",
+    "tournament_id": "1984-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "江嘉良",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "金浣",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "本特森",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1985-world-cup-ms",
+    "tournament_id": "1985-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "陈新华",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "格鲁巴",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "江嘉良",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1986-world-cup-ms",
+    "tournament_id": "1986-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "陈龙灿",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "江嘉良",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "金浣",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1987-world-cup-ms",
+    "tournament_id": "1987-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "滕毅",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "江嘉良",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "格鲁巴",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1988-world-cup-ms",
+    "tournament_id": "1988-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "格鲁巴",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "陈龙灿",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "江嘉良",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1989-world-cup-ms",
+    "tournament_id": "1989-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-wenge",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "格鲁巴",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "米克尔·阿佩伊伦",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1990-world-cup-ms",
+    "tournament_id": "1990-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "瓦尔德内尔",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ma-wenge",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "陈龙灿",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1990-world-cup-mt",
+    "tournament_id": "1990-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "阿佩伊伦",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "瓦尔德内尔",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "佩尔森",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "林德",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1990-world-cup-wt",
+    "tournament_id": "1990-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "deng-yaping",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "qiao-hong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "高军",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "陈子荷",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1991-world-cup-ms",
+    "tournament_id": "1991-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "佩尔森",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "盖亭",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "瓦尔德内尔",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1991-world-cup-mt",
+    "tournament_id": "1991-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ma-wenge",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-tao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "王浩",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "张雷",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "谢超杰",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1991-world-cup-wt",
+    "tournament_id": "1991-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "deng-yaping",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "qiao-hong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "刘伟",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "陈子荷",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1992-world-cup-ms",
+    "tournament_id": "1992-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-wenge",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "金泽洙",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "刘南奎",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1993-world-cup-ms",
+    "tournament_id": "1993-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "普里莫拉茨",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-tao",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "黄文冠",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1994-world-cup-ms",
+    "tournament_id": "1994-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "盖亭",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "塞弗",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "普里莫拉茨",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1994-world-cup-mt",
+    "tournament_id": "1994-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "liu-guoliang",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "丁松",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "林志刚",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "王浩",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "秦志戬",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1994-world-cup-wt",
+    "tournament_id": "1994-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "梅利尼克",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "帕琳娜",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "提米娜",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1995-world-cup-ms",
+    "tournament_id": "1995-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "kong-linghui",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "罗斯科夫",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "liu-guoliang",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1995-world-cup-mt",
+    "tournament_id": "1995-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "金泽洙",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "李哲承",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "刘南奎",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1995-world-cup-wt",
+    "tournament_id": "1995-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "yang-ying",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "qiao-hong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "刘伟",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "乔云萍",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "deng-yaping",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "1996-world-cup-ms",
+    "tournament_id": "1996-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "liu-guoliang",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "瓦尔德内尔",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "萨姆索诺夫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1996-world-cup-ws",
+    "tournament_id": "1996-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "deng-yaping",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "yang-ying",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-chen",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1997-world-cup-ms",
+    "tournament_id": "1997-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "普里莫拉茨",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "kong-linghui",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "萨姆索诺夫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1997-world-cup-ws",
+    "tournament_id": "1997-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-nan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-ju",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "李春丽",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1998-world-cup-ms",
+    "tournament_id": "1998-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "罗斯科夫",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "金泽洙",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "普里莫拉茨",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1998-world-cup-ws",
+    "tournament_id": "1998-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-nan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-ju",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "童飞鸣",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "1999-world-cup-ms",
+    "tournament_id": "1999-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "萨姆索诺夫",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "施拉格",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "普里莫拉茨",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2000-world-cup-ms",
+    "tournament_id": "2000-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-lin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "金泽洙",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2000-world-cup-ws",
+    "tournament_id": "2000-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "li-ju",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-nan",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "孙晋",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2001-world-cup-ms",
+    "tournament_id": "2001-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "萨姆索诺夫",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "罗斯科夫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2001-world-cup-ws",
+    "tournament_id": "2001-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "金英姬",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "斯蒂夫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2002-world-cup-ms",
+    "tournament_id": "2002-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "波尔",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "kong-linghui",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "普里莫拉茨",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2002-world-cup-ws",
+    "tournament_id": "2002-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "李楠",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "帖雅娜",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2003-world-cup-ms",
+    "tournament_id": "2003-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-lin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "格林卡",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2003-world-cup-ws",
+    "tournament_id": "2003-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-nan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "牛剑锋",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2004-world-cup-ms",
+    "tournament_id": "2004-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-lin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "格林卡",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2004-world-cup-ws",
+    "tournament_id": "2004-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-nan",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "帖雅娜",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2005-world-cup-ms",
+    "tournament_id": "2005-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "波尔",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "ma-lin",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2005-world-cup-ws",
+    "tournament_id": "2005-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "guo-yan",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "福原爱",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2006-world-cup-ms",
+    "tournament_id": "2006-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-lin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2006-world-cup-ws",
+    "tournament_id": "2006-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "guo-yan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "李佳薇",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2007-world-cup-ms",
+    "tournament_id": "2007-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-hao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "柳承敏",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2007-world-cup-ws",
+    "tournament_id": "2007-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-nan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "guo-yue",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2007-world-cup-mt",
+    "tournament_id": "2007-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ma-lin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "陈玘",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2007-world-cup-wt",
+    "tournament_id": "2007-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "zhang-yining",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "guo-yue",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-nan",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2008-world-cup-ms",
+    "tournament_id": "2008-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-hao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "波尔",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2008-world-cup-ws",
+    "tournament_id": "2008-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "帖雅娜",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "冯天薇",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2009-world-cup-ms",
+    "tournament_id": "2009-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "萨姆索诺夫",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "陈玘",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2009-world-cup-ws",
+    "tournament_id": "2009-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "guo-yue",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2009-world-cup-mt",
+    "tournament_id": "2009-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhang-jike",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "邱贻可",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2009-world-cup-wt",
+    "tournament_id": "2009-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "guo-yue",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2010-world-cup-ms",
+    "tournament_id": "2010-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-hao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhang-jike",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "波尔",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2010-world-cup-ws",
+    "tournament_id": "2010-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "guo-yan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "姜华珺",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "guo-yue",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2010-world-cup-mt",
+    "tournament_id": "2010-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhang-jike",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "郝帅",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2010-world-cup-wt",
+    "tournament_id": "2010-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "guo-yue",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "guo-yan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2011-world-cup-ms",
+    "tournament_id": "2011-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "zhang-jike",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "朱世赫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2011-world-cup-ws",
+    "tournament_id": "2011-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "帖雅娜",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2011-world-cup-mt",
+    "tournament_id": "2011-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ma-lin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2011-world-cup-wt",
+    "tournament_id": "2011-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "guo-yue",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "guo-yan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "范瑛",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2012-world-cup-ms",
+    "tournament_id": "2012-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "波尔",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "萨姆索诺夫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2012-world-cup-ws",
+    "tournament_id": "2012-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "萨马拉",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "沈燕飞",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2013-world-cup-ms",
+    "tournament_id": "2013-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "萨姆索诺夫",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "奥恰洛夫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2013-world-cup-ws",
+    "tournament_id": "2013-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "武杨",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "冯天薇",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2013-world-cup-mt",
+    "tournament_id": "2013-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "zhang-jike",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-hao",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-liqin",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2013-world-cup-wt",
+    "tournament_id": "2013-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "常晨晨",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "武杨",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2014-world-cup-ms",
+    "tournament_id": "2014-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "zhang-jike",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "波尔",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2014-world-cup-ws",
+    "tournament_id": "2014-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "石川佳纯",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2015-world-cup-ms",
+    "tournament_id": "2015-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "奥恰洛夫",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2015-world-cup-ws",
+    "tournament_id": "2015-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "石川佳纯",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "索尔佳",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2015-world-cup-mt",
+    "tournament_id": "2015-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "zhang-jike",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "方博",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2015-world-cup-wt",
+    "tournament_id": "2015-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "li-xiaoxia",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhu-yuling",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "chen-meng",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2016-world-cup-ms",
+    "tournament_id": "2016-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "黄镇廷",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2016-world-cup-ws",
+    "tournament_id": "2016-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "平野美宇",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "郑怡静",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "冯天薇",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2017-world-cup-ms",
+    "tournament_id": "2017-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "奥恰洛夫",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "波尔",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2017-world-cup-ws",
+    "tournament_id": "2017-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "zhu-yuling",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "郑怡静",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2018-world-cup-ms",
+    "tournament_id": "2018-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "波尔",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "lin-gaoyuan",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2018-world-cup-ws",
+    "tournament_id": "2018-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhu-yuling",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "郑怡静",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2018-world-cup-mt",
+    "tournament_id": "2018-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "lin-gaoyuan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "于子洋",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2018-world-cup-wt",
+    "tournament_id": "2018-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhu-yuling",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "陈幸同",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-manyu",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2019-world-cup-ms",
+    "tournament_id": "2019-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "张本智和",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "林昀儒",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2019-world-cup-ws",
+    "tournament_id": "2019-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "zhu-yuling",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "冯天薇",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2019-world-cup-mt",
+    "tournament_id": "2019-world-cup",
+    "name": "男子团体",
+    "code": "MEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "xu-xin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liang-jingkun",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "lin-gaoyuan",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2019-world-cup-wt",
+    "tournament_id": "2019-world-cup",
+    "name": "女子团体",
+    "code": "WOMEN_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "ding-ning",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liu-shiwen",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "chen-meng",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-manyu",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2020-world-cup-ms",
+    "tournament_id": "2020-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "张本智和",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2020-world-cup-ws",
+    "tournament_id": "2020-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "chen-meng",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "伊藤美诚",
+        "rank": 3,
+        "medal": "bronze"
+      }
+    ]
+  },
+  {
+    "id": "2023-world-cup-mxt",
+    "tournament_id": "2023-world-cup",
+    "name": "混合团体",
+    "code": "MIXED_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "wang-chuqin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-yidi",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-manyu",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "fan-zhendong",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "chen-meng",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "lin-gaoyuan",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2024-world-cup-ms",
+    "tournament_id": "2024-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "ma-long",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "lin-gaoyuan",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-chuqin",
+        "rank": 3,
+        "medal": "bronze"
+      },
+      {
+        "athlete_id": "张本智和",
+        "rank": 4,
+        "medal": null
+      }
+    ]
+  },
+  {
+    "id": "2024-world-cup-ws",
+    "tournament_id": "2024-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-manyu",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "chen-meng",
+        "rank": 3,
+        "medal": "bronze"
+      },
+      {
+        "athlete_id": "张本美和",
+        "rank": 4,
+        "medal": null
+      }
+    ]
+  },
+  {
+    "id": "2024-world-cup-mxt",
+    "tournament_id": "2024-world-cup",
+    "name": "混合团体",
+    "code": "MIXED_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "wang-chuqin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liang-jingkun",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "lin-gaoyuan",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "林诗栋",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-manyu",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-yidi",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "蒯曼",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2025-world-cup-ms",
+    "tournament_id": "2025-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "雨果·卡尔德拉诺",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "林诗栋",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "wang-chuqin",
+        "rank": 3,
+        "medal": "bronze"
+      },
+      {
+        "athlete_id": "liang-jingkun",
+        "rank": 4,
+        "medal": null
+      }
+    ]
+  },
+  {
+    "id": "2025-world-cup-ws",
+    "tournament_id": "2025-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "蒯曼",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "陈幸同",
+        "rank": 3,
+        "medal": "bronze"
+      },
+      {
+        "athlete_id": "伊藤美诚",
+        "rank": 4,
+        "medal": null
+      }
+    ]
+  },
+  {
+    "id": "2025-world-cup-mxt",
+    "tournament_id": "2025-world-cup",
+    "name": "混合团体",
+    "code": "MIXED_TEAM",
+    "weight": 0.6,
+    "results": [
+      {
+        "athlete_id": "wang-chuqin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "liang-jingkun",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "林诗栋",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "徐瑛彬",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-manyu",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-yidi",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "蒯曼",
+        "rank": 1,
+        "medal": "gold"
+      }
+    ]
+  },
+  {
+    "id": "2026-world-cup-ms",
+    "tournament_id": "2026-world-cup",
+    "name": "男子单打",
+    "code": "MEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "wang-chuqin",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "松岛辉空",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "林昀儒",
+        "rank": 3,
+        "medal": "bronze"
+      },
+      {
+        "athlete_id": "雨果·卡尔德拉诺",
+        "rank": 4,
+        "medal": null
+      }
+    ]
+  },
+  {
+    "id": "2026-world-cup-ws",
+    "tournament_id": "2026-world-cup",
+    "name": "女子单打",
+    "code": "WOMEN_SINGLES",
+    "weight": 1.5,
+    "results": [
+      {
+        "athlete_id": "sun-yingsha",
+        "rank": 1,
+        "medal": "gold"
+      },
+      {
+        "athlete_id": "wang-manyu",
+        "rank": 2,
+        "medal": "silver"
+      },
+      {
+        "athlete_id": "莎宾·温特",
+        "rank": 3,
+        "medal": "bronze"
+      },
+      {
+        "athlete_id": "申裕斌",
+        "rank": 4,
+        "medal": null
       }
     ]
   }

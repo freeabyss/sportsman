@@ -228,7 +228,8 @@ export function getAthleteMedalMatrix(athleteId) {
           WOMEN_DOUBLES: [],
           MIXED_DOUBLES: [],
           MEN_TEAM: [],
-          WOMEN_TEAM: []
+          WOMEN_TEAM: [],
+          MIXED_TEAM: []
         }
       }
 
@@ -273,7 +274,8 @@ export function getEventLabel(code) {
     'WOMEN_DOUBLES': '女双',
     'MIXED_DOUBLES': '混双',
     'MEN_TEAM': '男团',
-    'WOMEN_TEAM': '女团'
+    'WOMEN_TEAM': '女团',
+    'MIXED_TEAM': '混团'
   }
   return labels[code] || code
 }
