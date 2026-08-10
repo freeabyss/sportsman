@@ -2,6 +2,7 @@ import athletesData from '../data/athletes.json'
 import tournamentsData from '../data/tournaments.json'
 import eventsData from '../data/events.json'
 import matchesData from '../data/matches.json'
+import competitionTypesData from '../data/competition-types.json'
 import { calcAthleteGloryScore, calcTournamentTypeContributions, calcEventTypeContributions } from './scoring'
 import { calcWinRates, calcDominanceIndex } from './stats'
 
@@ -12,6 +13,7 @@ let _athletes = null
 let _tournaments = null
 let _events = null
 let _matches = null
+let _competitionTypes = null
 let _rankings = null
 let _athleteStats = null
 
@@ -31,18 +33,61 @@ export function getAthlete(id) {
 }
 
 /**
- * 获取所有赛事
+ * 获取所有赛事类型（大赛类型参考表）
+ */
+export function getCompetitionTypes() {
+  if (!_competitionTypes) _competitionTypes = [...competitionTypesData]
+  return _competitionTypes
+}
+
+/**
+ * 根据 type 获取单个赛事类型
+ */
+export function getCompetitionType(type) {
+  return getCompetitionTypes().find(c => c.type === type) || null
+}
+
+/**
+ * 获取所有赛事（附加 competition_type 关联信息）
  */
 export function getTournaments() {
-  if (!_tournaments) _tournaments = [...tournamentsData]
+  if (!_tournaments) {
+    _tournaments = tournamentsData.map(t => ({
+      ...t,
+      competition_type: getCompetitionType(t.type)
+    }))
+  }
   return _tournaments
 }
 
 /**
- * 获取单个赛事
+ * 获取单个赛事（附加 competition_type 关联信息）
  */
 export function getTournament(id) {
   return getTournaments().find(t => t.id === id)
+}
+
+/**
+ * 获取单个赛事项目（附加 competition_type 关联信息）
+ * 世乒赛团体项目关联「世乒赛团体」，其余按赛事 type 关联
+ */
+export function getEvent(id) {
+  const event = getEvents().find(e => e.id === id)
+  if (!event) return null
+  return { ...event, competition_type: getEventCompetitionType(event) }
+}
+
+/**
+ * 获取赛事项目的关联赛事类型
+ */
+export function getEventCompetitionType(event) {
+  const tournament = getTournament(event.tournament_id)
+  if (!tournament) return null
+  const isTeam = event.code === 'MEN_TEAM' || event.code === 'WOMEN_TEAM'
+  if (tournament.type === 'world_championships' && isTeam) {
+    return getCompetitionType('world_team_championships')
+  }
+  return getCompetitionType(tournament.type)
 }
 
 /**
@@ -51,13 +96,6 @@ export function getTournament(id) {
 export function getEvents() {
   if (!_events) _events = [...eventsData]
   return _events
-}
-
-/**
- * 获取单个赛事项目
- */
-export function getEvent(id) {
-  return getEvents().find(e => e.id === id)
 }
 
 /**

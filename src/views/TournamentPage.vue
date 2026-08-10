@@ -93,6 +93,31 @@
         </div>
       </div>
 
+      <!-- 赛事类型（大赛类型参考） -->
+      <div class="card" style="margin-bottom: 20px;" v-if="competitionType">
+        <div class="card-header">
+          <span>赛事类型</span>
+          <span class="rank-badge">大赛排名 #{{ competitionType.rank }}</span>
+        </div>
+        <div class="card-body">
+          <div class="comp-type-head">
+            <span class="comp-type-name">{{ competitionType.name }}</span>
+            <span class="comp-type-short">{{ competitionType.short_name }}</span>
+          </div>
+          <p class="comp-type-desc">{{ competitionType.description }}</p>
+          <div class="comp-type-meta">
+            <div class="meta-item">
+              <span class="info-label">举办周期</span>
+              <span class="info-value">{{ competitionType.cycle }}</span>
+            </div>
+            <div class="meta-item">
+              <span class="info-label">设项</span>
+              <span class="info-value">{{ competitionType.projects.join('、') }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- 项目奖牌 -->
       <div class="card">
         <div class="card-header">
@@ -183,13 +208,15 @@ import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import {
   getTournament, getTournamentEvents, getAthlete,
-  getEventLabel, getLevelLabel
+  getEventLabel, getLevelLabel, getCompetitionType
 } from '../utils/dataService.js'
 
 const route = useRoute()
 const loading = ref(true)
 const tournament = ref(null)
 const events = ref([])
+
+const competitionType = computed(() => tournament.value?.competition_type || null)
 
 const typeLabels = {
   olympics: '奥运会',
@@ -200,7 +227,10 @@ const typeLabels = {
   national_games: '全国运动会',
   asian_games: '亚运会',
   asian_championships: '亚洲锦标赛',
-  national_championships: '全国锦标赛'
+  national_championships: '全国锦标赛',
+  wtt_champions: 'WTT冠军赛',
+  csl: '乒超联赛',
+  world_team_championships: '世乒赛团体'
 }
 
 const chineseMedalCount = computed(() => {
@@ -217,6 +247,9 @@ const chineseMedalCount = computed(() => {
 })
 
 function getTypeLabel(type) {
+  if (competitionType.value?.type === type && competitionType.value?.short_name) {
+    return competitionType.value.short_name
+  }
   return typeLabels[type] || type
 }
 
@@ -391,6 +424,55 @@ onMounted(() => {
 .foreign-athlete {
   color: #999;
   font-weight: 500;
+}
+
+.rank-badge {
+  font-size: 12px;
+  color: #d4142a;
+  font-weight: 600;
+}
+
+/* 赛事类型参考 */
+.comp-type-head {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.comp-type-name {
+  font-size: 18px;
+  font-weight: 700;
+  color: #222;
+}
+
+.comp-type-short {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 4px;
+  background: #fff1f0;
+  color: #d4142a;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.comp-type-desc {
+  margin: 0 0 14px;
+  font-size: 13px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.comp-type-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+.meta-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 .no-data {

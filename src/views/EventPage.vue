@@ -43,6 +43,15 @@
                 <span v-else>-</span>
               </span>
             </div>
+            <div class="info-item" v-if="competitionType">
+              <span class="info-label">大赛类型</span>
+              <span class="info-value">
+                <span class="comp-type-link">
+                  {{ competitionType.short_name }}
+                  <span class="comp-type-rank">#{{ competitionType.rank }}</span>
+                </span>
+              </span>
+            </div>
           </div>
         </div>
       </div>
@@ -234,6 +243,7 @@ const loading = ref(true)
 
 const event = ref(null)
 const tournament = ref(null)
+const competitionType = computed(() => event.value?.competition_type || null)
 const eventMatches = ref([])
 const roundFilter = ref('all')
 
@@ -350,6 +360,23 @@ onMounted(() => {
 .level-A { background: #e6f4ff; color: #0958d9; border: 1px solid #91caff; }
 .level-B { background: #f6ffed; color: #389e0d; border: 1px solid #95de64; }
 .level-C { background: #fff2f0; color: #d4142a; border: 1px solid #ffccc7; }
+
+.comp-type-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #d4142a;
+  font-weight: 600;
+}
+
+.comp-type-rank {
+  font-size: 11px;
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: #fff1f0;
+  color: #d4142a;
+  font-weight: 700;
+}
 
 /* ======== 领奖台 ======== */
 .podium {
