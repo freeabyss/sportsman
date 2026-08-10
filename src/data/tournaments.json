@@ -8,7 +8,7 @@
     "start_date": "2024-07-27",
     "end_date": "2024-08-10",
     "location": "巴黎",
-    "edition": "第33届",
+    "edition": "第10届",
     "participant_count": 172
   },
   {
@@ -16,11 +16,11 @@
     "name": "东京奥运会",
     "type": "olympics",
     "level": "S",
-    "year": 2021,
+    "year": 2020,
     "start_date": "2021-07-24",
     "end_date": "2021-08-06",
     "location": "东京",
-    "edition": "第32届",
+    "edition": "第9届",
     "participant_count": 173
   },
   {
@@ -32,7 +32,7 @@
     "start_date": "2016-08-06",
     "end_date": "2016-08-17",
     "location": "里约热内卢",
-    "edition": "第31届",
+    "edition": "第8届",
     "participant_count": 172
   },
   {
@@ -44,7 +44,7 @@
     "start_date": "2012-07-28",
     "end_date": "2012-08-08",
     "location": "伦敦",
-    "edition": "第30届",
+    "edition": "第7届",
     "participant_count": 174
   },
   {
@@ -56,7 +56,7 @@
     "start_date": "2008-08-13",
     "end_date": "2008-08-23",
     "location": "北京",
-    "edition": "第29届",
+    "edition": "第6届",
     "participant_count": 171
   },
   {
@@ -65,10 +65,10 @@
     "type": "olympics",
     "level": "S",
     "year": 2004,
-    "start_date": "2004-08-14",
-    "end_date": "2004-08-23",
+    "start_date": "2004-08-13",
+    "end_date": "2004-08-29",
     "location": "雅典",
-    "edition": "第28届",
+    "edition": "第5届",
     "participant_count": 172
   },
   {
@@ -77,10 +77,10 @@
     "type": "olympics",
     "level": "S",
     "year": 2000,
-    "start_date": "2000-09-16",
-    "end_date": "2000-09-25",
+    "start_date": "2000-09-13",
+    "end_date": "2000-10-01",
     "location": "悉尼",
-    "edition": "第27届",
+    "edition": "第4届",
     "participant_count": 171
   },
   {
@@ -89,10 +89,10 @@
     "type": "olympics",
     "level": "S",
     "year": 1996,
-    "start_date": "1996-07-23",
-    "end_date": "1996-08-01",
+    "start_date": "1996-07-19",
+    "end_date": "1996-08-04",
     "location": "亚特兰大",
-    "edition": "第26届",
+    "edition": "第3届",
     "participant_count": 166
   },
   {
@@ -101,10 +101,10 @@
     "type": "olympics",
     "level": "S",
     "year": 1992,
-    "start_date": "1992-07-28",
-    "end_date": "1992-08-06",
+    "start_date": "1992-07-26",
+    "end_date": "1992-08-08",
     "location": "巴塞罗那",
-    "edition": "第25届",
+    "edition": "第2届",
     "participant_count": 159
   },
   {
@@ -454,5 +454,17 @@
     "location": "杜塞尔多夫",
     "edition": "2014",
     "participant_count": 20
+  },
+  {
+    "id": "1988-seoul-olympics",
+    "name": "首尔奥运会",
+    "type": "olympics",
+    "level": "S",
+    "year": 1988,
+    "start_date": "1988-09-18",
+    "end_date": "1988-10-02",
+    "location": "首尔",
+    "edition": "第1届",
+    "participant_count": 160
   }
 ]
