@@ -57,7 +57,7 @@
           <div class="weight-group">
             <span class="weight-title">奖牌权重</span>
             <div class="weight-items">
-              <span class="weight-chip medal-gold-chip">🥇 金 · 1.00</span>
+              <span class="weight-chip medal-gold-chip">🥇 金 · 1.50</span>
               <span class="weight-chip medal-silver-chip">🥈 银 · 0.60</span>
               <span class="weight-chip medal-bronze-chip">🥉 铜 · 0.35</span>
             </div>
@@ -74,10 +74,10 @@
               </tr>
             </thead>
             <tbody>
-              <tr><td>单打</td><td class="matrix-gold">100</td><td>60</td><td>35</td></tr>
-              <tr><td>双打</td><td class="matrix-gold">60</td><td>36</td><td>21</td></tr>
-              <tr><td>混双</td><td class="matrix-gold">60</td><td>36</td><td>21</td></tr>
-              <tr><td>团体</td><td class="matrix-gold">30</td><td>18</td><td>10.5</td></tr>
+              <tr><td>单打</td><td class="matrix-gold">150</td><td>60</td><td>35</td></tr>
+              <tr><td>双打</td><td class="matrix-gold">90</td><td>36</td><td>21</td></tr>
+              <tr><td>混双</td><td class="matrix-gold">90</td><td>36</td><td>21</td></tr>
+              <tr><td>团体</td><td class="matrix-gold">45</td><td>18</td><td>10.5</td></tr>
             </tbody>
           </table>
           <p class="formula-matrix-note">V1.0：仅奥运会 / 世锦赛 / 世界杯，金、银、铜均计分，同届不同项目可累加。</p>

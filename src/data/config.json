@@ -15,7 +15,7 @@
     "MIXED_TEAM": 0.30
   },
   "medal_weights": {
-    "gold": 1.00,
+    "gold": 1.50,
     "silver": 0.60,
     "bronze": 0.35
   },
