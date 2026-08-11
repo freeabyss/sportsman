@@ -1,0 +1,2723 @@
+{
+  "tournaments": [
+    {
+      "id": "1959-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1959,
+      "start_date": "1959-09-13",
+      "end_date": "1959-10-03",
+      "location": "北京",
+      "edition": "第1届",
+      "participant_count": null
+    },
+    {
+      "id": "1965-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1965,
+      "start_date": "1965-09-12",
+      "end_date": "1965-09-28",
+      "location": "北京",
+      "edition": "第2届",
+      "participant_count": null
+    },
+    {
+      "id": "1975-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1975,
+      "start_date": "1975-09-12",
+      "end_date": "1975-09-28",
+      "location": "北京",
+      "edition": "第3届",
+      "participant_count": null
+    },
+    {
+      "id": "1979-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1979,
+      "start_date": "1979-09-15",
+      "end_date": "1979-09-30",
+      "location": "北京",
+      "edition": "第4届",
+      "participant_count": null
+    },
+    {
+      "id": "1983-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1983,
+      "start_date": "1983-09-18",
+      "end_date": "1983-10-01",
+      "location": "上海",
+      "edition": "第5届",
+      "participant_count": null
+    },
+    {
+      "id": "1987-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1987,
+      "start_date": "1987-11-20",
+      "end_date": "1987-12-05",
+      "location": "广东",
+      "edition": "第6届",
+      "participant_count": null
+    },
+    {
+      "id": "1993-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1993,
+      "start_date": "1993-09-04",
+      "end_date": "1993-09-15",
+      "location": "北京",
+      "edition": "第7届",
+      "participant_count": null
+    },
+    {
+      "id": "1997-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 1997,
+      "start_date": "1997-10-12",
+      "end_date": "1997-10-24",
+      "location": "上海",
+      "edition": "第8届",
+      "participant_count": null
+    },
+    {
+      "id": "2001-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 2001,
+      "start_date": "2001-11-11",
+      "end_date": "2001-11-25",
+      "location": "广东",
+      "edition": "第9届",
+      "participant_count": null
+    },
+    {
+      "id": "2005-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 2005,
+      "start_date": "2005-10-12",
+      "end_date": "2005-10-23",
+      "location": "江苏",
+      "edition": "第10届",
+      "participant_count": null
+    },
+    {
+      "id": "2009-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 2009,
+      "start_date": "2009-10-16",
+      "end_date": "2009-10-28",
+      "location": "山东",
+      "edition": "第11届",
+      "participant_count": null
+    },
+    {
+      "id": "2013-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 2013,
+      "start_date": "2013-08-31",
+      "end_date": "2013-09-12",
+      "location": "辽宁",
+      "edition": "第12届",
+      "participant_count": null
+    },
+    {
+      "id": "2017-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 2017,
+      "start_date": "2017-08-28",
+      "end_date": "2017-09-06",
+      "location": "天津",
+      "edition": "第13届",
+      "participant_count": 200
+    },
+    {
+      "id": "2021-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 2021,
+      "start_date": "2021-09-17",
+      "end_date": "2021-09-26",
+      "location": "陕西",
+      "edition": "第14届",
+      "participant_count": 200
+    },
+    {
+      "id": "2025-national-games",
+      "name": "全国运动会",
+      "type": "national_games",
+      "level": "A+",
+      "year": 2025,
+      "start_date": "2025-11-09",
+      "end_date": "2025-11-21",
+      "location": "广东·香港·澳门",
+      "edition": "第15届",
+      "participant_count": null
+    }
+  ],
+  "events": [
+    {
+      "id": "1959-national-games-ms",
+      "tournament_id": "1959-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "王传耀",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "庄家富",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "姜永宁",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1959-national-games-ws",
+      "tournament_id": "1959-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "胡克明",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "叶佩琼",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "孙梅英",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1959-national-games-md",
+      "tournament_id": "1959-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "姜永宁",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "庄家富",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1959-national-games-wd",
+      "tournament_id": "1959-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "邱钟惠",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "叶佩琼",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1959-national-games-xd",
+      "tournament_id": "1959-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "zhuang-zedong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邱钟惠",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1959-national-games-mt",
+      "tournament_id": "1959-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "杨瑞华",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐寅生",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-furong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "薛伟初",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张燮林",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1959-national-games-wt",
+      "tournament_id": "1959-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "孙梅英",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邱钟惠",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "叶佩琼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王健",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘美英",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1965-national-games-ms",
+      "tournament_id": "1965-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "zhuang-zedong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "何祖彬",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张燮林",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1965-national-games-ws",
+      "tournament_id": "1965-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林慧卿",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李赫男",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "李莉",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1965-national-games-md",
+      "tournament_id": "1965-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "li-furong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐寅生",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1965-national-games-wd",
+      "tournament_id": "1965-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "梁丽珍",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄玉环",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1965-national-games-xd",
+      "tournament_id": "1965-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "陆巨芳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "梁丽珍",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1965-national-games-mt",
+      "tournament_id": "1965-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "张燮林",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐寅生",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-furong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "余长春",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "于贻泽",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1965-national-games-wt",
+      "tournament_id": "1965-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "林慧卿",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郑敏之",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李赫男",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周一玲",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林秀英",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1975-national-games-ms",
+      "tournament_id": "1975-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "王文荣",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "刁文元",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "王健强",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1975-national-games-ws",
+      "tournament_id": "1975-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "阎桂丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "魏力婕",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "余锦佳",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "黄锡萍",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1975-national-games-md",
+      "tournament_id": "1975-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "liang-geliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李卓敏",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1975-national-games-wd",
+      "tournament_id": "1975-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "刘新艳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李明",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1975-national-games-xd",
+      "tournament_id": "1975-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "李鹏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李明",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1975-national-games-mt",
+      "tournament_id": "1975-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "谷振江",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "宋良",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李鹏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王俊",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1975-national-games-wt",
+      "tournament_id": "1975-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "阎桂丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "魏力婕",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘世旭",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王碧玲",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1979-national-games-ms",
+      "tournament_id": "1979-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "王会元",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王燕生",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "滕毅",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1979-national-games-ws",
+      "tournament_id": "1979-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "齐宝香",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "倪夏莲",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "卜启娟",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1979-national-games-md",
+      "tournament_id": "1979-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "廖福民",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄坚果",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1979-national-games-wd",
+      "tournament_id": "1979-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "沈剑萍",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "戴丽丽",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1979-national-games-xd",
+      "tournament_id": "1979-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "王会元",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘新艳",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1979-national-games-mt",
+      "tournament_id": "1979-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "李振恃",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "施之皓",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李隼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "丁毅",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1979-national-games-wt",
+      "tournament_id": "1979-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "刘扬",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "宋霞",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "赵虹",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "段建萍",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1983-national-games-ms",
+      "tournament_id": "1983-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "惠钧",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢赛克",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "王宝军",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1983-national-games-ws",
+      "tournament_id": "1983-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "焦志敏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "戴丽丽",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "cao-yanhua",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1983-national-games-md",
+      "tournament_id": "1983-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "江嘉良",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄文冠",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1983-national-games-wd",
+      "tournament_id": "1983-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "沈剑萍",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "戴丽丽",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1983-national-games-xd",
+      "tournament_id": "1983-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "滕义",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "赵小云",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1983-national-games-mt",
+      "tournament_id": "1983-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "范长茂",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "施之皓",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "梁猛",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "丁毅",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1983-national-games-wt",
+      "tournament_id": "1983-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "cao-yanhua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "倪夏莲",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "何智丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "卜启娟",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1987-national-games-ms",
+      "tournament_id": "1987-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "万国辉",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "范宝忠",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "滕毅",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1987-national-games-ws",
+      "tournament_id": "1987-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "焦志敏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "qiao-hong",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈静",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "樊建欣",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1987-national-games-md",
+      "tournament_id": "1987-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "陈龙灿",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "成应华",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1987-national-games-wd",
+      "tournament_id": "1987-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "耿丽娟",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李惠芬",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1987-national-games-xd",
+      "tournament_id": "1987-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "王振义",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘伟",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1987-national-games-mt",
+      "tournament_id": "1987-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "万国辉",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "杨建华",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "范长茂",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "孙灵",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1987-national-games-wt",
+      "tournament_id": "1987-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "刘伟",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "韩艳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "乔云丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "乔云萍",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "高辉",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1993-national-games-ms",
+      "tournament_id": "1993-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "吕林",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林志刚",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "李静",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "熊柯",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1993-national-games-ws",
+      "tournament_id": "1993-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "deng-yaping",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "樊建欣",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "唐薇依",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "赵多多",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1993-national-games-md",
+      "tournament_id": "1993-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1993-national-games-wd",
+      "tournament_id": "1993-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "邬娜",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1993-national-games-xd",
+      "tournament_id": "1993-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "王振义",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "乔云萍",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1993-national-games-mt",
+      "tournament_id": "1993-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "陈志斌",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张雷",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "熊柯",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "赵谨",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "雷洋",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1993-national-games-wt",
+      "tournament_id": "1993-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "樊建欣",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "高军",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郑源",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "满丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王秀明",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1997-national-games-ms",
+      "tournament_id": "1997-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-lin",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "冯喆",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1997-national-games-ws",
+      "tournament_id": "1997-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "deng-yaping",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王辉",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "li-ju",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "1997-national-games-md",
+      "tournament_id": "1997-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1997-national-games-wd",
+      "tournament_id": "1997-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "deng-yaping",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张辉",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1997-national-games-xd",
+      "tournament_id": "1997-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "秦志戬",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "yang-ying",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1997-national-games-mt",
+      "tournament_id": "1997-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘国正",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林志刚",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李静",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李肇民",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1997-national-games-wt",
+      "tournament_id": "1997-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "yang-ying",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邬娜",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "管蓓",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张莹莹",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2001-national-games-ms",
+      "tournament_id": "2001-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "秦志戬",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "kong-linghui",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2001-national-games-ws",
+      "tournament_id": "2001-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张莹莹",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "li-ju",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2001-national-games-md",
+      "tournament_id": "2001-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘国正",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2001-national-games-wd",
+      "tournament_id": "2001-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张瑞",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2001-national-games-xd",
+      "tournament_id": "2001-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "秦志戬",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "yang-ying",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2001-national-games-mt",
+      "tournament_id": "2001-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "韩阳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "白石",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2001-national-games-wt",
+      "tournament_id": "2001-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李嫱冰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "朱虹",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "贾贝贝",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-national-games-ms",
+      "tournament_id": "2005-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-hao",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2005-national-games-ws",
+      "tournament_id": "2005-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2005-national-games-md",
+      "tournament_id": "2005-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘杉",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-national-games-wd",
+      "tournament_id": "2005-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "彭陆洋",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-national-games-xd",
+      "tournament_id": "2005-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "徐辉",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-national-games-mt",
+      "tournament_id": "2005-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "陈玘",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "单明杰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "秦志戬",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "阎森",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张勇",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-national-games-wt",
+      "tournament_id": "2005-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "朱虹",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "贾贝贝",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-national-games-ms",
+      "tournament_id": "2009-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2009-national-games-ws",
+      "tournament_id": "2009-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2009-national-games-md",
+      "tournament_id": "2009-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-national-games-wd",
+      "tournament_id": "2009-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "侯晓旭",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-national-games-xd",
+      "tournament_id": "2009-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "文佳",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-national-games-mt",
+      "tournament_id": "2009-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "雷振华",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李木桥",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "尹航",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-national-games-wt",
+      "tournament_id": "2009-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "朱虹",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "卢璐",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-national-games-ms",
+      "tournament_id": "2013-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2013-national-games-ws",
+      "tournament_id": "2013-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2013-national-games-md",
+      "tournament_id": "2013-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "周雨",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-national-games-wd",
+      "tournament_id": "2013-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "曹臻",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "木子",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-national-games-xd",
+      "tournament_id": "2013-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-national-games-mt",
+      "tournament_id": "2013-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周雨",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈玘",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "尹航",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-national-games-wt",
+      "tournament_id": "2013-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "顾玉婷",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "杨艳梅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "商圆圆",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-national-games-ms",
+      "tournament_id": "2017-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2017-national-games-ws",
+      "tournament_id": "2017-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2017-national-games-md",
+      "tournament_id": "2017-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "周雨",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-national-games-wd",
+      "tournament_id": "2017-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "木子",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "顾玉婷",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-national-games-xd",
+      "tournament_id": "2017-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "于子洋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-national-games-mt",
+      "tournament_id": "2017-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "尚坤",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "赵子豪",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-national-games-wt",
+      "tournament_id": "2017-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郭艳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "范思琦",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-national-games-ms",
+      "tournament_id": "2021-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘丁硕",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2021-national-games-ws",
+      "tournament_id": "2021-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2021-national-games-md",
+      "tournament_id": "2021-national-games",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-national-games-wd",
+      "tournament_id": "2021-national-games",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "车晓曦",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-national-games-xd",
+      "tournament_id": "2021-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-national-games-mt",
+      "tournament_id": "2021-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周启豪",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-national-games-wt",
+      "tournament_id": "2021-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李佳燚",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2025-national-games-ms",
+      "tournament_id": "2025-national-games",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-national-games-ws",
+      "tournament_id": "2025-national-games",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-national-games-xd",
+      "tournament_id": "2025-national-games",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2025-national-games-mt",
+      "tournament_id": "2025-national-games",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄友政",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐晨皓",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2025-national-games-wt",
+      "tournament_id": "2025-national-games",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "范思琦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王晓彤",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐奕",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "孙艺祯",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    }
+  ]
+}

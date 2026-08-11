@@ -1,0 +1,1733 @@
+{
+  "tournaments": [
+    {
+      "id": "2022-wtt-grand-smash-singapore",
+      "name": "WTT新加坡大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2022,
+      "start_date": "2022-03-07",
+      "end_date": "2022-03-20",
+      "location": "新加坡",
+      "edition": "2022",
+      "participant_count": 128
+    },
+    {
+      "id": "2023-wtt-grand-smash-singapore",
+      "name": "WTT新加坡大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2023,
+      "start_date": "2023-03-09",
+      "end_date": "2023-03-19",
+      "location": "新加坡",
+      "edition": "2023",
+      "participant_count": 128
+    },
+    {
+      "id": "2024-wtt-grand-smash-singapore",
+      "name": "WTT新加坡大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2024,
+      "start_date": "2024-03-07",
+      "end_date": "2024-03-17",
+      "location": "新加坡",
+      "edition": "2024",
+      "participant_count": 128
+    },
+    {
+      "id": "2024-wtt-grand-smash-saudi",
+      "name": "WTT沙特大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2024,
+      "start_date": "2024-05-01",
+      "end_date": "2024-05-11",
+      "location": "沙特吉达",
+      "edition": "2024",
+      "participant_count": 128
+    },
+    {
+      "id": "2024-wtt-grand-smash-china",
+      "name": "WTT中国大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2024,
+      "start_date": "2024-09-26",
+      "end_date": "2024-10-06",
+      "location": "中国北京",
+      "edition": "2024",
+      "participant_count": 128
+    },
+    {
+      "id": "2025-wtt-grand-smash-singapore",
+      "name": "WTT新加坡大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2025,
+      "start_date": "2025-01-30",
+      "end_date": "2025-02-09",
+      "location": "新加坡",
+      "edition": "2025",
+      "participant_count": 128
+    },
+    {
+      "id": "2025-wtt-grand-smash-usa",
+      "name": "WTT美国大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2025,
+      "start_date": "2025-07-03",
+      "end_date": "2025-07-13",
+      "location": "美国拉斯维加斯",
+      "edition": "2025",
+      "participant_count": 128
+    },
+    {
+      "id": "2025-wtt-grand-smash-sweden",
+      "name": "WTT欧洲大满贯瑞典站",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2025,
+      "start_date": "2025-08-14",
+      "end_date": "2025-08-24",
+      "location": "瑞典马尔默",
+      "edition": "2025",
+      "participant_count": 128
+    },
+    {
+      "id": "2025-wtt-grand-smash-china",
+      "name": "WTT中国大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2025,
+      "start_date": "2025-09-25",
+      "end_date": "2025-10-05",
+      "location": "中国北京",
+      "edition": "2025",
+      "participant_count": 128
+    },
+    {
+      "id": "2026-wtt-grand-smash-singapore",
+      "name": "WTT新加坡大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2026,
+      "start_date": "2026-02-19",
+      "end_date": "2026-03-01",
+      "location": "新加坡",
+      "edition": "2026",
+      "participant_count": 128
+    },
+    {
+      "id": "2026-wtt-grand-smash-usa",
+      "name": "WTT美国大满贯",
+      "type": "wtt_grand_smash",
+      "level": "A+",
+      "year": 2026,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-06",
+      "location": "美国拉斯维加斯",
+      "edition": "2026",
+      "participant_count": 128
+    }
+  ],
+  "events": [
+    {
+      "id": "2022-wtt-grand-smash-singapore-ms",
+      "tournament_id": "2022-wtt-grand-smash-singapore",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "宇田幸矢",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2022-wtt-grand-smash-singapore-ws",
+      "tournament_id": "2022-wtt-grand-smash-singapore",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2022-wtt-grand-smash-singapore-md",
+      "tournament_id": "2022-wtt-grand-smash-singapore",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "宇田幸矢",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "户上隼辅",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2022-wtt-grand-smash-singapore-wd",
+      "tournament_id": "2022-wtt-grand-smash-singapore",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "早田希娜",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "伊藤美诚",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2022-wtt-grand-smash-singapore-xd",
+      "tournament_id": "2022-wtt-grand-smash-singapore",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "郑怡静",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-grand-smash-singapore-ms",
+      "tournament_id": "2023-wtt-grand-smash-singapore",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "雨果·卡尔德拉诺",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-grand-smash-singapore-ws",
+      "tournament_id": "2023-wtt-grand-smash-singapore",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "张瑞",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-grand-smash-singapore-md",
+      "tournament_id": "2023-wtt-grand-smash-singapore",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张禹珍",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林钟勋",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-grand-smash-singapore-wd",
+      "tournament_id": "2023-wtt-grand-smash-singapore",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-grand-smash-singapore-xd",
+      "tournament_id": "2023-wtt-grand-smash-singapore",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本智和",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "早田希娜",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-singapore-ms",
+      "tournament_id": "2024-wtt-grand-smash-singapore",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-singapore-ws",
+      "tournament_id": "2024-wtt-grand-smash-singapore",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-singapore-md",
+      "tournament_id": "2024-wtt-grand-smash-singapore",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-singapore-wd",
+      "tournament_id": "2024-wtt-grand-smash-singapore",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郑怡静",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "李昱谆",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-singapore-xd",
+      "tournament_id": "2024-wtt-grand-smash-singapore",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林钟勋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-saudi-ms",
+      "tournament_id": "2024-wtt-grand-smash-saudi",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "帕特里克·弗朗西斯卡",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "张禹珍",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-saudi-ws",
+      "tournament_id": "2024-wtt-grand-smash-saudi",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "早田希娜",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-saudi-md",
+      "tournament_id": "2024-wtt-grand-smash-saudi",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "户上隼辅",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "篠塚大登",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-saudi-wd",
+      "tournament_id": "2024-wtt-grand-smash-saudi",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "田志希",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-saudi-xd",
+      "tournament_id": "2024-wtt-grand-smash-saudi",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄镇廷",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "杜凯琹",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-china-ms",
+      "tournament_id": "2024-wtt-grand-smash-china",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "向鹏",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-china-ws",
+      "tournament_id": "2024-wtt-grand-smash-china",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "范思琦",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-china-md",
+      "tournament_id": "2024-wtt-grand-smash-china",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-china-wd",
+      "tournament_id": "2024-wtt-grand-smash-china",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-grand-smash-china-xd",
+      "tournament_id": "2024-wtt-grand-smash-china",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-singapore-ms",
+      "tournament_id": "2025-wtt-grand-smash-singapore",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "艾利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-singapore-ws",
+      "tournament_id": "2025-wtt-grand-smash-singapore",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-singapore-md",
+      "tournament_id": "2025-wtt-grand-smash-singapore",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "高承睿",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-singapore-wd",
+      "tournament_id": "2025-wtt-grand-smash-singapore",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-singapore-xd",
+      "tournament_id": "2025-wtt-grand-smash-singapore",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "松岛辉空",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-usa-ms",
+      "tournament_id": "2025-wtt-grand-smash-usa",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本智和",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-usa-ws",
+      "tournament_id": "2025-wtt-grand-smash-usa",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈熠",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "伊藤美诚",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-usa-md",
+      "tournament_id": "2025-wtt-grand-smash-usa",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "林钟勋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "安宰贤",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "艾利克斯·勒布伦",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-usa-wd",
+      "tournament_id": "2025-wtt-grand-smash-usa",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-usa-xd",
+      "tournament_id": "2025-wtt-grand-smash-usa",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林钟勋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-sweden-ms",
+      "tournament_id": "2025-wtt-grand-smash-sweden",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "特鲁斯·莫雷加德",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "西蒙·高茨",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "贝内迪克特·杜达",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-sweden-ws",
+      "tournament_id": "2025-wtt-grand-smash-sweden",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈熠",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "石洵瑶",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-sweden-md",
+      "tournament_id": "2025-wtt-grand-smash-sweden",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "黄镇廷",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈颢桦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "黄友政",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-sweden-wd",
+      "tournament_id": "2025-wtt-grand-smash-sweden",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "大藤沙月",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-sweden-xd",
+      "tournament_id": "2025-wtt-grand-smash-sweden",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林钟勋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-china-ms",
+      "tournament_id": "2025-wtt-grand-smash-china",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "向鹏",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-china-ws",
+      "tournament_id": "2025-wtt-grand-smash-china",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-china-md",
+      "tournament_id": "2025-wtt-grand-smash-china",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周启豪",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈俊菘",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-china-wd",
+      "tournament_id": "2025-wtt-grand-smash-china",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "早田希娜",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "朱芊曦",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-grand-smash-china-xd",
+      "tournament_id": "2025-wtt-grand-smash-china",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄友政",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈熠",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-singapore-ms",
+      "tournament_id": "2026-wtt-grand-smash-singapore",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "特鲁斯·莫雷加德",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-singapore-ws",
+      "tournament_id": "2026-wtt-grand-smash-singapore",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈熠",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "萨比娜·温特",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-singapore-md",
+      "tournament_id": "2026-wtt-grand-smash-singapore",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "艾利克斯·勒布伦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "黄友政",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-singapore-wd",
+      "tournament_id": "2026-wtt-grand-smash-singapore",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "早田希娜",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "长崎美柚",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-singapore-xd",
+      "tournament_id": "2026-wtt-grand-smash-singapore",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "雨果·卡尔德拉诺",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "布鲁娜·高桥",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林钟勋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-usa-ms",
+      "tournament_id": "2026-wtt-grand-smash-usa",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "松岛辉空",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "弗拉基米尔·西多伦科",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "特鲁斯·莫雷加德",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-usa-ws",
+      "tournament_id": "2026-wtt-grand-smash-usa",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-usa-md",
+      "tournament_id": "2026-wtt-grand-smash-usa",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "温瑞博",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "袁励岑",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "黄友政",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-usa-wd",
+      "tournament_id": "2026-wtt-grand-smash-usa",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "早田希娜",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-grand-smash-usa-xd",
+      "tournament_id": "2026-wtt-grand-smash-usa",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "林钟勋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    }
+  ]
+}

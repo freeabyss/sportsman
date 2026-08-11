@@ -1,0 +1,1591 @@
+{
+  "tournaments": [
+    {
+      "id": "1999-csl",
+      "name": "1999赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 1999,
+      "start_date": "1999-06-01",
+      "end_date": "1999-12-31",
+      "location": "全国",
+      "edition": "1999",
+      "participant_count": 12
+    },
+    {
+      "id": "2000-csl",
+      "name": "2000–2001赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2000,
+      "start_date": "2000-07-01",
+      "end_date": "2001-03-31",
+      "location": "全国",
+      "edition": "2000–2001",
+      "participant_count": 16
+    },
+    {
+      "id": "2002-csl",
+      "name": "2002赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2002,
+      "start_date": "2002-06-01",
+      "end_date": "2002-12-31",
+      "location": "全国",
+      "edition": "2002",
+      "participant_count": 12
+    },
+    {
+      "id": "2003-csl",
+      "name": "2003–2004赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2003,
+      "start_date": "2003-07-01",
+      "end_date": "2004-11-30",
+      "location": "全国多地主客场",
+      "edition": "2003–2004",
+      "participant_count": 24
+    },
+    {
+      "id": "2005-csl",
+      "name": "2005赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2005,
+      "start_date": "2005-06-01",
+      "end_date": "2005-12-31",
+      "location": "全国",
+      "edition": "2005",
+      "participant_count": 16
+    },
+    {
+      "id": "2006-csl",
+      "name": "2006赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2006,
+      "start_date": "2006-06-01",
+      "end_date": "2006-12-31",
+      "location": "全国",
+      "edition": "2006",
+      "participant_count": 16
+    },
+    {
+      "id": "2007-csl",
+      "name": "2007赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2007,
+      "start_date": "2007-06-01",
+      "end_date": "2007-12-31",
+      "location": "全国",
+      "edition": "2007",
+      "participant_count": 16
+    },
+    {
+      "id": "2008-csl",
+      "name": "2008赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2008,
+      "start_date": "2008-06-01",
+      "end_date": "2008-12-31",
+      "location": "全国",
+      "edition": "2008",
+      "participant_count": 16
+    },
+    {
+      "id": "2009-csl",
+      "name": "2009赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2009,
+      "start_date": "2009-06-01",
+      "end_date": "2009-12-31",
+      "location": "浙江宁波（北仑）",
+      "edition": "2009",
+      "participant_count": 16
+    },
+    {
+      "id": "2010-csl",
+      "name": "2010赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2010,
+      "start_date": "2010-06-09",
+      "end_date": "2010-09-26",
+      "location": "全国",
+      "edition": "2010",
+      "participant_count": 18
+    },
+    {
+      "id": "2011-csl",
+      "name": "2011赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2011,
+      "start_date": "2011-06-01",
+      "end_date": "2011-12-31",
+      "location": "全国",
+      "edition": "2011",
+      "participant_count": 18
+    },
+    {
+      "id": "2012-csl",
+      "name": "2012赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2012,
+      "start_date": "2012-06-01",
+      "end_date": "2012-12-31",
+      "location": "全国",
+      "edition": "2012",
+      "participant_count": 18
+    },
+    {
+      "id": "2013-csl",
+      "name": "2013赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2013,
+      "start_date": "2013-06-01",
+      "end_date": "2013-12-31",
+      "location": "全国",
+      "edition": "2013",
+      "participant_count": 18
+    },
+    {
+      "id": "2014-csl",
+      "name": "2014赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2014,
+      "start_date": "2014-05-01",
+      "end_date": "2014-12-31",
+      "location": "全国",
+      "edition": "2014",
+      "participant_count": 20
+    },
+    {
+      "id": "2015-csl",
+      "name": "2015赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2015,
+      "start_date": "2015-05-01",
+      "end_date": "2015-09-13",
+      "location": "全国（总决赛重庆）",
+      "edition": "2015",
+      "participant_count": 20
+    },
+    {
+      "id": "2016-csl",
+      "name": "2016赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2016,
+      "start_date": "2016-05-01",
+      "end_date": "2016-12-31",
+      "location": "全国",
+      "edition": "2016",
+      "participant_count": 20
+    },
+    {
+      "id": "2017-csl",
+      "name": "2017赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2017,
+      "start_date": "2017-05-01",
+      "end_date": "2017-12-31",
+      "location": "全国",
+      "edition": "2017",
+      "participant_count": 20
+    },
+    {
+      "id": "2018-csl",
+      "name": "2018–2019赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2018,
+      "start_date": "2018-10-10",
+      "end_date": "2019-02-28",
+      "location": "全国多地主客场",
+      "edition": "2018–2019",
+      "participant_count": 20
+    },
+    {
+      "id": "2020-csl",
+      "name": "2020赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2020,
+      "start_date": "2020-12-01",
+      "end_date": "2020-12-31",
+      "location": "广东（长隆）",
+      "edition": "2020",
+      "participant_count": 16
+    },
+    {
+      "id": "2021-csl",
+      "name": "2021赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2021,
+      "start_date": "2021-10-03",
+      "end_date": "2021-10-12",
+      "location": "山东威海",
+      "edition": "2021",
+      "participant_count": 15
+    },
+    {
+      "id": "2022-csl",
+      "name": "2022赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2022,
+      "start_date": "2022-11-01",
+      "end_date": "2022-12-31",
+      "location": "山东（威海/黄石）",
+      "edition": "2022",
+      "participant_count": 15
+    },
+    {
+      "id": "2023-csl",
+      "name": "2023赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2023,
+      "start_date": "2023-07-15",
+      "end_date": "2023-12-24",
+      "location": "贵州遵义/江西吉安（分站）·深圳（总决赛）",
+      "edition": "2023",
+      "participant_count": 15
+    },
+    {
+      "id": "2024-csl",
+      "name": "2024赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2024,
+      "start_date": "2024-12-12",
+      "end_date": "2025-01-01",
+      "location": "湖南长沙（分站）·上海（总决赛）",
+      "edition": "2024",
+      "participant_count": 15
+    },
+    {
+      "id": "2025-csl",
+      "name": "2025赛季中国乒乓球超级联赛",
+      "type": "csl",
+      "level": "C",
+      "year": 2025,
+      "start_date": "2025-06-01",
+      "end_date": "2025-12-31",
+      "location": "全国",
+      "edition": "2025",
+      "participant_count": 15
+    }
+  ],
+  "events": [
+    {
+      "id": "1999-csl-mt",
+      "tournament_id": "1999-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "kong-linghui",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王飞",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张鹏",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1999-csl-wt",
+      "tournament_id": "1999-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "yang-ying",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林菱",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-csl-mt",
+      "tournament_id": "2000-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-csl-wt",
+      "tournament_id": "2000-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "牛剑锋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "白杨",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2002-csl-mt",
+      "tournament_id": "2002-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘国正",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张勇",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2002-csl-wt",
+      "tournament_id": "2002-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "牛剑锋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "白杨",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2003-csl-mt",
+      "tournament_id": "2003-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张超",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "凌伟超",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2003-csl-wt",
+      "tournament_id": "2003-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李楠",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-csl-mt",
+      "tournament_id": "2005-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郝帅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "高礼泽",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-csl-wt",
+      "tournament_id": "2005-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "彭陆洋",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2006-csl-mt",
+      "tournament_id": "2006-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郝帅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "高礼泽",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2006-csl-wt",
+      "tournament_id": "2006-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2007-csl-mt",
+      "tournament_id": "2007-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "柳洋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李静",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2007-csl-wt",
+      "tournament_id": "2007-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2008-csl-mt",
+      "tournament_id": "2008-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "高礼泽",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2008-csl-wt",
+      "tournament_id": "2008-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "彭陆洋",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-csl-mt",
+      "tournament_id": "2009-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "唐鹏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "庄智渊",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-csl-wt",
+      "tournament_id": "2009-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2010-csl-mt",
+      "tournament_id": "2010-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张超",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "朱世赫",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2010-csl-wt",
+      "tournament_id": "2010-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "彭陆洋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "金暻娥",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2011-csl-mt",
+      "tournament_id": "2011-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郝帅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "波尔",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2011-csl-wt",
+      "tournament_id": "2011-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "彭陆洋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "金暻娥",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2012-csl-mt",
+      "tournament_id": "2012-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "朱世赫",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2012-csl-wt",
+      "tournament_id": "2012-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "冯亚兰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "饶静文",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-csl-mt",
+      "tournament_id": "2013-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "朱世赫",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-csl-wt",
+      "tournament_id": "2013-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "木子",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "曹臻",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘曦",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2014-csl-mt",
+      "tournament_id": "2014-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郝帅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "方博",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吴灏",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2014-csl-wt",
+      "tournament_id": "2014-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "顾玉婷",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "顾若辰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王璇",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2015-csl-mt",
+      "tournament_id": "2015-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吕翔",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2015-csl-wt",
+      "tournament_id": "2015-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "冯亚兰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "文佳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "盛丹丹",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李佳原",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2016-csl-mt",
+      "tournament_id": "2016-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周雨",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐晨皓",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2016-csl-wt",
+      "tournament_id": "2016-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "冯亚兰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘高阳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张瑞",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-csl-mt",
+      "tournament_id": "2017-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "薛飞",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "夏易正",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-csl-wt",
+      "tournament_id": "2017-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "冯亚兰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张瑞",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "孙艺祯",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张缤月",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2018-csl-mt",
+      "tournament_id": "2018-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "方博",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "朱霖峰",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2018-csl-wt",
+      "tournament_id": "2018-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘高阳",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2020-csl-mt",
+      "tournament_id": "2020-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "方博",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2020-csl-wt",
+      "tournament_id": "2020-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-csl-mt",
+      "tournament_id": "2021-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周启豪",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘丁硕",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周雨",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "于子洋",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-csl-wt",
+      "tournament_id": "2021-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "范思琦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王添艺",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2022-csl-mt",
+      "tournament_id": "2022-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "袁励岑",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐瑛彬",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘丁硕",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2022-csl-wt",
+      "tournament_id": "2022-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "范思琦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐奕",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王添艺",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2023-csl-mt",
+      "tournament_id": "2023-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "袁励岑",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐瑛彬",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2023-csl-wt",
+      "tournament_id": "2023-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2024-csl-mt",
+      "tournament_id": "2024-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周启豪",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "于子洋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄友政",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2024-csl-wt",
+      "tournament_id": "2024-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "范思琦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐奕",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2025-csl-mt",
+      "tournament_id": "2025-csl",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄友政",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周启豪",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "于子洋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2025-csl-wt",
+      "tournament_id": "2025-csl",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "覃予萱",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "平野美宇",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    }
+  ]
+}

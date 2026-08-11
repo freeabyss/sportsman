@@ -1,0 +1,3975 @@
+{
+  "tournaments": [
+    {
+      "id": "1972-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1972,
+      "start_date": "1972-09-02",
+      "end_date": "1972-09-13",
+      "location": "北京",
+      "edition": "第1届",
+      "participant_count": 200
+    },
+    {
+      "id": "1974-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1974,
+      "start_date": "1974-04-02",
+      "end_date": "1974-04-15",
+      "location": "横滨",
+      "edition": "第2届",
+      "participant_count": 200
+    },
+    {
+      "id": "1976-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1976,
+      "start_date": "1976-04-26",
+      "end_date": "1976-05-07",
+      "location": "平壤",
+      "edition": "第3届",
+      "participant_count": 200
+    },
+    {
+      "id": "1978-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1978,
+      "start_date": "1978-11-22",
+      "end_date": "1978-12-02",
+      "location": "吉隆坡",
+      "edition": "第4届",
+      "participant_count": 200
+    },
+    {
+      "id": "1980-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1980,
+      "start_date": "1980-05-10",
+      "end_date": "1980-05-18",
+      "location": "加尔各答",
+      "edition": "第5届",
+      "participant_count": 200
+    },
+    {
+      "id": "1982-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1982,
+      "start_date": "1982-05-24",
+      "end_date": "1982-06-03",
+      "location": "雅加达",
+      "edition": "第6届",
+      "participant_count": 200
+    },
+    {
+      "id": "1984-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1984,
+      "start_date": "1984-10-20",
+      "end_date": "1984-10-28",
+      "location": "伊斯兰堡",
+      "edition": "第7届",
+      "participant_count": 200
+    },
+    {
+      "id": "1986-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1986,
+      "start_date": "1986-10-07",
+      "end_date": "1986-10-14",
+      "location": "深圳",
+      "edition": "第8届",
+      "participant_count": 200
+    },
+    {
+      "id": "1988-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1988,
+      "start_date": "1988-05-15",
+      "end_date": "1988-05-22",
+      "location": "新泻",
+      "edition": "第9届",
+      "participant_count": 200
+    },
+    {
+      "id": "1990-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1990,
+      "start_date": "1990-12-09",
+      "end_date": "1990-12-17",
+      "location": "吉隆坡",
+      "edition": "第10届",
+      "participant_count": 200
+    },
+    {
+      "id": "1992-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1992,
+      "start_date": "1992-11-07",
+      "end_date": "1992-11-14",
+      "location": "新德里",
+      "edition": "第11届",
+      "participant_count": 200
+    },
+    {
+      "id": "1994-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1994,
+      "start_date": "1994-09-20",
+      "end_date": "1994-09-27",
+      "location": "天津",
+      "edition": "第12届",
+      "participant_count": 200
+    },
+    {
+      "id": "1996-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1996,
+      "start_date": "1996-12-04",
+      "end_date": "1996-12-10",
+      "location": "新加坡加冷",
+      "edition": "第13届",
+      "participant_count": 200
+    },
+    {
+      "id": "1998-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 1998,
+      "start_date": "1998-09-28",
+      "end_date": "1998-10-04",
+      "location": "大阪",
+      "edition": "第14届",
+      "participant_count": 200
+    },
+    {
+      "id": "2000-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2000,
+      "start_date": "2000-05-01",
+      "end_date": "2000-05-08",
+      "location": "多哈",
+      "edition": "第15届",
+      "participant_count": 200
+    },
+    {
+      "id": "2003-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2003,
+      "start_date": "2003-02-22",
+      "end_date": "2003-02-28",
+      "location": "曼谷",
+      "edition": "第16届",
+      "participant_count": 200
+    },
+    {
+      "id": "2005-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2005,
+      "start_date": "2005-08-27",
+      "end_date": "2005-09-02",
+      "location": "济州",
+      "edition": "第17届",
+      "participant_count": 200
+    },
+    {
+      "id": "2007-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2007,
+      "start_date": "2007-09-17",
+      "end_date": "2007-09-23",
+      "location": "扬州",
+      "edition": "第18届",
+      "participant_count": 200
+    },
+    {
+      "id": "2009-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2009,
+      "start_date": "2009-11-16",
+      "end_date": "2009-11-22",
+      "location": "勒克瑙",
+      "edition": "第19届",
+      "participant_count": 200
+    },
+    {
+      "id": "2011-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2011,
+      "start_date": "2012-02-23",
+      "end_date": "2012-03-01",
+      "location": "澳门",
+      "edition": "第20届",
+      "participant_count": 200
+    },
+    {
+      "id": "2013-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2013,
+      "start_date": "2013-06-30",
+      "end_date": "2013-07-07",
+      "location": "釜山",
+      "edition": "第21届",
+      "participant_count": 200
+    },
+    {
+      "id": "2015-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2015,
+      "start_date": "2015-09-26",
+      "end_date": "2015-10-03",
+      "location": "芭提雅",
+      "edition": "第22届",
+      "participant_count": 200
+    },
+    {
+      "id": "2017-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2017,
+      "start_date": "2017-04-09",
+      "end_date": "2017-04-16",
+      "location": "无锡",
+      "edition": "第23届",
+      "participant_count": 200
+    },
+    {
+      "id": "2019-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2019,
+      "start_date": "2019-09-15",
+      "end_date": "2019-09-22",
+      "location": "日惹",
+      "edition": "第24届",
+      "participant_count": 200
+    },
+    {
+      "id": "2021-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2021,
+      "start_date": "2021-09-28",
+      "end_date": "2021-10-05",
+      "location": "多哈",
+      "edition": "第25届",
+      "participant_count": 200
+    },
+    {
+      "id": "2023-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2023,
+      "start_date": "2023-09-03",
+      "end_date": "2023-09-10",
+      "location": "平昌",
+      "edition": "2023",
+      "participant_count": 200
+    },
+    {
+      "id": "2024-asian-championships",
+      "name": "亚洲乒乓球锦标赛",
+      "type": "asian_championships",
+      "level": "A",
+      "year": 2024,
+      "start_date": "2024-10-07",
+      "end_date": "2024-10-13",
+      "location": "阿斯塔纳",
+      "edition": "第27届",
+      "participant_count": 200
+    }
+  ],
+  "events": [
+    {
+      "id": "1972-asian-championships-ms",
+      "tournament_id": "1972-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "长谷川信彦",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1972-asian-championships-ws",
+      "tournament_id": "1972-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "李莉",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "大关行江",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1972-asian-championships-md",
+      "tournament_id": "1972-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1972-asian-championships-wd",
+      "tournament_id": "1972-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1972-asian-championships-xd",
+      "tournament_id": "1972-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "1972-asian-championships-mt",
+      "tournament_id": "1972-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "1972-asian-championships-wt",
+      "tournament_id": "1972-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "胡玉兰",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李莉",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘新艳",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邱宝琴",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1974-asian-championships-ms",
+      "tournament_id": "1974-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "长谷川信彦",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1974-asian-championships-ws",
+      "tournament_id": "1974-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "枝野富枝",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1974-asian-championships-md",
+      "tournament_id": "1974-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1974-asian-championships-wd",
+      "tournament_id": "1974-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "郑怀颖",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张立",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1974-asian-championships-xd",
+      "tournament_id": "1974-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "1974-asian-championships-mt",
+      "tournament_id": "1974-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "刁文元",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李振恃",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王嘉麟",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郗恩庭",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "许绍发",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1974-asian-championships-wt",
+      "tournament_id": "1974-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "1976-asian-championships-ms",
+      "tournament_id": "1976-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "liang-geliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1976-asian-championships-ws",
+      "tournament_id": "1976-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "张立",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张德英",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1976-asian-championships-md",
+      "tournament_id": "1976-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1976-asian-championships-wd",
+      "tournament_id": "1976-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1976-asian-championships-xd",
+      "tournament_id": "1976-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "1976-asian-championships-mt",
+      "tournament_id": "1976-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-geliang",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1976-asian-championships-wt",
+      "tournament_id": "1976-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "1978-asian-championships-ms",
+      "tournament_id": "1978-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-geliang",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1978-asian-championships-ws",
+      "tournament_id": "1978-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "cao-yanhua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "杨影(1953)",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1978-asian-championships-md",
+      "tournament_id": "1978-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1978-asian-championships-wd",
+      "tournament_id": "1978-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1978-asian-championships-xd",
+      "tournament_id": "1978-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "1978-asian-championships-mt",
+      "tournament_id": "1978-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "陈新华",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-geliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄统生",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "鲁尧华",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1978-asian-championships-wt",
+      "tournament_id": "1978-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "cao-yanhua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张德英",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张立",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "杨影(1953)",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1980-asian-championships-ms",
+      "tournament_id": "1980-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "施之皓",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1980-asian-championships-ws",
+      "tournament_id": "1980-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "齐宝香",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1980-asian-championships-md",
+      "tournament_id": "1980-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1980-asian-championships-wd",
+      "tournament_id": "1980-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "刘扬",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张德英",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1980-asian-championships-xd",
+      "tournament_id": "1980-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张德英",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1980-asian-championships-mt",
+      "tournament_id": "1980-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "蔡振华",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "施之皓",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄亮",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1980-asian-championships-wt",
+      "tournament_id": "1980-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "齐宝香",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张德英",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "童玲",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘扬",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1982-asian-championships-ms",
+      "tournament_id": "1982-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "蔡振华",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1982-asian-championships-ws",
+      "tournament_id": "1982-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "cao-yanhua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "童玲",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1982-asian-championships-md",
+      "tournament_id": "1982-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1982-asian-championships-wd",
+      "tournament_id": "1982-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "cao-yanhua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄俊群",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1982-asian-championships-xd",
+      "tournament_id": "1982-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "江嘉良",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "童玲",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1982-asian-championships-mt",
+      "tournament_id": "1982-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "蔡振华",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yuehua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "江嘉良",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1982-asian-championships-wt",
+      "tournament_id": "1982-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "cao-yanhua",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "黄俊群",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李春丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "童玲",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1984-asian-championships-ms",
+      "tournament_id": "1984-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1984-asian-championships-ws",
+      "tournament_id": "1984-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "何智丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "戴丽丽",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1984-asian-championships-md",
+      "tournament_id": "1984-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1984-asian-championships-wd",
+      "tournament_id": "1984-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1984-asian-championships-xd",
+      "tournament_id": "1984-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "戴丽丽",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1984-asian-championships-mt",
+      "tournament_id": "1984-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "陈龙灿",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "滕毅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王会元",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢赛克",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1984-asian-championships-wt",
+      "tournament_id": "1984-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "何智丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "戴丽丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "耿丽娟",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "焦志敏",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1986-asian-championships-ms",
+      "tournament_id": "1986-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "江嘉良",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1986-asian-championships-ws",
+      "tournament_id": "1986-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "何智丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "焦志敏",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1986-asian-championships-md",
+      "tournament_id": "1986-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1986-asian-championships-wd",
+      "tournament_id": "1986-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1986-asian-championships-xd",
+      "tournament_id": "1986-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "惠钧",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "耿丽娟",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1986-asian-championships-mt",
+      "tournament_id": "1986-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "陈平西",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "江嘉良",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "孙建伟",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "滕毅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王浩",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1986-asian-championships-wt",
+      "tournament_id": "1986-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "何智丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "戴丽丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "焦志敏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李惠芬",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1988-asian-championships-ms",
+      "tournament_id": "1988-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "陈龙灿",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1988-asian-championships-ws",
+      "tournament_id": "1988-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "何智丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "焦志敏",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1988-asian-championships-md",
+      "tournament_id": "1988-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1988-asian-championships-wd",
+      "tournament_id": "1988-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1988-asian-championships-xd",
+      "tournament_id": "1988-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "1988-asian-championships-mt",
+      "tournament_id": "1988-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "陈龙灿",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "耿振",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "江嘉良",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "韦晴光",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "许增才",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1988-asian-championships-wt",
+      "tournament_id": "1988-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "1990-asian-championships-ms",
+      "tournament_id": "1990-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-wenge",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1990-asian-championships-ws",
+      "tournament_id": "1990-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "qiao-hong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘伟",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1990-asian-championships-md",
+      "tournament_id": "1990-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1990-asian-championships-wd",
+      "tournament_id": "1990-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "胡小新",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "qiao-hong",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1990-asian-championships-xd",
+      "tournament_id": "1990-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "1990-asian-championships-mt",
+      "tournament_id": "1990-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-wenge",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林志刚",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吕林",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢超杰",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1990-asian-championships-wt",
+      "tournament_id": "1990-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "1992-asian-championships-ms",
+      "tournament_id": "1992-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "谢超杰",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1992-asian-championships-ws",
+      "tournament_id": "1992-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "唐薇依",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邬娜",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1992-asian-championships-md",
+      "tournament_id": "1992-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1992-asian-championships-wd",
+      "tournament_id": "1992-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "1992-asian-championships-xd",
+      "tournament_id": "1992-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邬娜",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1992-asian-championships-mt",
+      "tournament_id": "1992-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "韦晴光",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李屹",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "谢超杰",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1992-asian-championships-wt",
+      "tournament_id": "1992-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "1994-asian-championships-ms",
+      "tournament_id": "1994-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "kong-linghui",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1994-asian-championships-ws",
+      "tournament_id": "1994-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "deng-yaping",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "qiao-hong",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1994-asian-championships-md",
+      "tournament_id": "1994-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "林志刚",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1994-asian-championships-wd",
+      "tournament_id": "1994-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "刘伟",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "乔云萍",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1994-asian-championships-xd",
+      "tournament_id": "1994-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "kong-linghui",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "deng-yaping",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1994-asian-championships-mt",
+      "tournament_id": "1994-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "kong-linghui",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-tao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林志刚",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吕林",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1994-asian-championships-wt",
+      "tournament_id": "1994-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "deng-yaping",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "qiao-hong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘伟",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "乔云萍",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1996-asian-championships-ms",
+      "tournament_id": "1996-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "kong-linghui",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1996-asian-championships-ws",
+      "tournament_id": "1996-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "小山智丽",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chen",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1996-asian-championships-md",
+      "tournament_id": "1996-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "kong-linghui",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1996-asian-championships-wd",
+      "tournament_id": "1996-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1996-asian-championships-xd",
+      "tournament_id": "1996-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邬娜",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1996-asian-championships-mt",
+      "tournament_id": "1996-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "1996-asian-championships-wt",
+      "tournament_id": "1996-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邬娜",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王辉",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1998-asian-championships-ms",
+      "tournament_id": "1998-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1998-asian-championships-ws",
+      "tournament_id": "1998-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "1998-asian-championships-md",
+      "tournament_id": "1998-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1998-asian-championships-wd",
+      "tournament_id": "1998-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1998-asian-championships-xd",
+      "tournament_id": "1998-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邬娜",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1998-asian-championships-mt",
+      "tournament_id": "1998-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "liu-guoliang",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘国正",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "阎森",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "1998-asian-championships-wt",
+      "tournament_id": "1998-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "孙晋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王辉",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-asian-championships-ms",
+      "tournament_id": "2000-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "蒋澎龙",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-asian-championships-ws",
+      "tournament_id": "2000-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林菱",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李楠",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2000-asian-championships-md",
+      "tournament_id": "2000-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "阎森",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-asian-championships-wd",
+      "tournament_id": "2000-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "li-ju",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-asian-championships-xd",
+      "tournament_id": "2000-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "阎森",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "yang-ying",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-asian-championships-mt",
+      "tournament_id": "2000-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "刘国正",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "徐辉",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "阎森",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2000-asian-championships-wt",
+      "tournament_id": "2000-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "yang-ying",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李楠",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林菱",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "孙晋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "程红霞",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2003-asian-championships-ms",
+      "tournament_id": "2003-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "唐鹏",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2003-asian-championships-ws",
+      "tournament_id": "2003-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "牛剑锋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李楠",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2003-asian-championships-md",
+      "tournament_id": "2003-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "阎森",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2003-asian-championships-wd",
+      "tournament_id": "2003-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2003-asian-championships-xd",
+      "tournament_id": "2003-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "刘国正",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李楠",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2003-asian-championships-mt",
+      "tournament_id": "2003-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "侯英超",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘国正",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "唐鹏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "王建军",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2003-asian-championships-wt",
+      "tournament_id": "2003-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "牛剑锋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "刘伟",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-asian-championships-ms",
+      "tournament_id": "2005-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李静",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2005-asian-championships-ws",
+      "tournament_id": "2005-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林菱",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-asian-championships-md",
+      "tournament_id": "2005-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "阎森",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-asian-championships-wd",
+      "tournament_id": "2005-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-asian-championships-xd",
+      "tournament_id": "2005-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-asian-championships-mt",
+      "tournament_id": "2005-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈玘",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郝帅",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2005-asian-championships-wt",
+      "tournament_id": "2005-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "2007-asian-championships-ms",
+      "tournament_id": "2007-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2007-asian-championships-ws",
+      "tournament_id": "2007-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2007-asian-championships-md",
+      "tournament_id": "2007-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "郝帅",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2007-asian-championships-wd",
+      "tournament_id": "2007-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2007-asian-championships-xd",
+      "tournament_id": "2007-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "2007-asian-championships-mt",
+      "tournament_id": "2007-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈玘",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郝帅",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2007-asian-championships-wt",
+      "tournament_id": "2007-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-nan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-yining",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-asian-championships-ms",
+      "tournament_id": "2009-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2009-asian-championships-ws",
+      "tournament_id": "2009-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2009-asian-championships-md",
+      "tournament_id": "2009-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-asian-championships-wd",
+      "tournament_id": "2009-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-asian-championships-xd",
+      "tournament_id": "2009-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-asian-championships-mt",
+      "tournament_id": "2009-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-liqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吴灏",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2009-asian-championships-wt",
+      "tournament_id": "2009-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吴洋",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2011-asian-championships-ms",
+      "tournament_id": "2011-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2011-asian-championships-ws",
+      "tournament_id": "2011-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2011-asian-championships-md",
+      "tournament_id": "2011-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2011-asian-championships-wd",
+      "tournament_id": "2011-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2011-asian-championships-xd",
+      "tournament_id": "2011-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2011-asian-championships-mt",
+      "tournament_id": "2011-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-hao",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2011-asian-championships-wt",
+      "tournament_id": "2011-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "li-xiaoxia",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-asian-championships-ms",
+      "tournament_id": "2013-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2013-asian-championships-ws",
+      "tournament_id": "2013-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2013-asian-championships-md",
+      "tournament_id": "2013-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ma-lin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-asian-championships-wd",
+      "tournament_id": "2013-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-asian-championships-xd",
+      "tournament_id": "2013-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "2013-asian-championships-mt",
+      "tournament_id": "2013-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "闫安",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周雨",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2013-asian-championships-wt",
+      "tournament_id": "2013-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "guo-yue",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2015-asian-championships-ms",
+      "tournament_id": "2015-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2015-asian-championships-ws",
+      "tournament_id": "2015-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2015-asian-championships-md",
+      "tournament_id": "2015-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2015-asian-championships-wd",
+      "tournament_id": "2015-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "2015-asian-championships-xd",
+      "tournament_id": "2015-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2015-asian-championships-mt",
+      "tournament_id": "2015-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "方博",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2015-asian-championships-wt",
+      "tournament_id": "2015-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "木子",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-asian-championships-ms",
+      "tournament_id": "2017-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "郑尚恩",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2017-asian-championships-ws",
+      "tournament_id": "2017-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "平野美宇",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2017-asian-championships-md",
+      "tournament_id": "2017-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-asian-championships-wd",
+      "tournament_id": "2017-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-asian-championships-xd",
+      "tournament_id": "2017-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "周雨",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-asian-championships-mt",
+      "tournament_id": "2017-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhang-jike",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "崔庆磊",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2017-asian-championships-wt",
+      "tournament_id": "2017-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吴洋",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2019-asian-championships-ms",
+      "tournament_id": "2019-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2019-asian-championships-ws",
+      "tournament_id": "2019-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2019-asian-championships-md",
+      "tournament_id": "2019-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2019-asian-championships-wd",
+      "tournament_id": "2019-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2019-asian-championships-xd",
+      "tournament_id": "2019-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2019-asian-championships-mt",
+      "tournament_id": "2019-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "xu-xin",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2019-asian-championships-wt",
+      "tournament_id": "2019-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ding-ning",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liu-shiwen",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-asian-championships-ms",
+      "tournament_id": "2021-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "李相秀",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-asian-championships-ws",
+      "tournament_id": "2021-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "早田希娜",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2021-asian-championships-md",
+      "tournament_id": "2021-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "2021-asian-championships-wd",
+      "tournament_id": "2021-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "2021-asian-championships-xd",
+      "tournament_id": "2021-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": []
+    },
+    {
+      "id": "2021-asian-championships-mt",
+      "tournament_id": "2021-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "2021-asian-championships-wt",
+      "tournament_id": "2021-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    },
+    {
+      "id": "2023-asian-championships-ms",
+      "tournament_id": "2023-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "lin-yunju",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-asian-championships-ws",
+      "tournament_id": "2023-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-asian-championships-md",
+      "tournament_id": "2023-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2023-asian-championships-wd",
+      "tournament_id": "2023-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": [
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2023-asian-championships-xd",
+      "tournament_id": "2023-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2023-asian-championships-mt",
+      "tournament_id": "2023-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2023-asian-championships-wt",
+      "tournament_id": "2023-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2024-asian-championships-ms",
+      "tournament_id": "2024-asian-championships",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "张本智和",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-asian-championships-ws",
+      "tournament_id": "2024-asian-championships",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "金琴英",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 2,
+          "medal": "silver"
+        }
+      ]
+    },
+    {
+      "id": "2024-asian-championships-md",
+      "tournament_id": "2024-asian-championships",
+      "name": "男子双打",
+      "code": "MEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "2024-asian-championships-wd",
+      "tournament_id": "2024-asian-championships",
+      "name": "女子双打",
+      "code": "WOMEN_DOUBLES",
+      "weight": 1,
+      "results": []
+    },
+    {
+      "id": "2024-asian-championships-xd",
+      "tournament_id": "2024-asian-championships",
+      "name": "混合双打",
+      "code": "MIXED_DOUBLES",
+      "weight": 1.2,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2024-asian-championships-mt",
+      "tournament_id": "2024-asian-championships",
+      "name": "男子团体",
+      "code": "MEN_TEAM",
+      "weight": 0.6,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "周启豪",
+          "rank": 1,
+          "medal": "gold"
+        }
+      ]
+    },
+    {
+      "id": "2024-asian-championships-wt",
+      "tournament_id": "2024-asian-championships",
+      "name": "女子团体",
+      "code": "WOMEN_TEAM",
+      "weight": 0.6,
+      "results": []
+    }
+  ]
+}

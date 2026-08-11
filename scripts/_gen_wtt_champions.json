@@ -1,0 +1,1336 @@
+{
+  "tournaments": [
+    {
+      "id": "2022-wtt-champions-budapest",
+      "name": "WTT布达佩斯冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2022,
+      "start_date": "2022-07-18",
+      "end_date": "2022-07-23",
+      "location": "匈牙利布达佩斯",
+      "edition": "第1站",
+      "participant_count": 64
+    },
+    {
+      "id": "2022-wtt-champions-macao",
+      "name": "WTT澳门冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2022,
+      "start_date": "2022-10-19",
+      "end_date": "2022-10-23",
+      "location": "中国澳门",
+      "edition": "第2站",
+      "participant_count": 64
+    },
+    {
+      "id": "2023-wtt-champions-xinxiang",
+      "name": "WTT新乡冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2023,
+      "start_date": "2023-04-09",
+      "end_date": "2023-04-15",
+      "location": "中国新乡",
+      "edition": "第3站",
+      "participant_count": 64
+    },
+    {
+      "id": "2023-wtt-champions-macao",
+      "name": "WTT澳门冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2023,
+      "start_date": "2023-04-17",
+      "end_date": "2023-04-23",
+      "location": "中国澳门",
+      "edition": "第4站",
+      "participant_count": 64
+    },
+    {
+      "id": "2023-wtt-champions-frankfurt",
+      "name": "WTT法兰克福冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2023,
+      "start_date": "2023-10-29",
+      "end_date": "2023-11-05",
+      "location": "德国法兰克福",
+      "edition": "第5站",
+      "participant_count": 64
+    },
+    {
+      "id": "2024-wtt-champions-incheon",
+      "name": "WTT仁川冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2024,
+      "start_date": "2024-03-21",
+      "end_date": "2024-03-31",
+      "location": "韩国仁川",
+      "edition": "第6站",
+      "participant_count": 64
+    },
+    {
+      "id": "2024-wtt-champions-chongqing",
+      "name": "WTT重庆冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2024,
+      "start_date": "2024-05-30",
+      "end_date": "2024-06-03",
+      "location": "中国重庆",
+      "edition": "第7站",
+      "participant_count": 64
+    },
+    {
+      "id": "2024-wtt-champions-macao",
+      "name": "WTT澳门冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2024,
+      "start_date": "2024-09-09",
+      "end_date": "2024-09-15",
+      "location": "中国澳门",
+      "edition": "第8站",
+      "participant_count": 64
+    },
+    {
+      "id": "2024-wtt-champions-montpellier",
+      "name": "WTT蒙彼利埃冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2024,
+      "start_date": "2024-10-22",
+      "end_date": "2024-10-27",
+      "location": "法国蒙彼利埃",
+      "edition": "第9站",
+      "participant_count": 64
+    },
+    {
+      "id": "2024-wtt-champions-frankfurt",
+      "name": "WTT法兰克福冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2024,
+      "start_date": "2024-11-03",
+      "end_date": "2024-11-10",
+      "location": "德国法兰克福",
+      "edition": "第10站",
+      "participant_count": 64
+    },
+    {
+      "id": "2025-wtt-champions-chongqing",
+      "name": "WTT重庆冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2025,
+      "start_date": "2025-03-11",
+      "end_date": "2025-03-16",
+      "location": "中国重庆",
+      "edition": "第11站",
+      "participant_count": 64
+    },
+    {
+      "id": "2025-wtt-champions-incheon",
+      "name": "WTT仁川冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2025,
+      "start_date": "2025-04-01",
+      "end_date": "2025-04-06",
+      "location": "韩国仁川",
+      "edition": "第12站",
+      "participant_count": 64
+    },
+    {
+      "id": "2025-wtt-champions-yokohama",
+      "name": "WTT横滨冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2025,
+      "start_date": "2025-08-07",
+      "end_date": "2025-08-11",
+      "location": "日本横滨",
+      "edition": "第13站",
+      "participant_count": 64
+    },
+    {
+      "id": "2025-wtt-champions-macao",
+      "name": "WTT澳门冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2025,
+      "start_date": "2025-09-09",
+      "end_date": "2025-09-14",
+      "location": "中国澳门",
+      "edition": "第14站",
+      "participant_count": 64
+    },
+    {
+      "id": "2025-wtt-champions-montpellier",
+      "name": "WTT蒙彼利埃冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2025,
+      "start_date": "2025-10-28",
+      "end_date": "2025-11-02",
+      "location": "法国蒙彼利埃",
+      "edition": "第15站",
+      "participant_count": 64
+    },
+    {
+      "id": "2025-wtt-champions-frankfurt",
+      "name": "WTT法兰克福冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2025,
+      "start_date": "2025-11-04",
+      "end_date": "2025-11-09",
+      "location": "德国法兰克福",
+      "edition": "第16站",
+      "participant_count": 64
+    },
+    {
+      "id": "2026-wtt-champions-doha",
+      "name": "WTT多哈冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2026,
+      "start_date": "2026-01-07",
+      "end_date": "2026-01-11",
+      "location": "卡塔尔多哈",
+      "edition": "第17站",
+      "participant_count": 64
+    },
+    {
+      "id": "2026-wtt-champions-chongqing",
+      "name": "WTT重庆冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2026,
+      "start_date": "2026-03-10",
+      "end_date": "2026-03-15",
+      "location": "中国重庆",
+      "edition": "第18站",
+      "participant_count": 64
+    },
+    {
+      "id": "2026-wtt-champions-yokohama",
+      "name": "WTT横滨冠军赛",
+      "type": "wtt_champions",
+      "level": "B",
+      "year": 2026,
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-09",
+      "location": "日本横滨",
+      "edition": "第19站",
+      "participant_count": 64
+    }
+  ],
+  "events": [
+    {
+      "id": "2022-wtt-champions-budapest-ms",
+      "tournament_id": "2022-wtt-champions-budapest",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "张本智和",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "lin-gaoyuan",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "帕特里克·弗朗西斯卡",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "庄智渊",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2022-wtt-champions-budapest-ws",
+      "tournament_id": "2022-wtt-champions-budapest",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2022-wtt-champions-macao-ms",
+      "tournament_id": "2022-wtt-champions-macao",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "特鲁斯·莫雷加德",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2022-wtt-champions-macao-ws",
+      "tournament_id": "2022-wtt-champions-macao",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "伊藤美诚",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "袁嘉楠",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-champions-xinxiang-ms",
+      "tournament_id": "2023-wtt-champions-xinxiang",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "林钟勋",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-champions-xinxiang-ws",
+      "tournament_id": "2023-wtt-champions-xinxiang",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-champions-macao-ms",
+      "tournament_id": "2023-wtt-champions-macao",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张本智和",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "艾利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-champions-macao-ws",
+      "tournament_id": "2023-wtt-champions-macao",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-champions-frankfurt-ms",
+      "tournament_id": "2023-wtt-champions-frankfurt",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林昀儒",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2023-wtt-champions-frankfurt-ws",
+      "tournament_id": "2023-wtt-champions-frankfurt",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "早田希娜",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-incheon-ms",
+      "tournament_id": "2024-wtt-champions-incheon",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "雨果·卡尔德拉诺",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "ma-long",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-incheon-ws",
+      "tournament_id": "2024-wtt-champions-incheon",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-chongqing-ms",
+      "tournament_id": "2024-wtt-champions-chongqing",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "fan-zhendong",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "雨果·卡尔德拉诺",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "邱党",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-chongqing-ws",
+      "tournament_id": "2024-wtt-champions-chongqing",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "chen-meng",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-macao-ms",
+      "tournament_id": "2024-wtt-champions-macao",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邱党",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "高承睿",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-macao-ws",
+      "tournament_id": "2024-wtt-champions-macao",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-montpellier-ms",
+      "tournament_id": "2024-wtt-champions-montpellier",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本智和",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "贝内迪克特·杜达",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-montpellier-ws",
+      "tournament_id": "2024-wtt-champions-montpellier",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "大藤沙月",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "郑怡静",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "钱天一",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-frankfurt-ms",
+      "tournament_id": "2024-wtt-champions-frankfurt",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林诗栋",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "卡尔伯格",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "特鲁斯·莫雷加德",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2024-wtt-champions-frankfurt-ws",
+      "tournament_id": "2024-wtt-champions-frankfurt",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-chongqing-ms",
+      "tournament_id": "2025-wtt-champions-chongqing",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张本智和",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "liang-jingkun",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-chongqing-ws",
+      "tournament_id": "2025-wtt-champions-chongqing",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-incheon-ms",
+      "tournament_id": "2025-wtt-champions-incheon",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "向鹏",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "李尚洙",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "帕特里克·弗朗西斯卡",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "林昀儒",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-incheon-ws",
+      "tournament_id": "2025-wtt-champions-incheon",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-yokohama-ms",
+      "tournament_id": "2025-wtt-champions-yokohama",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "张本智和",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "卡纳克·贾哈",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "特鲁斯·莫雷加德",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-yokohama-ws",
+      "tournament_id": "2025-wtt-champions-yokohama",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "陈幸同",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "石洵瑶",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-macao-ms",
+      "tournament_id": "2025-wtt-champions-macao",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-chuqin",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "雨果·卡尔德拉诺",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张禹珍",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "安德斯·林德",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-macao-ws",
+      "tournament_id": "2025-wtt-champions-macao",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "sun-yingsha",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "wang-manyu",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-montpellier-ms",
+      "tournament_id": "2025-wtt-champions-montpellier",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "特鲁斯·莫雷加德",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "松岛辉空",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "张禹珍",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "艾利克斯·勒布伦",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-montpellier-ws",
+      "tournament_id": "2025-wtt-champions-montpellier",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "萨比娜·温特",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "朱芊曦",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-frankfurt-ms",
+      "tournament_id": "2025-wtt-champions-frankfurt",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "松岛辉空",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "邱党",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "安德斯·林德",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "李尚洙",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2025-wtt-champions-frankfurt-ws",
+      "tournament_id": "2025-wtt-champions-frankfurt",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "早田希娜",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张本美和",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "伊藤美诚",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "申裕斌",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-champions-doha-ms",
+      "tournament_id": "2026-wtt-champions-doha",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "林昀儒",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "张禹珍",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "林诗栋",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "张本智和",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-champions-doha-ws",
+      "tournament_id": "2026-wtt-champions-doha",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "zhu-yuling",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "韩莹",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-champions-chongqing-ms",
+      "tournament_id": "2026-wtt-champions-chongqing",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "费利克斯·勒布伦",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "温瑞博",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "松岛辉空",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "张本智和",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-champions-chongqing-ws",
+      "tournament_id": "2026-wtt-champions-chongqing",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "张本美和",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "大藤沙月",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-champions-yokohama-ms",
+      "tournament_id": "2026-wtt-champions-yokohama",
+      "name": "男子单打",
+      "code": "MEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "张本智和",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "吴晙诚",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "松岛辉空",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "篠塚大登",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    },
+    {
+      "id": "2026-wtt-champions-yokohama-ws",
+      "tournament_id": "2026-wtt-champions-yokohama",
+      "name": "女子单打",
+      "code": "WOMEN_SINGLES",
+      "weight": 1.5,
+      "results": [
+        {
+          "athlete_id": "张本美和",
+          "rank": 1,
+          "medal": "gold"
+        },
+        {
+          "athlete_id": "陈幸同",
+          "rank": 2,
+          "medal": "silver"
+        },
+        {
+          "athlete_id": "蒯曼",
+          "rank": 3,
+          "medal": "bronze"
+        },
+        {
+          "athlete_id": "wang-yidi",
+          "rank": 3,
+          "medal": "bronze"
+        }
+      ]
+    }
+  ]
+}
