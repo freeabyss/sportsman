@@ -13,7 +13,7 @@
       <div class="card-body">
         <div class="formula-section">
           <div class="formula-item">
-            <span class="formula-label">荣耀积分</span>
+            <span class="formula-label">积分</span>
             <span class="formula-eq">=</span>
             <span class="formula-tag">奖牌积分</span>
             <span class="formula-op">+</span>
@@ -113,7 +113,7 @@
             </span>
           </div>
           <div class="top3-score">{{ item.glory_score }}</div>
-          <div class="top3-score-label">荣耀积分</div>
+          <div class="top3-score-label">积分</div>
           <div class="top3-medals">
             <span class="medal-badge medal-gold-badge">🥇 {{ item.medals.gold }}</span>
             <span class="medal-badge medal-silver-badge">🥈 {{ item.medals.silver }}</span>
@@ -185,7 +185,7 @@
               <th style="width: 60px;">排名</th>
               <th>运动员</th>
               <th style="width: 90px;">状态</th>
-              <th style="width: 100px;">荣耀积分</th>
+              <th style="width: 100px;">积分</th>
               <th style="width: 70px;">🥇 金牌</th>
               <th style="width: 70px;">🥈 银牌</th>
               <th style="width: 70px;">🥉 铜牌</th>

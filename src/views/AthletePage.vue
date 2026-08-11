@@ -80,7 +80,7 @@
       <div class="grid-4" style="margin-bottom: 20px;">
         <div class="stat-card">
           <div class="stat-value">{{ stats.glory_score }}</div>
-          <div class="stat-label">荣耀积分</div>
+          <div class="stat-label">积分</div>
         </div>
         <div class="stat-card">
           <div class="stat-value medal-stats">

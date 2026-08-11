@@ -24,7 +24,7 @@
       <div class="card score-hero-card" style="margin-bottom: 20px;">
         <div class="card-body score-hero-body">
           <div class="score-hero-left">
-            <div class="score-hero-label">总荣耀积分</div>
+            <div class="score-hero-label">总积分</div>
             <div class="score-hero-value">{{ totalScore }}</div>
             <div class="score-hero-sub">{{ athlete.name }}</div>
           </div>
