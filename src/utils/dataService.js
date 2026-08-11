@@ -157,12 +157,15 @@ export function getAllAthleteStats() {
 /**
  * 获取排名列表
  */
-export function getRankings(filter = 'all') {
+export function getRankings(filter = 'all', gender = 'all') {
   const allStats = getAllAthleteStats()
 
   let filtered = allStats
   if (filter === 'active') {
     filtered = allStats.filter(s => s.athlete.career_status === 'active')
+  }
+  if (gender !== 'all') {
+    filtered = filtered.filter(s => s.athlete.gender === gender)
   }
 
   // 按荣耀积分排序

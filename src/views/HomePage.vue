@@ -1,7 +1,7 @@
 <template>
   <div class="home-page">
     <!-- 页面标题 -->
-    <h1 class="page-title">中国乒乓球队荣耀榜</h1>
+    <h1 class="page-title">中国乒乓球队排行榜</h1>
     <p class="page-subtitle">1988年至今 · 基于奥运会、世锦赛、世界杯及国内外重要赛事成绩计算</p>
 
     <!-- 积分公式说明 -->
@@ -142,17 +142,34 @@
 
     <!-- 筛选栏 -->
     <div class="filter-bar">
-      <span class="filter-label">筛选：</span>
+      <span class="filter-label">状态：</span>
       <button
         class="filter-chip"
         :class="{ active: currentFilter === 'all' }"
         @click="setFilter('all')"
-      >综合荣耀</button>
+      >综合</button>
       <button
         class="filter-chip"
         :class="{ active: currentFilter === 'active' }"
         @click="setFilter('active')"
       >现役球员</button>
+      <span class="filter-divider"></span>
+      <span class="filter-label">性别：</span>
+      <button
+        class="filter-chip"
+        :class="{ active: currentGender === 'all' }"
+        @click="setGender('all')"
+      >全部</button>
+      <button
+        class="filter-chip"
+        :class="{ active: currentGender === 'male' }"
+        @click="setGender('male')"
+      >男</button>
+      <button
+        class="filter-chip"
+        :class="{ active: currentGender === 'female' }"
+        @click="setGender('female')"
+      >女</button>
     </div>
 
     <!-- 完整排名表 -->
@@ -243,13 +260,18 @@ import { getRankings, getStatusInfo } from '../utils/dataService.js'
 
 const router = useRouter()
 const currentFilter = ref('all')
+const currentGender = ref('all')
 
-const rankings = computed(() => getRankings(currentFilter.value))
+const rankings = computed(() => getRankings(currentFilter.value, currentGender.value))
 
 const top3 = computed(() => rankings.value.slice(0, 3))
 
 function setFilter(filter) {
   currentFilter.value = filter
+}
+
+function setGender(gender) {
+  currentGender.value = gender
 }
 
 function goToAthlete(id) {
@@ -543,6 +565,13 @@ function goToAthlete(id) {
   font-size: 14px;
   color: #666;
   font-weight: 500;
+}
+
+.filter-divider {
+  width: 1px;
+  height: 18px;
+  background: #e8e8e8;
+  margin: 0 4px;
 }
 
 /* 表格 */

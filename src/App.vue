@@ -4,10 +4,10 @@
       <div class="header-content">
         <router-link to="/" class="logo">
           <span class="logo-icon">🏓</span>
-          <span class="logo-text">国乒荣耀榜</span>
+          <span class="logo-text">国乒排行榜</span>
         </router-link>
         <nav class="nav-links">
-          <router-link to="/" class="nav-link">荣耀榜</router-link>
+          <router-link to="/" class="nav-link">排行榜</router-link>
           <router-link to="/tournaments" class="nav-link">赛事</router-link>
         </nav>
       </div>
@@ -17,7 +17,7 @@
     </main>
     <footer class="app-footer">
       <div class="footer-content">
-        <p>国乒荣耀榜 · 1988年至今 · 排名公式 v1.0</p>
+        <p>国乒排行榜 · 1988年至今 · 排名公式 v1.0</p>
         <p class="footer-note">数据来源：ITTF、中国乒乓球协会、WTT官方数据</p>
       </div>
     </footer>

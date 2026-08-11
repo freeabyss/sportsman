@@ -13,7 +13,7 @@
     <template v-else>
       <!-- 面包屑导航 -->
       <div class="breadcrumb">
-        <router-link to="/">荣耀榜</router-link>
+        <router-link to="/">排行榜</router-link>
         <span class="separator">/</span>
         <span>{{ athlete.name }}</span>
       </div>
