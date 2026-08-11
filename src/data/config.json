@@ -1,35 +1,23 @@
 {
   "formula_version": "v1.0",
   "formula_date": "2026-08",
-  "tournament_levels": {
-    "S": { "score": 100, "label": "S级", "description": "奥运会、世锦赛、世界杯" },
-    "A+": { "score": 85, "label": "A+级", "description": "WTT大满贯、WTT总决赛、全运会" },
-    "A": { "score": 70, "label": "A级", "description": "亚运会、亚锦赛、全国锦标赛" },
-    "B": { "score": 45, "label": "B级", "description": "WTT冠军赛、公开赛、巡回赛" },
-    "C": { "score": 20, "label": "C级", "description": "其他正式赛事" }
+  "evaluation_target": "中国乒乓球运动员个人历史竞技成就",
+  "major_tournaments": ["olympics", "world_championships", "world_cup"],
+  "tournament_weight": 100,
+  "project_weights": {
+    "MEN_SINGLES": 1.00,
+    "WOMEN_SINGLES": 1.00,
+    "MEN_DOUBLES": 0.60,
+    "WOMEN_DOUBLES": 0.60,
+    "MIXED_DOUBLES": 0.60,
+    "MEN_TEAM": 0.30,
+    "WOMEN_TEAM": 0.30,
+    "MIXED_TEAM": 0.30
   },
   "medal_weights": {
-    "gold": 10,
-    "silver": 6,
-    "bronze": 3
-  },
-  "event_weights": {
-    "MEN_SINGLES": 1.5,
-    "WOMEN_SINGLES": 1.5,
-    "MIXED_DOUBLES": 1.2,
-    "MEN_DOUBLES": 1.0,
-    "WOMEN_DOUBLES": 1.0,
-    "MEN_TEAM": 0.6,
-    "WOMEN_TEAM": 0.6,
-    "MIXED_TEAM": 0.6
-  },
-  "ranking_coefficients": {
-    "1": 1.0,
-    "2": 0.6,
-    "3": 0.3,
-    "4-8": 0.1,
-    "9-16": 0.05,
-    "17-32": 0.02
+    "gold": 1.00,
+    "silver": 0.60,
+    "bronze": 0.35
   },
   "dominance_weights": {
     "career_win_rate": 0.4,

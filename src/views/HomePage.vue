@@ -2,72 +2,85 @@
   <div class="home-page">
     <!-- 页面标题 -->
     <h1 class="page-title">中国乒乓球队排行榜</h1>
-    <p class="page-subtitle">1988年至今 · 基于奥运会、世锦赛、世界杯及国内外重要赛事成绩计算</p>
+    <p class="page-subtitle">1988年至今 · 基于奥运会、世锦赛、世界杯成绩计算个人历史竞技成就</p>
 
     <!-- 积分公式说明 -->
     <div class="card formula-card" style="margin-bottom: 24px;">
       <div class="card-header">
-        <span>积分计算规则</span>
-        <span class="formula-version">公式 v1.0</span>
+        <span>积分计算规则（V1.0）</span>
+        <span class="formula-version">仅统计三大赛</span>
       </div>
       <div class="card-body">
         <div class="formula-section">
           <div class="formula-item">
             <span class="formula-label">积分</span>
             <span class="formula-eq">=</span>
-            <span class="formula-tag">奖牌积分</span>
-            <span class="formula-op">+</span>
-            <span class="formula-tag">成绩积分</span>
+            <span class="formula-tag">赛事权重</span>
+            <span class="formula-op">×</span>
+            <span class="formula-tag">项目权重</span>
+            <span class="formula-op">×</span>
+            <span class="formula-tag">奖牌权重</span>
           </div>
           <div class="formula-detail">
             <div class="formula-sub">
-              <span class="formula-tag formula-tag-sub">奖牌积分</span>
+              <span>三大赛赛事权重统一为</span>
+              <span class="formula-coeff">100</span>
+              <span class="formula-eq">→</span>
+              <span class="formula-tag formula-tag-sub">积分</span>
               <span class="formula-eq">=</span>
-              <span>赛事等级分</span>
+              <span>100</span>
+              <span class="formula-op">×</span>
+              <span>项目权重</span>
               <span class="formula-op">×</span>
               <span>奖牌权重</span>
-              <span class="formula-op">×</span>
-              <span>项目权重</span>
-            </div>
-            <div class="formula-sub">
-              <span class="formula-tag formula-tag-sub">成绩积分</span>
-              <span class="formula-eq">=</span>
-              <span>赛事等级分</span>
-              <span class="formula-op">×</span>
-              <span>项目权重</span>
-              <span class="formula-op">×</span>
-              <span>排名系数</span>
             </div>
           </div>
         </div>
         <div class="formula-weights">
           <div class="weight-group">
-            <span class="weight-title">赛事等级</span>
+            <span class="weight-title">赛事（均 100）</span>
             <div class="weight-items">
-              <span class="weight-chip weight-s">S级 · 100</span>
-              <span class="weight-chip weight-aplus">A+级 · 85</span>
-              <span class="weight-chip weight-a">A级 · 70</span>
-              <span class="weight-chip weight-b">B级 · 45</span>
-              <span class="weight-chip weight-c">C级 · 20</span>
-            </div>
-          </div>
-          <div class="weight-group">
-            <span class="weight-title">奖牌权重</span>
-            <div class="weight-items">
-              <span class="weight-chip medal-gold-chip">🥇 金 · 10</span>
-              <span class="weight-chip medal-silver-chip">🥈 银 · 6</span>
-              <span class="weight-chip medal-bronze-chip">🥉 铜 · 3</span>
+              <span class="weight-chip weight-s">奥运会</span>
+              <span class="weight-chip weight-s">世锦赛</span>
+              <span class="weight-chip weight-s">世界杯</span>
             </div>
           </div>
           <div class="weight-group">
             <span class="weight-title">项目权重</span>
             <div class="weight-items">
-              <span class="weight-chip">单打 · 1.5</span>
-              <span class="weight-chip">混双 · 1.2</span>
-              <span class="weight-chip">双打 · 1.0</span>
-              <span class="weight-chip">团体 · 0.6</span>
+              <span class="weight-chip">单打 · 1.00</span>
+              <span class="weight-chip">双打 · 0.60</span>
+              <span class="weight-chip">混双 · 0.60</span>
+              <span class="weight-chip">团体 · 0.30</span>
             </div>
           </div>
+          <div class="weight-group">
+            <span class="weight-title">奖牌权重</span>
+            <div class="weight-items">
+              <span class="weight-chip medal-gold-chip">🥇 金 · 1.00</span>
+              <span class="weight-chip medal-silver-chip">🥈 银 · 0.60</span>
+              <span class="weight-chip medal-bronze-chip">🥉 铜 · 0.35</span>
+            </div>
+          </div>
+        </div>
+        <div class="formula-matrix">
+          <table class="data-table score-matrix">
+            <thead>
+              <tr>
+                <th>项目</th>
+                <th style="text-align:center;">🥇 金</th>
+                <th style="text-align:center;">🥈 银</th>
+                <th style="text-align:center;">🥉 铜</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>单打</td><td class="matrix-gold">100</td><td>60</td><td>35</td></tr>
+              <tr><td>双打</td><td class="matrix-gold">60</td><td>36</td><td>21</td></tr>
+              <tr><td>混双</td><td class="matrix-gold">60</td><td>36</td><td>21</td></tr>
+              <tr><td>团体</td><td class="matrix-gold">30</td><td>18</td><td>10.5</td></tr>
+            </tbody>
+          </table>
+          <p class="formula-matrix-note">V1.0：仅奥运会 / 世锦赛 / 世界杯，金、银、铜均计分，同届不同项目可累加。</p>
         </div>
         <div class="formula-section">
           <div class="formula-item">
@@ -85,6 +98,7 @@
             <span class="formula-op">×</span>
             <span class="formula-coeff">0.2</span>
           </div>
+          <p class="formula-matrix-note">统治力指数为辅助展示指标，不计入 V1.0 积分。</p>
         </div>
       </div>
     </div>
@@ -412,6 +426,49 @@ function goToAthlete(id) {
 .medal-gold-chip { border-color: #ffd700; color: #b8860b; background: #fffbe6; }
 .medal-silver-chip { border-color: #c0c0c0; color: #888; background: #fafafa; }
 .medal-bronze-chip { border-color: #cd7f32; color: #a0522d; background: #fdf2ec; }
+
+/* 积分矩阵表 */
+.formula-matrix {
+  margin-top: 4px;
+}
+
+.score-matrix {
+  width: 100%;
+  max-width: 420px;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.score-matrix th,
+.score-matrix td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #f0f0f0;
+  text-align: center;
+}
+
+.score-matrix th {
+  background: #fafafa;
+  font-weight: 600;
+  color: #666;
+}
+
+.score-matrix td:first-child {
+  text-align: left;
+  font-weight: 600;
+  color: #333;
+}
+
+.score-matrix .matrix-gold {
+  color: #b8860b;
+  font-weight: 700;
+}
+
+.formula-matrix-note {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: #999;
+  line-height: 1.6;
+}
 
 /* TOP 3 卡片 */
 .top3-card {

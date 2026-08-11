@@ -107,7 +107,7 @@
           <table class="data-table medal-matrix-table">
             <thead>
               <tr>
-                <th style="width: 80px;">赛事等级</th>
+                <th style="width: 80px;">赛事</th>
                 <th v-for="code in eventColumns" :key="code" style="text-align: center;">
                   {{ getEventLabel(code) }}
                 </th>
@@ -116,8 +116,8 @@
             <tbody>
               <tr v-for="level in matrixLevels" :key="level">
                 <td>
-                  <span class="level-badge" :class="`level-${level.replace('+', 'plus')}`">
-                    {{ getLevelLabel(level) }}
+                  <span class="level-badge type-badge">
+                    {{ getCompetitionTypeLabel(level) }}
                   </span>
                 </td>
                 <td
@@ -148,7 +148,7 @@
                 <td :colspan="eventColumns.length + 1">
                   <div class="matrix-detail">
                     <div class="matrix-detail-header">
-                      <span>{{ getLevelLabel(expandedCell.level) }} · {{ getEventLabel(expandedCell.code) }}</span>
+                      <span>{{ getCompetitionTypeLabel(expandedCell.level) }} · {{ getEventLabel(expandedCell.code) }}</span>
                       <button class="btn btn-sm btn-outline" @click="expandedCell = null">关闭</button>
                     </div>
                     <table class="data-table detail-table">
@@ -186,7 +186,7 @@
 
       <!-- 5. 职业赛事记录 -->
       <div class="card" style="margin-bottom: 20px;">
-        <div class="card-header"><span>职业赛事记录</span></div>
+        <div class="card-header"><span>三大赛成绩记录</span></div>
         <div class="card-body">
           <!-- 事件类型筛选 -->
           <div class="filter-bar">
@@ -379,7 +379,7 @@ import { useRoute } from 'vue-router'
 import {
   getAthlete, getAthleteStats, getAthleteMedalMatrix,
   getAthleteContributions, getAthleteMatches, getStatusInfo,
-  getEventLabel, getLevelLabel, getRoundLabel, getAthletes, getTournaments, getEvents
+  getEventLabel, getCompetitionTypeLabel, getRoundLabel, getAthletes, getTournaments, getEvents
 } from '../utils/dataService.js'
 import { calcWinRates, getTopRivals } from '../utils/stats.js'
 
@@ -398,7 +398,7 @@ const yearFilter = ref('all')
 
 const medalEmoji = { gold: '🥇', silver: '🥈', bronze: '🥉' }
 const medalLabel = { gold: '金牌', silver: '银牌', bronze: '铜牌' }
-const matrixLevels = ['S', 'A+', 'A']
+const matrixLevels = ['olympics', 'world_championships', 'world_cup']
 
 const athleteId = computed(() => route.params.id)
 const statusInfo = computed(() => {
@@ -689,6 +689,7 @@ onMounted(() => {
 .level-S { background: #fffbe6; color: #b8860b; border: 1px solid #ffd700; }
 .level-Aplus { background: #f9f0ff; color: #722ed1; border: 1px solid #d3adf7; }
 .level-A { background: #e6f4ff; color: #0958d9; border: 1px solid #91caff; }
+.type-badge { background: #fffbe6; color: #b8860b; border: 1px solid #ffd700; }
 
 .matrix-cell {
   text-align: center;

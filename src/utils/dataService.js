@@ -3,7 +3,7 @@ import tournamentsData from '../data/tournaments.json'
 import eventsData from '../data/events.json'
 import matchesData from '../data/matches.json'
 import competitionTypesData from '../data/competition-types.json'
-import { calcAthleteGloryScore, calcTournamentTypeContributions, calcEventTypeContributions } from './scoring'
+import { calcAthleteGloryScore, calcTournamentTypeContributions, calcEventTypeContributions, isMajorTournament } from './scoring'
 import { calcWinRates, calcDominanceIndex } from './stats'
 
 /**
@@ -137,6 +137,7 @@ export function getAllAthleteStats() {
       medal_score: gloryScore.medal_score,
       ranking_score: gloryScore.ranking_score,
       medals: gloryScore.medals,
+      tie_breakers: gloryScore.tie_breakers,
       event_contributions: gloryScore.event_contributions,
       career_win_rate: winRates.career_win_rate,
       china_internal_win_rate: winRates.china_internal_win_rate,
@@ -168,12 +169,14 @@ export function getRankings(filter = 'all', gender = 'all') {
     filtered = filtered.filter(s => s.athlete.gender === gender)
   }
 
-  // 按荣耀积分排序
+  // 按总积分排序，积分相同则使用 V1.0 辅助排序指标
   filtered = [...filtered].sort((a, b) => {
     if (b.glory_score !== a.glory_score) return b.glory_score - a.glory_score
-    if (b.medals.gold !== a.medals.gold) return b.medals.gold - a.medals.gold
-    if (b.medals.silver !== a.medals.silver) return b.medals.silver - a.medals.silver
-    if (b.medals.bronze !== a.medals.bronze) return b.medals.bronze - a.medals.bronze
+    const ta = a.tie_breakers || {}, tb = b.tie_breakers || {}
+    if (tb.singles_gold !== ta.singles_gold) return tb.singles_gold - ta.singles_gold
+    if (tb.singles_medal !== ta.singles_medal) return tb.singles_medal - ta.singles_medal
+    if (tb.all_gold !== ta.all_gold) return tb.all_gold - ta.all_gold
+    if (tb.all_medal !== ta.all_medal) return tb.all_medal - ta.all_medal
     return 0
   })
 
@@ -220,9 +223,9 @@ export function getAthleteMedalMatrix(athleteId) {
       if (result.athlete_id !== athleteId || !result.medal) return
 
       const tournament = tournaments.find(t => t.id === event.tournament_id)
-      if (!tournament) return
+      if (!tournament || !isMajorTournament(tournament)) return
 
-      const key = tournament.level
+      const key = tournament.type
       if (!matrix[key]) {
         matrix[key] = {
           MEN_SINGLES: [],
@@ -281,6 +284,13 @@ export function getEventLabel(code) {
     'MIXED_TEAM': '混团'
   }
   return labels[code] || code
+}
+
+/**
+ * 获取赛事类型简称（奥运会 / 世锦赛 / 世界杯 ...）
+ */
+export function getCompetitionTypeLabel(type) {
+  return getCompetitionType(type)?.short_name || type
 }
 
 /**

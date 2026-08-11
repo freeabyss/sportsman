@@ -29,73 +29,46 @@
             <div class="score-hero-sub">{{ athlete.name }}</div>
           </div>
           <div class="score-hero-right">
-            <!-- 积分公式 -->
             <div class="breakdown-equation">
-              <div class="breakdown-term">
-                <div class="term-label">奖牌积分</div>
-                <div class="term-value">{{ stats?.medal_score ?? 0 }}</div>
-              </div>
-              <div class="breakdown-op">+</div>
-              <div class="breakdown-term">
-                <div class="term-label">成绩积分</div>
-                <div class="term-value">{{ stats?.ranking_score ?? 0 }}</div>
-              </div>
-              <div class="breakdown-op">=</div>
               <div class="breakdown-term breakdown-term-total">
-                <div class="term-label">总计</div>
+                <div class="term-label">总积分（奖牌）</div>
                 <div class="term-value">{{ totalScore }}</div>
               </div>
             </div>
-            <!-- 堆叠条形图 -->
-            <div class="breakdown-bar">
-              <div class="breakdown-segment medal-segment" :style="{ width: medalPct + '%' }"></div>
-              <div class="breakdown-segment ranking-segment" :style="{ width: rankingPct + '%' }"></div>
-            </div>
-            <!-- 图例 -->
-            <div class="breakdown-legend">
-              <div class="legend-item">
-                <span class="legend-dot medal-dot"></span>
-                <span>奖牌积分 {{ stats?.medal_score ?? 0 }} ({{ medalPct }}%)</span>
-              </div>
-              <div class="legend-item">
-                <span class="legend-dot ranking-dot"></span>
-                <span>成绩积分 {{ stats?.ranking_score ?? 0 }} ({{ rankingPct }}%)</span>
-              </div>
-            </div>
+            <p class="breakdown-note">V1.0：仅统计奥运会 / 世锦赛 / 世界杯的奖牌成绩，金、银、铜均计分，同届不同项目可累加。</p>
           </div>
         </div>
       </div>
 
-      <!-- 赛事等级贡献 -->
+      <!-- 三大赛贡献 -->
       <div class="card" style="margin-bottom: 20px;">
         <div class="card-header">
-          <span>赛事等级贡献</span>
-          <span class="table-count">按赛事等级分组</span>
+          <span>三大赛贡献</span>
+          <span class="table-count">按赛事分组</span>
         </div>
         <div class="card-body">
           <div v-if="tournamentLevels.length === 0" class="empty-inline">
             暂无赛事贡献数据
           </div>
           <div
-            v-for="level in tournamentLevels"
-            :key="level"
+            v-for="type in tournamentLevels"
+            :key="type"
             class="contribution-group"
           >
             <div class="contribution-summary">
-              <span class="level-badge" :class="`level-${level.replace('+', 'plus')}`">
-                {{ getLevelLabel(level) }}
+              <span class="level-badge type-badge">
+                {{ getCompetitionTypeLabel(type) }}
               </span>
               <div class="contribution-bar-wrap">
                 <div class="contribution-bar">
                   <div
-                    class="contribution-fill"
-                    :class="`fill-${level.replace('+', 'plus')}`"
-                    :style="{ width: getTournamentPct(level) + '%' }"
+                    class="contribution-fill fill-major"
+                    :style="{ width: getTournamentPct(type) + '%' }"
                   ></div>
                 </div>
               </div>
-              <span class="contribution-score">{{ getTournamentScore(level).toFixed(2) }}</span>
-              <span class="contribution-pct">{{ getTournamentPct(level) }}%</span>
+              <span class="contribution-score">{{ getTournamentScore(type).toFixed(2) }}</span>
+              <span class="contribution-pct">{{ getTournamentPct(type) }}%</span>
             </div>
             <div style="overflow-x: auto;">
               <table class="data-table contribution-table">
@@ -109,7 +82,7 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <tr v-for="(evt, idx) in getTournamentEvents(level)" :key="idx">
+                  <tr v-for="(evt, idx) in getTournamentEvents(type)" :key="idx">
                     <td>{{ evt.year }}</td>
                     <td>{{ evt.tournament_name }}</td>
                     <td>{{ evt.event_name }}</td>
@@ -120,7 +93,7 @@
                       <span v-else>第{{ evt.rank }}名</span>
                     </td>
                     <td style="text-align: right; font-weight: 600;">
-                      {{ ((evt.medal_score || 0) + (evt.ranking_score || 0)).toFixed(2) }}
+                      {{ (evt.medal_score || 0).toFixed(2) }}
                     </td>
                   </tr>
                 </tbody>
@@ -177,7 +150,7 @@ import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import {
   getAthlete, getAthleteStats, getAthleteContributions,
-  getLevelLabel, getEventLabel
+  getCompetitionTypeLabel, getEventLabel
 } from '../utils/dataService.js'
 
 const route = useRoute()
@@ -188,26 +161,16 @@ const stats = ref(null)
 const contributionsData = ref(null)
 
 const medalEmoji = { gold: '🥇', silver: '🥈', bronze: '🥉' }
-const levelOrder = ['S', 'A+', 'A', 'B', 'C']
+const typeOrder = ['olympics', 'world_championships', 'world_cup']
 
 const athleteId = computed(() => route.params.id)
 const totalScore = computed(() => stats.value?.glory_score || 0)
 
-const medalPct = computed(() => {
-  if (!totalScore.value) return 0
-  return Math.round((stats.value.medal_score / totalScore.value) * 100)
-})
-
-const rankingPct = computed(() => {
-  if (!totalScore.value) return 0
-  return Math.round((stats.value.ranking_score / totalScore.value) * 100)
-})
-
 const tournamentLevels = computed(() => {
   if (!contributionsData.value?.by_tournament) return []
-  return levelOrder.filter(level =>
-    contributionsData.value.by_tournament[level] &&
-    contributionsData.value.by_tournament[level].score > 0
+  return typeOrder.filter(type =>
+    contributionsData.value.by_tournament[type] &&
+    contributionsData.value.by_tournament[type].score > 0
   )
 })
 
@@ -219,17 +182,17 @@ const eventCodes = computed(() => {
     .sort((a, b) => byEvent[b].score - byEvent[a].score)
 })
 
-function getTournamentScore(level) {
-  return contributionsData.value?.by_tournament?.[level]?.score || 0
+function getTournamentScore(type) {
+  return contributionsData.value?.by_tournament?.[type]?.score || 0
 }
 
-function getTournamentPct(level) {
+function getTournamentPct(type) {
   if (!totalScore.value) return 0
-  return Math.round((getTournamentScore(level) / totalScore.value) * 100)
+  return Math.round((getTournamentScore(type) / totalScore.value) * 100)
 }
 
-function getTournamentEvents(level) {
-  const events = contributionsData.value?.by_tournament?.[level]?.events || []
+function getTournamentEvents(type) {
+  const events = contributionsData.value?.by_tournament?.[type]?.events || []
   return [...events].sort((a, b) => b.year - a.year)
 }
 
@@ -533,6 +496,16 @@ onMounted(() => {
 .level-A { background: #e6f4ff; color: #0958d9; border: 1px solid #91caff; }
 .level-B { background: #f6ffed; color: #389e0d; border: 1px solid #95de64; }
 .level-C { background: #fff2f0; color: #d4142a; border: 1px solid #ffccc7; }
+
+.type-badge { background: #fffbe6; color: #b8860b; border: 1px solid #ffd700; }
+.fill-major { background: linear-gradient(90deg, #ffd700, #b8860b); }
+
+.breakdown-note {
+  font-size: 12px;
+  color: #999;
+  margin: 4px 0 0;
+  line-height: 1.6;
+}
 
 .medal-badge-cell {
   display: inline-flex;
