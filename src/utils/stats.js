@@ -1,5 +1,3 @@
-import config from '../data/config.json'
-
 /**
  * 计算运动员的胜率统计
  */
@@ -75,19 +73,6 @@ export function calcWinRates(athleteId, matches, tournaments) {
 }
 
 /**
- * 计算统治力指数
- * 统治力 = 生涯胜率×40 + 中国内部胜率×40 + 顶级赛事胜率×20
- */
-export function calcDominanceIndex(winRates) {
-  const { dominance_weights } = config
-  const score = 
-    winRates.career_win_rate * dominance_weights.career_win_rate +
-    winRates.china_internal_win_rate * dominance_weights.china_internal_win_rate +
-    winRates.elite_win_rate * dominance_weights.elite_win_rate
-  return Math.round(score * 100) / 100
-}
-
-/**
  * 辅助：通过event_id查找赛事
  */
 function findTournamentByEvent(eventId, tournaments) {
@@ -112,19 +97,4 @@ export function getTopRivals(rivals, limit = 10) {
     }))
     .sort((a, b) => b.total - a.total)
     .slice(0, limit)
-}
-
-/**
- * 计算排名（按荣耀积分排序）
- */
-export function rankAthletes(athleteStats) {
-  return [...athleteStats]
-    .sort((a, b) => {
-      if (b.glory_score !== a.glory_score) return b.glory_score - a.glory_score
-      if (b.medals.gold !== a.medals.gold) return b.medals.gold - a.medals.gold
-      if (b.medals.silver !== a.medals.silver) return b.medals.silver - a.medals.silver
-      if (b.medals.bronze !== a.medals.bronze) return b.medals.bronze - a.medals.bronze
-      return 0
-    })
-    .map((item, index) => ({ ...item, rank: index + 1 }))
 }

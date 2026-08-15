@@ -1,36 +1,12 @@
 {
-  "formula_version": "v1.0",
-  "formula_date": "2026-08",
+  "rule_version": "v1.0",
+  "rule_date": "2026-08",
   "evaluation_target": "中国乒乓球运动员个人历史竞技成就",
   "major_tournaments": ["olympics", "world_championships", "world_cup"],
-  "tournament_weight": 100,
-  "project_weights": {
-    "MEN_SINGLES": 1.00,
-    "WOMEN_SINGLES": 1.00,
-    "MEN_DOUBLES": 0.60,
-    "WOMEN_DOUBLES": 0.60,
-    "MIXED_DOUBLES": 0.60,
-    "MEN_TEAM": 0.30,
-    "WOMEN_TEAM": 0.30,
-    "MIXED_TEAM": 0.30
-  },
-  "medal_weights": {
-    "gold": 1.50,
-    "silver": 0.60,
-    "bronze": 0.35
-  },
-  "dominance_weights": {
-    "career_win_rate": 0.4,
-    "china_internal_win_rate": 0.4,
-    "elite_win_rate": 0.2
-  },
-  "round_labels": {
-    "R128": "128强",
-    "R64": "64强",
-    "R32": "32强",
-    "R16": "16强",
-    "QF": "1/4决赛",
-    "SF": "半决赛",
-    "FINAL": "决赛"
+  "category_order": ["singles", "doubles", "team"],
+  "category_codes": {
+    "singles": ["MEN_SINGLES", "WOMEN_SINGLES"],
+    "doubles": ["MEN_DOUBLES", "WOMEN_DOUBLES", "MIXED_DOUBLES"],
+    "team": ["MEN_TEAM", "WOMEN_TEAM", "MIXED_TEAM"]
   }
 }

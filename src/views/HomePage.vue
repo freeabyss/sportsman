@@ -2,104 +2,25 @@
   <div class="home-page">
     <!-- 页面标题 -->
     <h1 class="page-title">中国乒乓球队排行榜</h1>
-    <p class="page-subtitle">1988年至今 · 基于奥运会、世锦赛、世界杯成绩计算个人历史竞技成就</p>
+    <p class="page-subtitle">1988年至今 · 按奥运会、世锦赛、世界杯三大赛奖牌数排名</p>
 
-    <!-- 积分公式说明 -->
-    <div class="card formula-card" style="margin-bottom: 24px;">
+    <!-- 排名规则说明 -->
+    <div class="card rule-card" style="margin-bottom: 24px;">
       <div class="card-header">
-        <span>积分计算规则（V1.0）</span>
+        <span>排名规则（V1.0）</span>
         <span class="formula-version">仅统计三大赛</span>
       </div>
       <div class="card-body">
-        <div class="formula-section">
-          <div class="formula-item">
-            <span class="formula-label">积分</span>
-            <span class="formula-eq">=</span>
-            <span class="formula-tag">赛事权重</span>
-            <span class="formula-op">×</span>
-            <span class="formula-tag">项目权重</span>
-            <span class="formula-op">×</span>
-            <span class="formula-tag">奖牌权重</span>
-          </div>
-          <div class="formula-detail">
-            <div class="formula-sub">
-              <span>三大赛赛事权重统一为</span>
-              <span class="formula-coeff">100</span>
-              <span class="formula-eq">→</span>
-              <span class="formula-tag formula-tag-sub">积分</span>
-              <span class="formula-eq">=</span>
-              <span>100</span>
-              <span class="formula-op">×</span>
-              <span>项目权重</span>
-              <span class="formula-op">×</span>
-              <span>奖牌权重</span>
-            </div>
-          </div>
-        </div>
-        <div class="formula-weights">
-          <div class="weight-group">
-            <span class="weight-title">赛事（均 100）</span>
-            <div class="weight-items">
-              <span class="weight-chip weight-s">奥运会</span>
-              <span class="weight-chip weight-s">世锦赛</span>
-              <span class="weight-chip weight-s">世界杯</span>
-            </div>
-          </div>
-          <div class="weight-group">
-            <span class="weight-title">项目权重</span>
-            <div class="weight-items">
-              <span class="weight-chip">单打 · 1.00</span>
-              <span class="weight-chip">双打 · 0.60</span>
-              <span class="weight-chip">混双 · 0.60</span>
-              <span class="weight-chip">团体 · 0.30</span>
-            </div>
-          </div>
-          <div class="weight-group">
-            <span class="weight-title">奖牌权重</span>
-            <div class="weight-items">
-              <span class="weight-chip medal-gold-chip">🥇 金 · 1.50</span>
-              <span class="weight-chip medal-silver-chip">🥈 银 · 0.60</span>
-              <span class="weight-chip medal-bronze-chip">🥉 铜 · 0.35</span>
-            </div>
-          </div>
-        </div>
-        <div class="formula-matrix">
-          <table class="data-table score-matrix">
-            <thead>
-              <tr>
-                <th>项目</th>
-                <th style="text-align:center;">🥇 金</th>
-                <th style="text-align:center;">🥈 银</th>
-                <th style="text-align:center;">🥉 铜</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr><td>单打</td><td class="matrix-gold">150</td><td>60</td><td>35</td></tr>
-              <tr><td>双打</td><td class="matrix-gold">90</td><td>36</td><td>21</td></tr>
-              <tr><td>混双</td><td class="matrix-gold">90</td><td>36</td><td>21</td></tr>
-              <tr><td>团体</td><td class="matrix-gold">45</td><td>18</td><td>10.5</td></tr>
-            </tbody>
-          </table>
-          <p class="formula-matrix-note">V1.0：仅奥运会 / 世锦赛 / 世界杯，金、银、铜均计分，同届不同项目可累加。</p>
-        </div>
-        <div class="formula-section">
-          <div class="formula-item">
-            <span class="formula-label">统治力指数</span>
-            <span class="formula-eq">=</span>
-            <span>生涯胜率</span>
-            <span class="formula-op">×</span>
-            <span class="formula-coeff">0.4</span>
-            <span class="formula-op">+</span>
-            <span>内战胜率</span>
-            <span class="formula-op">×</span>
-            <span class="formula-coeff">0.4</span>
-            <span class="formula-op">+</span>
-            <span>顶级赛事胜率</span>
-            <span class="formula-op">×</span>
-            <span class="formula-coeff">0.2</span>
-          </div>
-          <p class="formula-matrix-note">统治力指数为辅助展示指标，不计入 V1.0 积分。</p>
-        </div>
+        <p class="rule-text">
+          排名仅依据运动员在<strong>奥运会、世界乒乓球锦标赛、乒乓球世界杯</strong>中获得的奖牌，
+          按以下优先级从高到低排序：
+        </p>
+        <ol class="rule-list">
+          <li><strong>单打</strong>奖牌（金 &gt; 银 &gt; 铜 &gt; 总数）</li>
+          <li><strong>双打 / 混双</strong>奖牌（金 &gt; 银 &gt; 铜 &gt; 总数）</li>
+          <li><strong>团体</strong>奖牌（金 &gt; 银 &gt; 铜 &gt; 总数）</li>
+        </ol>
+        <p class="formula-matrix-note">同一层级内先比金牌数，再比银牌、铜牌，最后比奖牌总数；同届不同项目奖牌全部计入，不区分赛事品牌。</p>
       </div>
     </div>
 
@@ -126,8 +47,8 @@
               {{ getStatusInfo(item.athlete.career_status).label }}
             </span>
           </div>
-          <div class="top3-score">{{ item.glory_score }}</div>
-          <div class="top3-score-label">积分</div>
+          <div class="top3-score">{{ item.medals.gold + item.medals.silver + item.medals.bronze }}</div>
+          <div class="top3-score-label">三大赛奖牌</div>
           <div class="top3-medals">
             <span class="medal-badge medal-gold-badge">🥇 {{ item.medals.gold }}</span>
             <span class="medal-badge medal-silver-badge">🥈 {{ item.medals.silver }}</span>
@@ -135,12 +56,16 @@
           </div>
           <div class="top3-stats">
             <div class="top3-stat-item">
-              <span class="top3-stat-value">{{ item.dominance_index }}</span>
-              <span class="top3-stat-label">统治力</span>
+              <span class="top3-stat-value">{{ item.categories.singles.gold }}</span>
+              <span class="top3-stat-label">单打金</span>
             </div>
             <div class="top3-stat-item">
-              <span class="top3-stat-value">{{ item.total_matches }}</span>
-              <span class="top3-stat-label">总场次</span>
+              <span class="top3-stat-value">{{ item.categories.doubles.gold }}</span>
+              <span class="top3-stat-label">双打金</span>
+            </div>
+            <div class="top3-stat-item">
+              <span class="top3-stat-value">{{ item.categories.team.gold }}</span>
+              <span class="top3-stat-label">团体金</span>
             </div>
           </div>
           <div class="top3-tags">
@@ -195,17 +120,16 @@
       <div style="overflow-x: auto;">
         <table class="data-table">
           <thead>
-            <tr>
-              <th style="width: 60px;">排名</th>
-              <th>运动员</th>
-              <th style="width: 90px;">状态</th>
-              <th style="width: 100px;">积分</th>
-              <th style="width: 70px;">🥇 金牌</th>
-              <th style="width: 70px;">🥈 银牌</th>
-              <th style="width: 70px;">🥉 铜牌</th>
-              <th style="width: 80px;">统治力</th>
-              <th style="width: 110px;">职业时间</th>
-            </tr>
+              <tr>
+                <th style="width: 60px;">排名</th>
+                <th>运动员</th>
+                <th style="width: 90px;">状态</th>
+                <th style="width: 90px;">单打<br /><span class="th-sub">金/总</span></th>
+                <th style="width: 90px;">双打<br /><span class="th-sub">金/总</span></th>
+                <th style="width: 90px;">团体<br /><span class="th-sub">金/总</span></th>
+                <th style="width: 80px;">金牌合计</th>
+                <th style="width: 110px;">职业时间</th>
+              </tr>
           </thead>
           <tbody>
             <tr
@@ -238,22 +162,15 @@
                 </span>
               </td>
               <td>
-                <span class="score-cell">{{ item.glory_score }}</span>
+                <span class="cat-cell"><b>{{ item.categories.singles.gold }}</b> / {{ item.categories.singles.total }}</span>
+              </td>
+              <td>
+                <span class="cat-cell"><b>{{ item.categories.doubles.gold }}</b> / {{ item.categories.doubles.total }}</span>
+              </td>
+              <td>
+                <span class="cat-cell"><b>{{ item.categories.team.gold }}</b> / {{ item.categories.team.total }}</span>
               </td>
               <td><span class="medal-count medal-gold-text">{{ item.medals.gold }}</span></td>
-              <td><span class="medal-count medal-silver-text">{{ item.medals.silver }}</span></td>
-              <td><span class="medal-count medal-bronze-text">{{ item.medals.bronze }}</span></td>
-              <td>
-                <div class="dominance-cell">
-                  <div class="dominance-bar">
-                    <div
-                      class="dominance-fill"
-                      :style="{ width: item.dominance_index + '%' }"
-                    ></div>
-                  </div>
-                  <span class="dominance-value">{{ item.dominance_index }}</span>
-                </div>
-              </td>
               <td>
                 <span class="career-time">
                   {{ item.athlete.career_start }}–{{ item.athlete.career_end || '至今' }}
@@ -296,6 +213,56 @@ function goToAthlete(id) {
 <style scoped>
 .home-page {
   max-width: 100%;
+}
+
+/* 排名规则卡片 */
+.rule-card .card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.rule-text {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+}
+
+.rule-text strong {
+  color: #d4142a;
+}
+
+.rule-list {
+  margin: 0;
+  padding-left: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.6;
+}
+
+.rule-list strong {
+  color: #222;
+}
+
+.th-sub {
+  font-size: 11px;
+  font-weight: 400;
+  color: #aaa;
+}
+
+.cat-cell {
+  font-size: 14px;
+  color: #555;
+  white-space: nowrap;
+}
+
+.cat-cell b {
+  color: #b8860b;
+  font-size: 15px;
 }
 
 /* 公式卡片 */

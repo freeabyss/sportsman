@@ -3,8 +3,7 @@ import tournamentsData from '../data/tournaments.json'
 import eventsData from '../data/events.json'
 import matchesData from '../data/matches.json'
 import competitionTypesData from '../data/competition-types.json'
-import { calcAthleteGloryScore, calcTournamentTypeContributions, calcEventTypeContributions, isMajorTournament } from './scoring'
-import { calcWinRates, calcDominanceIndex } from './stats'
+import { calcMedalStats, isMajorTournament } from './scoring'
 
 /**
  * 数据服务层 - 加载和处理所有数据
@@ -124,31 +123,15 @@ export function getAllAthleteStats() {
   const athletes = getAthletes()
   const events = getEvents()
   const tournaments = getTournaments()
-  const matches = getMatches()
 
   _athleteStats = athletes.map(athlete => {
-    const gloryScore = calcAthleteGloryScore(athlete.id, events, tournaments)
-    const winRates = calcWinRates(athlete.id, matches, tournaments)
-    const dominanceIndex = calcDominanceIndex(winRates)
+    const medalStats = calcMedalStats(athlete.id, events, tournaments)
 
     return {
       athlete,
-      glory_score: gloryScore.total_score,
-      medal_score: gloryScore.medal_score,
-      ranking_score: gloryScore.ranking_score,
-      medals: gloryScore.medals,
-      tie_breakers: gloryScore.tie_breakers,
-      event_contributions: gloryScore.event_contributions,
-      career_win_rate: winRates.career_win_rate,
-      china_internal_win_rate: winRates.china_internal_win_rate,
-      elite_win_rate: winRates.elite_win_rate,
-      dominance_index: dominanceIndex,
-      total_matches: winRates.total_matches,
-      total_wins: winRates.total_wins,
-      china_internal_matches: winRates.china_internal_matches,
-      china_internal_wins: winRates.china_internal_wins,
-      elite_matches: winRates.elite_matches,
-      elite_wins: winRates.elite_wins
+      medals: medalStats.medals,
+      categories: medalStats.categories,
+      achievements: medalStats.achievements
     }
   })
 
@@ -169,14 +152,18 @@ export function getRankings(filter = 'all', gender = 'all') {
     filtered = filtered.filter(s => s.athlete.gender === gender)
   }
 
-  // 按总积分排序，积分相同则使用 V1.0 辅助排序指标
+  // 排名规则：单打 > 双打 > 团体；同类别内 金 > 银 > 铜 > 总数
+  const MEDAL_ORDER = ['gold', 'silver', 'bronze']
+  const CATEGORY_ORDER = ['singles', 'doubles', 'team']
   filtered = [...filtered].sort((a, b) => {
-    if (b.glory_score !== a.glory_score) return b.glory_score - a.glory_score
-    const ta = a.tie_breakers || {}, tb = b.tie_breakers || {}
-    if (tb.singles_gold !== ta.singles_gold) return tb.singles_gold - ta.singles_gold
-    if (tb.singles_medal !== ta.singles_medal) return tb.singles_medal - ta.singles_medal
-    if (tb.all_gold !== ta.all_gold) return tb.all_gold - ta.all_gold
-    if (tb.all_medal !== ta.all_medal) return tb.all_medal - ta.all_medal
+    for (const cat of CATEGORY_ORDER) {
+      for (const m of MEDAL_ORDER) {
+        const diff = b.categories[cat][m] - a.categories[cat][m]
+        if (diff !== 0) return diff
+      }
+      const diffTotal = b.categories[cat].total - a.categories[cat].total
+      if (diffTotal !== 0) return diffTotal
+    }
     return 0
   })
 
@@ -195,18 +182,12 @@ export function getAthleteStats(athleteId) {
 }
 
 /**
- * 获取运动员的赛事贡献详细
+ * 获取运动员的奖牌成绩列表（用于成绩记录表）
  */
-export function getAthleteContributions(athleteId) {
+export function getAthleteAchievements(athleteId) {
   const allStats = getAllAthleteStats()
   const stats = allStats.find(s => s.athlete.id === athleteId)
-  if (!stats) return null
-
-  return {
-    by_tournament: calcTournamentTypeContributions(stats.event_contributions),
-    by_event: calcEventTypeContributions(stats.event_contributions),
-    contributions: stats.event_contributions
-  }
+  return stats?.achievements || []
 }
 
 /**

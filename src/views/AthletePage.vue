@@ -79,8 +79,16 @@
       <!-- 3. 荣誉概览 -->
       <div class="grid-4" style="margin-bottom: 20px;">
         <div class="stat-card">
-          <div class="stat-value">{{ stats.glory_score }}</div>
-          <div class="stat-label">积分</div>
+          <div class="stat-value medal-gold-text">{{ stats.categories.singles.gold }}</div>
+          <div class="stat-label">单打金牌</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value medal-gold-text">{{ stats.categories.doubles.gold }}</div>
+          <div class="stat-label">双打金牌</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value medal-gold-text">{{ stats.categories.team.gold }}</div>
+          <div class="stat-label">团体金牌</div>
         </div>
         <div class="stat-card">
           <div class="stat-value medal-stats">
@@ -89,14 +97,6 @@
             <span class="medal-icon medal-bronze" style="margin-left: 8px;">🥉</span>{{ stats.medals.bronze }}
           </div>
           <div class="stat-label">奖牌统计</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-value">{{ stats.dominance_index }}</div>
-          <div class="stat-label">统治力指数</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-value">{{ stats.total_matches }}</div>
-          <div class="stat-label">总比赛场次</div>
         </div>
       </div>
 
@@ -228,25 +228,21 @@
                   <th>赛事</th>
                   <th>项目</th>
                   <th>成绩</th>
-                  <th style="text-align: right;">得分</th>
                 </tr>
               </thead>
               <tbody>
                 <tr v-if="filteredContributions.length === 0">
-                  <td colspan="5" style="text-align: center; color: #999; padding: 40px;">暂无记录</td>
+                  <td colspan="4" style="text-align: center; color: #999; padding: 40px;">暂无记录</td>
                 </tr>
                 <tr v-for="(c, idx) in filteredContributions" :key="idx">
                   <td>{{ c.year }}</td>
                   <td>{{ c.tournament_name }}</td>
                   <td>{{ c.event_name }}</td>
                   <td>
-                    <span v-if="c.medal" class="medal-badge-cell" :class="`medal-badge-${c.medal}`">
+                    <span class="medal-badge-cell" :class="`medal-badge-${c.medal}`">
                       {{ medalEmoji[c.medal] }}
                     </span>
-                    <span v-else-if="c.rank">第{{ c.rank }}名</span>
-                    <span v-else>-</span>
                   </td>
-                  <td style="text-align: right; font-weight: 600;">{{ formatScore(c) }}</td>
                 </tr>
               </tbody>
             </table>
@@ -378,7 +374,7 @@ import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import {
   getAthlete, getAthleteStats, getAthleteMedalMatrix,
-  getAthleteContributions, getAthleteMatches, getStatusInfo,
+  getAthleteAchievements, getAthleteMatches, getStatusInfo,
   getEventLabel, getCompetitionTypeLabel, getRoundLabel, getAthletes, getTournaments, getEvents
 } from '../utils/dataService.js'
 import { calcWinRates, getTopRivals } from '../utils/stats.js'
@@ -502,11 +498,6 @@ function getMatchScore(match) {
   return isPlayerA ? `${scoreA}-${scoreB}` : `${scoreB}-${scoreA}`
 }
 
-function formatScore(c) {
-  const score = (c.medal_score || 0) + (c.ranking_score || 0)
-  return score > 0 ? score.toFixed(2) : '-'
-}
-
 function getAthleteName(id) {
   return athleteMap.value[id] || id
 }
@@ -526,8 +517,7 @@ onMounted(() => {
 
   stats.value = getAthleteStats(id)
   medalMatrix.value = getAthleteMedalMatrix(id)
-  const contribData = getAthleteContributions(id)
-  contributions.value = contribData?.contributions || []
+  contributions.value = getAthleteAchievements(id)
   allMatches.value = getAthleteMatches(id)
 
   // 计算对手数据

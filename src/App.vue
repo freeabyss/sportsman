@@ -17,7 +17,7 @@
     </main>
     <footer class="app-footer">
       <div class="footer-content">
-        <p>国乒排行榜 · 1988年至今 · 排名公式 v1.0</p>
+        <p>国乒排行榜 · 1988年至今 · 排名规则 v1.0</p>
         <p class="footer-note">数据来源：ITTF、中国乒乓球协会、WTT官方数据</p>
       </div>
     </footer>
