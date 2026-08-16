@@ -3,7 +3,7 @@ import tournamentsData from '../data/tournaments.json'
 import eventsData from '../data/events.json'
 import matchesData from '../data/matches.json'
 import competitionTypesData from '../data/competition-types.json'
-import { calcMedalStats, isMajorTournament } from './scoring'
+import { calcMedalStats } from './scoring'
 
 /**
  * 数据服务层 - 加载和处理所有数据
@@ -202,7 +202,7 @@ export function getAthleteMedalMatrix(athleteId) {
       if (result.athlete_id !== athleteId || !result.medal) return
 
       const tournament = tournaments.find(t => t.id === event.tournament_id)
-      if (!tournament || !isMajorTournament(tournament)) return
+      if (!tournament) return
 
       const key = tournament.type
       if (!matrix[key]) {
@@ -232,6 +232,37 @@ export function getAthleteMedalMatrix(athleteId) {
   })
 
   return matrix
+}
+
+/**
+ * 获取运动员全部赛事的奖牌成绩（覆盖所有比赛类型，不限于三大赛）
+ * 用于运动员详情页的「比赛记录」与「所有奖牌」汇总。
+ */
+export function getAthleteAllAchievements(athleteId) {
+  const events = getEvents()
+  const tournaments = getTournaments()
+
+  const result = []
+  events.forEach(event => {
+    const tournament = tournaments.find(t => t.id === event.tournament_id)
+    if (!tournament) return
+
+    event.results.forEach(r => {
+      if (r.athlete_id !== athleteId || !r.medal) return
+      result.push({
+        tournament_id: tournament.id,
+        tournament_name: tournament.name,
+        tournament_type: tournament.type,
+        event_id: event.id,
+        event_name: event.name,
+        event_code: event.code,
+        year: tournament.year,
+        medal: r.medal
+      })
+    })
+  })
+
+  return result
 }
 
 /**

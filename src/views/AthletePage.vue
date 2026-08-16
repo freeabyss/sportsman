@@ -92,11 +92,11 @@
         </div>
         <div class="stat-card">
           <div class="stat-value medal-stats">
-            <span class="medal-icon medal-gold">🥇</span>{{ stats.medals.gold }}
-            <span class="medal-icon medal-silver" style="margin-left: 8px;">🥈</span>{{ stats.medals.silver }}
-            <span class="medal-icon medal-bronze" style="margin-left: 8px;">🥉</span>{{ stats.medals.bronze }}
+            <span class="medal-icon medal-gold">🥇</span>{{ allMedals.gold }}
+            <span class="medal-icon medal-silver" style="margin-left: 8px;">🥈</span>{{ allMedals.silver }}
+            <span class="medal-icon medal-bronze" style="margin-left: 8px;">🥉</span>{{ allMedals.bronze }}
           </div>
-          <div class="stat-label">奖牌统计</div>
+          <div class="stat-label">所有奖牌</div>
         </div>
       </div>
 
@@ -186,7 +186,7 @@
 
       <!-- 5. 职业赛事记录 -->
       <div class="card" style="margin-bottom: 20px;">
-        <div class="card-header"><span>三大赛成绩记录</span></div>
+        <div class="card-header"><span>比赛记录</span></div>
         <div class="card-body">
           <!-- 事件类型筛选 -->
           <div class="filter-bar">
@@ -374,8 +374,9 @@ import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import {
   getAthlete, getAthleteStats, getAthleteMedalMatrix,
-  getAthleteAchievements, getAthleteMatches, getStatusInfo,
-  getEventLabel, getCompetitionTypeLabel, getRoundLabel, getAthletes, getTournaments, getEvents
+  getAthleteAllAchievements, getAthleteMatches, getStatusInfo,
+  getEventLabel, getCompetitionTypeLabel, getRoundLabel, getAthletes, getTournaments, getEvents,
+  getCompetitionTypes
 } from '../utils/dataService.js'
 import { calcWinRates, getTopRivals } from '../utils/stats.js'
 
@@ -394,7 +395,18 @@ const yearFilter = ref('all')
 
 const medalEmoji = { gold: '🥇', silver: '🥈', bronze: '🥉' }
 const medalLabel = { gold: '金牌', silver: '银牌', bronze: '铜牌' }
-const matrixLevels = ['olympics', 'world_championships', 'world_cup']
+const matrixLevels = computed(() =>
+  getCompetitionTypes().slice().sort((a, b) => a.rank - b.rank).map(t => t.type)
+)
+
+// 所有赛事的奖牌汇总（金/银/铜，覆盖全部比赛类型）
+const allMedals = computed(() => {
+  const m = { gold: 0, silver: 0, bronze: 0 }
+  contributions.value.forEach(c => {
+    if (m[c.medal] !== undefined) m[c.medal]++
+  })
+  return m
+})
 
 const athleteId = computed(() => route.params.id)
 const statusInfo = computed(() => {
@@ -517,7 +529,7 @@ onMounted(() => {
 
   stats.value = getAthleteStats(id)
   medalMatrix.value = getAthleteMedalMatrix(id)
-  contributions.value = getAthleteAchievements(id)
+  contributions.value = getAthleteAllAchievements(id)
   allMatches.value = getAthleteMatches(id)
 
   // 计算对手数据

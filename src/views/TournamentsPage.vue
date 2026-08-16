@@ -58,7 +58,7 @@
             <div class="tournament-location">{{ t.location }}</div>
           </div>
           <div class="tournament-footer">
-            <span class="tournament-type-tag">{{ getTypeLabel(t.type) }}</span>
+            <span class="tournament-type-tag">{{ getCompetitionTypeLabel(t.type) }}</span>
             <span v-if="t.edition" class="tournament-edition">{{ t.edition }}</span>
           </div>
         </div>
@@ -70,7 +70,7 @@
 <script setup>
 import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
-import { getTournaments, getLevelLabel } from '../utils/dataService.js'
+import { getTournaments, getLevelLabel, getCompetitionTypes, getCompetitionTypeLabel } from '../utils/dataService.js'
 
 const router = useRouter()
 
@@ -84,41 +84,13 @@ const levelOptions = [
   { value: 'A', label: 'A级' }
 ]
 
-const typeOptions = [
-  { value: 'all', label: '全部' },
-  { value: 'olympics', label: '奥运会' },
-  { value: 'world_championships', label: '世锦赛' },
-  { value: 'world_cup', label: '世界杯' },
-  { value: 'wtt', label: 'WTT' },
-  { value: 'asian', label: '亚洲赛事' },
-  { value: 'national', label: '国内赛事' }
-]
-
-const typeLabels = {
-  olympics: '奥运会',
-  world_championships: '世锦赛',
-  world_cup: '世界杯',
-  wtt_grand_smash: 'WTT大满贯',
-  wtt_finals: 'WTT总决赛',
-  national_games: '全运会',
-  asian_games: '亚运会',
-  asian_championships: '亚锦赛',
-  national_championships: '全国锦标赛'
-}
-
-function getTypeCategory(type) {
-  if (type === 'olympics') return 'olympics'
-  if (type === 'world_championships') return 'world_championships'
-  if (type === 'world_cup') return 'world_cup'
-  if (type.startsWith('wtt')) return 'wtt'
-  if (type.startsWith('asian')) return 'asian'
-  if (type.startsWith('national')) return 'national'
-  return type
-}
-
-function getTypeLabel(type) {
-  return typeLabels[type] || type
-}
+const typeOptions = computed(() => {
+  const types = getCompetitionTypes()
+  return [
+    { value: 'all', label: '全部' },
+    ...types.map(t => ({ value: t.type, label: t.short_name }))
+  ]
+})
 
 const tournaments = computed(() => getTournaments())
 
@@ -130,7 +102,7 @@ const filteredTournaments = computed(() => {
   }
 
   if (typeFilter.value !== 'all') {
-    result = result.filter(t => getTypeCategory(t.type) === typeFilter.value)
+    result = result.filter(t => t.type === typeFilter.value)
   }
 
   return [...result].sort((a, b) => b.year - a.year)
