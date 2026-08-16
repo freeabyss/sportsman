@@ -124,10 +124,10 @@
                 <th style="width: 60px;">排名</th>
                 <th>运动员</th>
                 <th style="width: 90px;">状态</th>
-                <th style="width: 90px;">单打<br /><span class="th-sub">金/总</span></th>
-                <th style="width: 90px;">双打<br /><span class="th-sub">金/总</span></th>
-                <th style="width: 90px;">团体<br /><span class="th-sub">金/总</span></th>
-                <th style="width: 80px;">金牌合计</th>
+                <th style="width: 120px;">单打<br /><span class="th-sub">金/银/铜</span></th>
+                <th style="width: 120px;">双打<br /><span class="th-sub">金/银/铜</span></th>
+                <th style="width: 120px;">团体<br /><span class="th-sub">金/银/铜</span></th>
+                <th style="width: 120px;">奖牌合计<br /><span class="th-sub">金/银/铜</span></th>
                 <th style="width: 110px;">职业时间</th>
               </tr>
           </thead>
@@ -162,15 +162,25 @@
                 </span>
               </td>
               <td>
-                <span class="cat-cell"><b>{{ item.categories.singles.gold }}</b> / {{ item.categories.singles.total }}</span>
+                <span class="cat-cell">
+                  <b class="m-gold">{{ item.categories.singles.gold }}</b><span class="m-slash">/</span><span class="m-silver">{{ item.categories.singles.silver }}</span><span class="m-slash">/</span><span class="m-bronze">{{ item.categories.singles.bronze }}</span>
+                </span>
               </td>
               <td>
-                <span class="cat-cell"><b>{{ item.categories.doubles.gold }}</b> / {{ item.categories.doubles.total }}</span>
+                <span class="cat-cell">
+                  <b class="m-gold">{{ item.categories.doubles.gold }}</b><span class="m-slash">/</span><span class="m-silver">{{ item.categories.doubles.silver }}</span><span class="m-slash">/</span><span class="m-bronze">{{ item.categories.doubles.bronze }}</span>
+                </span>
               </td>
               <td>
-                <span class="cat-cell"><b>{{ item.categories.team.gold }}</b> / {{ item.categories.team.total }}</span>
+                <span class="cat-cell">
+                  <b class="m-gold">{{ item.categories.team.gold }}</b><span class="m-slash">/</span><span class="m-silver">{{ item.categories.team.silver }}</span><span class="m-slash">/</span><span class="m-bronze">{{ item.categories.team.bronze }}</span>
+                </span>
               </td>
-              <td><span class="medal-count medal-gold-text">{{ item.medals.gold }}</span></td>
+              <td>
+                <span class="cat-cell">
+                  <b class="m-gold">{{ item.medals.gold }}</b><span class="m-slash">/</span><span class="m-silver">{{ item.medals.silver }}</span><span class="m-slash">/</span><span class="m-bronze">{{ item.medals.bronze }}</span>
+                </span>
+              </td>
               <td>
                 <span class="career-time">
                   {{ item.athlete.career_start }}–{{ item.athlete.career_end || '至今' }}
@@ -263,6 +273,24 @@ function goToAthlete(id) {
 .cat-cell b {
   color: #b8860b;
   font-size: 15px;
+}
+
+.m-gold {
+  color: #b8860b;
+  font-weight: 700;
+}
+
+.m-silver {
+  color: #888;
+}
+
+.m-bronze {
+  color: #a0522d;
+}
+
+.m-slash {
+  color: #ddd;
+  margin: 0 3px;
 }
 
 /* 公式卡片 */
