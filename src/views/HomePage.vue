@@ -16,11 +16,11 @@
           按以下优先级从高到低排序：
         </p>
         <ol class="rule-list">
-          <li><strong>单打</strong>奖牌（金 &gt; 银 &gt; 铜 &gt; 总数）</li>
-          <li><strong>双打 / 混双</strong>奖牌（金 &gt; 银 &gt; 铜 &gt; 总数）</li>
-          <li><strong>团体</strong>奖牌（金 &gt; 银 &gt; 铜 &gt; 总数）</li>
+          <li><strong>单打</strong>奖牌（金 &gt; 银 &gt; 铜）</li>
+          <li><strong>双打 / 混双</strong>奖牌（金 &gt; 银 &gt; 铜）</li>
+          <li><strong>团体</strong>奖牌（金 &gt; 银 &gt; 铜）</li>
         </ol>
-        <p class="formula-matrix-note">同一层级内先比金牌数，再比银牌、铜牌，最后比奖牌总数；同届不同项目奖牌全部计入，不区分赛事品牌。</p>
+        <p class="formula-matrix-note">同一层级内先比金牌数，再比银牌、铜牌；同届不同项目奖牌全部计入，不区分赛事品牌。</p>
       </div>
     </div>
 

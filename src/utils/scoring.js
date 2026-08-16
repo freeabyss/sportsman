@@ -19,7 +19,7 @@ export function isMajorTournament(tournament) {
  * - achievements: 所有奖牌成绩列表（用于成绩记录表）
  *
  * 排名规则（dataService.getRankings 使用）：
- *   单打 > 双打 > 团体；同类别内 金 > 银 > 铜 > 总数。
+ *   单打 > 双打 > 团体；同类别内 金 > 银 > 铜。
  */
 export function calcMedalStats(athleteId, events, tournaments) {
   const categories = {

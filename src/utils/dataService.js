@@ -152,7 +152,7 @@ export function getRankings(filter = 'all', gender = 'all') {
     filtered = filtered.filter(s => s.athlete.gender === gender)
   }
 
-  // 排名规则：单打 > 双打 > 团体；同类别内 金 > 银 > 铜 > 总数
+  // 排名规则：单打 > 双打 > 团体；同类别内 金 > 银 > 铜
   const MEDAL_ORDER = ['gold', 'silver', 'bronze']
   const CATEGORY_ORDER = ['singles', 'doubles', 'team']
   filtered = [...filtered].sort((a, b) => {
@@ -161,8 +161,6 @@ export function getRankings(filter = 'all', gender = 'all') {
         const diff = b.categories[cat][m] - a.categories[cat][m]
         if (diff !== 0) return diff
       }
-      const diffTotal = b.categories[cat].total - a.categories[cat].total
-      if (diffTotal !== 0) return diffTotal
     }
     return 0
   })
