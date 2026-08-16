@@ -2197,13 +2197,13 @@
   },
   {
     "id": "2024-wtt-finals",
-    "name": "WTT总决赛",
+    "name": "2024年WTT总决赛",
     "type": "wtt_finals",
     "level": "A+",
     "year": 2024,
     "start_date": "2024-12-10",
     "end_date": "2024-12-15",
-    "location": "待定",
+    "location": "日本福冈",
     "edition": "2024",
     "participant_count": 32
   },

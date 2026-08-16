@@ -1047,35 +1047,6 @@
     ]
   },
   {
-    "id": "2018-world-cup-ws-ms",
-    "tournament_id": "2018-world-cup-ws",
-    "name": "女子单打",
-    "code": "WOMEN_SINGLES",
-    "weight": 1.5,
-    "results": [
-      {
-        "athlete_id": "ding-ning",
-        "rank": 1,
-        "medal": "gold"
-      },
-      {
-        "athlete_id": "zhu-yuling",
-        "rank": 2,
-        "medal": "silver"
-      },
-      {
-        "athlete_id": "kasumi-ishikawa",
-        "rank": 3,
-        "medal": "bronze"
-      },
-      {
-        "athlete_id": "cheng-i-ching",
-        "rank": 3,
-        "medal": "bronze"
-      }
-    ]
-  },
-  {
     "id": "1926-world-championships-ms",
     "tournament_id": "1926-world-championships",
     "name": "男子单打",
@@ -12098,7 +12069,12 @@
         "medal": "silver"
       },
       {
-        "athlete_id": "郑怡静",
+        "athlete_id": "kasumi-ishikawa",
+        "rank": 3,
+        "medal": "bronze"
+      },
+      {
+        "athlete_id": "cheng-i-ching",
         "rank": 3,
         "medal": "bronze"
       }
